@@ -1,0 +1,1669 @@
+{
+ "engines": {
+  "g170": {
+   "own_d_after_pass": {
+    "ring": {
+     "doomed": 0.986,
+     "safe": 0.993,
+     "safe_minus_doomed": [
+      0.007,
+      0.005,
+      0.009
+     ],
+     "auc": 0.832,
+     "auc_by_libs": {
+      "5": 0.851,
+      "7": 0.824
+     }
+    },
+    "edge": {
+     "doomed": -0.326,
+     "safe": 0.967,
+     "safe_minus_doomed": [
+      1.293,
+      1.182,
+      1.396
+     ],
+     "auc": 1.0,
+     "auc_by_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    }
+   },
+   "value_after_pass": {
+    "ring": {
+     "doomed": 0.063,
+     "safe": 0.078,
+     "safe_minus_doomed": [
+      0.015,
+      -0.062,
+      0.093
+     ],
+     "auc": 0.539,
+     "auc_by_libs": {
+      "5": 0.498,
+      "7": 0.574
+     }
+    },
+    "edge": {
+     "doomed": 0.07,
+     "safe": 0.388,
+     "safe_minus_doomed": [
+      0.317,
+      0.209,
+      0.429
+     ],
+     "auc": 0.703,
+     "auc_by_libs": {
+      "5": 0.767,
+      "7": 0.637
+     }
+    }
+   },
+   "own_d": {
+    "ring": {
+     "doomed": 0.981,
+     "safe": 0.995,
+     "safe_minus_doomed": [
+      0.014,
+      0.011,
+      0.017
+     ],
+     "auc": 0.897,
+     "auc_by_libs": {
+      "5": 0.891,
+      "7": 0.908
+     }
+    },
+    "edge": {
+     "doomed": 0.781,
+     "safe": 0.971,
+     "safe_minus_doomed": [
+      0.189,
+      0.136,
+      0.254
+     ],
+     "auc": 0.894,
+     "auc_by_libs": {
+      "5": 0.883,
+      "7": 0.914
+     }
+    }
+   },
+   "value": {
+    "ring": {
+     "doomed": 0.102,
+     "safe": 0.137,
+     "safe_minus_doomed": [
+      0.035,
+      -0.055,
+      0.132
+     ],
+     "auc": 0.542,
+     "auc_by_libs": {
+      "5": 0.472,
+      "7": 0.611
+     }
+    },
+    "edge": {
+     "doomed": 0.261,
+     "safe": 0.497,
+     "safe_minus_doomed": [
+      0.236,
+      0.098,
+      0.369
+     ],
+     "auc": 0.679,
+     "auc_by_libs": {
+      "5": 0.742,
+      "7": 0.619
+     }
+    }
+   },
+   "capture_in_doomed": {
+    "ring": 0.0,
+    "edge": 0.545
+   },
+   "ownership_predicts_capture_doomed_rings": {
+    "r": -0.127,
+    "p_one_sided_negative": 0.131
+   },
+   "probe": [
+    {
+     "layer": "block1",
+     "edge_to_ring_auc": 0.9721875,
+     "edge_to_ring_doomed_called_safe": 0.0,
+     "edge_to_ring_safe_called_doomed": 0.2125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.96703125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99
+     }
+    },
+    {
+     "layer": "block2",
+     "edge_to_ring_auc": 0.974375,
+     "edge_to_ring_doomed_called_safe": 0.0,
+     "edge_to_ring_safe_called_doomed": 0.2125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.96296875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.98875
+     }
+    },
+    {
+     "layer": "block3",
+     "edge_to_ring_auc": 0.983125,
+     "edge_to_ring_doomed_called_safe": 0.025,
+     "edge_to_ring_safe_called_doomed": 0.1125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.97140625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.955625
+     }
+    },
+    {
+     "layer": "block4",
+     "edge_to_ring_auc": 0.97359375,
+     "edge_to_ring_doomed_called_safe": 0.6625,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.976875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.95125
+     }
+    },
+    {
+     "layer": "block5",
+     "edge_to_ring_auc": 0.95921875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9825,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.965
+     }
+    },
+    {
+     "layer": "block6",
+     "edge_to_ring_auc": 0.96796875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98734375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9775
+     }
+    },
+    {
+     "layer": "block7",
+     "edge_to_ring_auc": 0.964375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98796875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.98375
+     }
+    },
+    {
+     "layer": "block8",
+     "edge_to_ring_auc": 0.950625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98203125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9725
+     }
+    },
+    {
+     "layer": "block9",
+     "edge_to_ring_auc": 0.95765625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.981875
+     }
+    },
+    {
+     "layer": "block10",
+     "edge_to_ring_auc": 0.95171875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.989375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.989375
+     }
+    },
+    {
+     "layer": "block11",
+     "edge_to_ring_auc": 0.9209375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9890625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.985
+     }
+    },
+    {
+     "layer": "block12",
+     "edge_to_ring_auc": 0.92828125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9959375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9925
+     }
+    },
+    {
+     "layer": "block13",
+     "edge_to_ring_auc": 0.966875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99671875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99375
+     }
+    },
+    {
+     "layer": "block14",
+     "edge_to_ring_auc": 0.9575,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9971875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.995625
+     }
+    },
+    {
+     "layer": "block15",
+     "edge_to_ring_auc": 0.95421875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.995,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.991875
+     }
+    },
+    {
+     "layer": "block16",
+     "edge_to_ring_auc": 0.91078125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9959375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99375
+     }
+    },
+    {
+     "layer": "block17",
+     "edge_to_ring_auc": 0.76734375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99234375,
+     "ring_auc_within_libs": {
+      "5": 0.99875,
+      "7": 0.99125
+     }
+    },
+    {
+     "layer": "block18",
+     "edge_to_ring_auc": 0.70703125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98390625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.981875
+     }
+    },
+    {
+     "layer": "block19",
+     "edge_to_ring_auc": 0.67703125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9909375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99
+     }
+    },
+    {
+     "layer": "block20",
+     "edge_to_ring_auc": 0.775,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9734375,
+     "ring_auc_within_libs": {
+      "5": 0.998125,
+      "7": 0.96625
+     }
+    }
+   ]
+  },
+  "humansl": {
+   "own_d_after_pass": {
+    "ring": {
+     "doomed": 0.55,
+     "safe": 0.847,
+     "safe_minus_doomed": [
+      0.297,
+      0.265,
+      0.329
+     ],
+     "auc": 0.979,
+     "auc_by_libs": {
+      "5": 0.983,
+      "7": 0.975
+     }
+    },
+    "edge": {
+     "doomed": -0.318,
+     "safe": 0.756,
+     "safe_minus_doomed": [
+      1.074,
+      1.01,
+      1.135
+     ],
+     "auc": 1.0,
+     "auc_by_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    }
+   },
+   "value_after_pass": {
+    "ring": {
+     "doomed": 0.125,
+     "safe": 0.22,
+     "safe_minus_doomed": [
+      0.096,
+      0.054,
+      0.14
+     ],
+     "auc": 0.72,
+     "auc_by_libs": {
+      "5": 0.641,
+      "7": 0.794
+     }
+    },
+    "edge": {
+     "doomed": 0.147,
+     "safe": 0.407,
+     "safe_minus_doomed": [
+      0.261,
+      0.191,
+      0.332
+     ],
+     "auc": 0.818,
+     "auc_by_libs": {
+      "5": 0.867,
+      "7": 0.764
+     }
+    }
+   },
+   "own_d": {
+    "ring": {
+     "doomed": 0.634,
+     "safe": 0.832,
+     "safe_minus_doomed": [
+      0.199,
+      0.162,
+      0.236
+     ],
+     "auc": 0.884,
+     "auc_by_libs": {
+      "5": 0.865,
+      "7": 0.902
+     }
+    },
+    "edge": {
+     "doomed": 0.468,
+     "safe": 0.76,
+     "safe_minus_doomed": [
+      0.292,
+      0.233,
+      0.355
+     ],
+     "auc": 0.867,
+     "auc_by_libs": {
+      "5": 0.856,
+      "7": 0.878
+     }
+    }
+   },
+   "value": {
+    "ring": {
+     "doomed": 0.3,
+     "safe": 0.41,
+     "safe_minus_doomed": [
+      0.109,
+      0.048,
+      0.173
+     ],
+     "auc": 0.63,
+     "auc_by_libs": {
+      "5": 0.621,
+      "7": 0.649
+     }
+    },
+    "edge": {
+     "doomed": 0.413,
+     "safe": 0.606,
+     "safe_minus_doomed": [
+      0.193,
+      0.12,
+      0.263
+     ],
+     "auc": 0.729,
+     "auc_by_libs": {
+      "5": 0.753,
+      "7": 0.701
+     }
+    }
+   },
+   "capture_in_doomed": {
+    "ring": 0.17,
+    "edge": 0.308
+   },
+   "ownership_predicts_capture_doomed_rings": {
+    "r": -0.096,
+    "p_one_sided_negative": 0.2025
+   },
+   "probe": [
+    {
+     "layer": "block1",
+     "edge_to_ring_auc": 0.96375,
+     "edge_to_ring_doomed_called_safe": 0.0,
+     "edge_to_ring_safe_called_doomed": 0.2125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98359375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    },
+    {
+     "layer": "block2",
+     "edge_to_ring_auc": 0.98890625,
+     "edge_to_ring_doomed_called_safe": 0.0375,
+     "edge_to_ring_safe_called_doomed": 0.1375,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9834375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9975
+     }
+    },
+    {
+     "layer": "block3",
+     "edge_to_ring_auc": 0.96671875,
+     "edge_to_ring_doomed_called_safe": 0.95,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.96921875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.959375
+     }
+    },
+    {
+     "layer": "block4",
+     "edge_to_ring_auc": 0.9596875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.95671875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.916875
+     }
+    },
+    {
+     "layer": "block5",
+     "edge_to_ring_auc": 0.9471875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.974375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.960625
+     }
+    },
+    {
+     "layer": "block6",
+     "edge_to_ring_auc": 0.9821875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99296875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9925
+     }
+    },
+    {
+     "layer": "block7",
+     "edge_to_ring_auc": 0.9884375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99390625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.995
+     }
+    },
+    {
+     "layer": "block8",
+     "edge_to_ring_auc": 0.99,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99546875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.996875
+     }
+    },
+    {
+     "layer": "block9",
+     "edge_to_ring_auc": 0.9859375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9909375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.984375
+     }
+    },
+    {
+     "layer": "block10",
+     "edge_to_ring_auc": 0.98125,
+     "edge_to_ring_doomed_called_safe": 0.975,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99953125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.998125
+     }
+    },
+    {
+     "layer": "block11",
+     "edge_to_ring_auc": 0.97890625,
+     "edge_to_ring_doomed_called_safe": 0.9625,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9990625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.998125
+     }
+    },
+    {
+     "layer": "block12",
+     "edge_to_ring_auc": 0.98796875,
+     "edge_to_ring_doomed_called_safe": 0.775,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99828125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9975
+     }
+    },
+    {
+     "layer": "block13",
+     "edge_to_ring_auc": 0.9903125,
+     "edge_to_ring_doomed_called_safe": 0.7,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99671875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.994375
+     }
+    },
+    {
+     "layer": "block14",
+     "edge_to_ring_auc": 0.9903125,
+     "edge_to_ring_doomed_called_safe": 0.6875,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99515625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99125
+     }
+    },
+    {
+     "layer": "block15",
+     "edge_to_ring_auc": 0.995,
+     "edge_to_ring_doomed_called_safe": 0.575,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99734375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.994375
+     }
+    },
+    {
+     "layer": "block16",
+     "edge_to_ring_auc": 0.99453125,
+     "edge_to_ring_doomed_called_safe": 0.4375,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99890625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9975
+     }
+    },
+    {
+     "layer": "block17",
+     "edge_to_ring_auc": 0.9946875,
+     "edge_to_ring_doomed_called_safe": 0.1875,
+     "edge_to_ring_safe_called_doomed": 0.0125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99984375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block18",
+     "edge_to_ring_auc": 0.9928125,
+     "edge_to_ring_doomed_called_safe": 0.0625,
+     "edge_to_ring_safe_called_doomed": 0.025,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99796875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.994375
+     }
+    }
+   ]
+  },
+  "lz": {
+   "value_after_pass": {
+    "ring": {
+     "doomed": 0.068,
+     "safe": 0.07,
+     "safe_minus_doomed": [
+      0.002,
+      -0.065,
+      0.074
+     ],
+     "auc": 0.543,
+     "auc_by_libs": {
+      "5": 0.53,
+      "7": 0.557
+     }
+    },
+    "edge": {
+     "doomed": 0.074,
+     "safe": 0.338,
+     "safe_minus_doomed": [
+      0.264,
+      0.163,
+      0.371
+     ],
+     "auc": 0.626,
+     "auc_by_libs": {
+      "5": 0.699,
+      "7": 0.552
+     }
+    }
+   },
+   "value": {
+    "ring": {
+     "doomed": 0.085,
+     "safe": 0.11,
+     "safe_minus_doomed": [
+      0.025,
+      -0.059,
+      0.111
+     ],
+     "auc": 0.552,
+     "auc_by_libs": {
+      "5": 0.504,
+      "7": 0.598
+     }
+    },
+    "edge": {
+     "doomed": 0.26,
+     "safe": 0.439,
+     "safe_minus_doomed": [
+      0.179,
+      0.046,
+      0.315
+     ],
+     "auc": 0.633,
+     "auc_by_libs": {
+      "5": 0.698,
+      "7": 0.572
+     }
+    }
+   },
+   "capture_in_doomed": {
+    "ring": 0.011,
+    "edge": 0.161
+   },
+   "probe": [
+    {
+     "layer": "block2",
+     "edge_to_ring_auc": 0.67328125,
+     "edge_to_ring_doomed_called_safe": 0.0,
+     "edge_to_ring_safe_called_doomed": 0.9625,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.844375,
+     "ring_auc_within_libs": {
+      "5": 0.84875,
+      "7": 0.8675
+     }
+    },
+    {
+     "layer": "block4",
+     "edge_to_ring_auc": 0.924375,
+     "edge_to_ring_doomed_called_safe": 0.925,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.95578125,
+     "ring_auc_within_libs": {
+      "5": 0.986875,
+      "7": 0.96375
+     }
+    },
+    {
+     "layer": "block6",
+     "edge_to_ring_auc": 0.94109375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98640625,
+     "ring_auc_within_libs": {
+      "5": 0.999375,
+      "7": 0.984375
+     }
+    },
+    {
+     "layer": "block8",
+     "edge_to_ring_auc": 0.9484375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.986875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.975625
+     }
+    },
+    {
+     "layer": "block10",
+     "edge_to_ring_auc": 0.7071875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.995,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.991875
+     }
+    },
+    {
+     "layer": "block12",
+     "edge_to_ring_auc": 0.87609375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.995,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.994375
+     }
+    },
+    {
+     "layer": "block14",
+     "edge_to_ring_auc": 0.8165625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98921875,
+     "ring_auc_within_libs": {
+      "5": 0.996875,
+      "7": 0.985625
+     }
+    },
+    {
+     "layer": "block16",
+     "edge_to_ring_auc": 0.71375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98890625,
+     "ring_auc_within_libs": {
+      "5": 0.99375,
+      "7": 0.99375
+     }
+    },
+    {
+     "layer": "block18",
+     "edge_to_ring_auc": 0.484375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9721875,
+     "ring_auc_within_libs": {
+      "5": 0.97375,
+      "7": 0.975625
+     }
+    },
+    {
+     "layer": "block20",
+     "edge_to_ring_auc": 0.54984375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9653125,
+     "ring_auc_within_libs": {
+      "5": 0.969375,
+      "7": 0.970625
+     }
+    },
+    {
+     "layer": "block22",
+     "edge_to_ring_auc": 0.54578125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.94234375,
+     "ring_auc_within_libs": {
+      "5": 0.969375,
+      "7": 0.94625
+     }
+    },
+    {
+     "layer": "block24",
+     "edge_to_ring_auc": 0.58734375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.95078125,
+     "ring_auc_within_libs": {
+      "5": 0.9625,
+      "7": 0.9725
+     }
+    },
+    {
+     "layer": "block26",
+     "edge_to_ring_auc": 0.625625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9346875,
+     "ring_auc_within_libs": {
+      "5": 0.941875,
+      "7": 0.95375
+     }
+    },
+    {
+     "layer": "block28",
+     "edge_to_ring_auc": 0.5646875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.87140625,
+     "ring_auc_within_libs": {
+      "5": 0.88,
+      "7": 0.911875
+     }
+    },
+    {
+     "layer": "block30",
+     "edge_to_ring_auc": 0.59203125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.86296875,
+     "ring_auc_within_libs": {
+      "5": 0.846875,
+      "7": 0.903125
+     }
+    },
+    {
+     "layer": "block32",
+     "edge_to_ring_auc": 0.6221875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.88609375,
+     "ring_auc_within_libs": {
+      "5": 0.855625,
+      "7": 0.933125
+     }
+    },
+    {
+     "layer": "block34",
+     "edge_to_ring_auc": 0.6128125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.8328125,
+     "ring_auc_within_libs": {
+      "5": 0.78125,
+      "7": 0.88375
+     }
+    },
+    {
+     "layer": "block36",
+     "edge_to_ring_auc": 0.62140625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.844375,
+     "ring_auc_within_libs": {
+      "5": 0.8,
+      "7": 0.893125
+     }
+    },
+    {
+     "layer": "block38",
+     "edge_to_ring_auc": 0.5528125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.76078125,
+     "ring_auc_within_libs": {
+      "5": 0.716875,
+      "7": 0.810625
+     }
+    },
+    {
+     "layer": "block40",
+     "edge_to_ring_auc": 0.5625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.81,
+     "ring_auc_within_libs": {
+      "5": 0.771875,
+      "7": 0.858125
+     }
+    }
+   ]
+  },
+  "tf3": {
+   "own_d_after_pass": {
+    "ring": {
+     "doomed": -0.683,
+     "safe": 0.984,
+     "safe_minus_doomed": [
+      1.667,
+      1.558,
+      1.766
+     ],
+     "auc": 1.0,
+     "auc_by_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    },
+    "edge": {
+     "doomed": -0.553,
+     "safe": 0.98,
+     "safe_minus_doomed": [
+      1.533,
+      1.402,
+      1.652
+     ],
+     "auc": 0.996,
+     "auc_by_libs": {
+      "5": 0.999,
+      "7": 0.994
+     }
+    }
+   },
+   "value_after_pass": {
+    "ring": {
+     "doomed": 0.001,
+     "safe": 0.07,
+     "safe_minus_doomed": [
+      0.069,
+      0.024,
+      0.129
+     ],
+     "auc": 0.564,
+     "auc_by_libs": {
+      "5": 0.555,
+      "7": 0.57
+     }
+    },
+    "edge": {
+     "doomed": 0.076,
+     "safe": 0.405,
+     "safe_minus_doomed": [
+      0.328,
+      0.209,
+      0.448
+     ],
+     "auc": 0.689,
+     "auc_by_libs": {
+      "5": 0.754,
+      "7": 0.627
+     }
+    }
+   },
+   "own_d": {
+    "ring": {
+     "doomed": 0.697,
+     "safe": 0.984,
+     "safe_minus_doomed": [
+      0.287,
+      0.239,
+      0.338
+     ],
+     "auc": 0.978,
+     "auc_by_libs": {
+      "5": 0.981,
+      "7": 0.974
+     }
+    },
+    "edge": {
+     "doomed": 0.806,
+     "safe": 0.985,
+     "safe_minus_doomed": [
+      0.179,
+      0.112,
+      0.257
+     ],
+     "auc": 0.928,
+     "auc_by_libs": {
+      "5": 0.954,
+      "7": 0.915
+     }
+    }
+   },
+   "value": {
+    "ring": {
+     "doomed": 0.043,
+     "safe": 0.123,
+     "safe_minus_doomed": [
+      0.08,
+      0.005,
+      0.165
+     ],
+     "auc": 0.504,
+     "auc_by_libs": {
+      "5": 0.471,
+      "7": 0.541
+     }
+    },
+    "edge": {
+     "doomed": 0.275,
+     "safe": 0.503,
+     "safe_minus_doomed": [
+      0.228,
+      0.084,
+      0.367
+     ],
+     "auc": 0.705,
+     "auc_by_libs": {
+      "5": 0.759,
+      "7": 0.654
+     }
+    }
+   },
+   "capture_in_doomed": {
+    "ring": 0.519,
+    "edge": 0.535
+   },
+   "ownership_predicts_capture_doomed_rings": {
+    "r": -0.741,
+    "p_one_sided_negative": 0.0
+   },
+   "probe": [
+    {
+     "layer": "block1",
+     "edge_to_ring_auc": 0.9946875,
+     "edge_to_ring_doomed_called_safe": 0.6125,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9940625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.995
+     }
+    },
+    {
+     "layer": "block2",
+     "edge_to_ring_auc": 0.98828125,
+     "edge_to_ring_doomed_called_safe": 0.8375,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9971875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99125
+     }
+    },
+    {
+     "layer": "block3",
+     "edge_to_ring_auc": 0.9775,
+     "edge_to_ring_doomed_called_safe": 0.5625,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9996875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block4",
+     "edge_to_ring_auc": 0.97375,
+     "edge_to_ring_doomed_called_safe": 0.9375,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99890625,
+     "ring_auc_within_libs": {
+      "5": 0.998125,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block5",
+     "edge_to_ring_auc": 0.991875,
+     "edge_to_ring_doomed_called_safe": 0.8,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99953125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block6",
+     "edge_to_ring_auc": 0.996875,
+     "edge_to_ring_doomed_called_safe": 0.4875,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9996875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99875
+     }
+    },
+    {
+     "layer": "block7",
+     "edge_to_ring_auc": 1.0,
+     "edge_to_ring_doomed_called_safe": 0.1125,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99984375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block8",
+     "edge_to_ring_auc": 1.0,
+     "edge_to_ring_doomed_called_safe": 0.125,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99984375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block9",
+     "edge_to_ring_auc": 0.99984375,
+     "edge_to_ring_doomed_called_safe": 0.1125,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99984375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block10",
+     "edge_to_ring_auc": 0.99984375,
+     "edge_to_ring_doomed_called_safe": 0.05,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9996875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.999375
+     }
+    },
+    {
+     "layer": "block11",
+     "edge_to_ring_auc": 0.999375,
+     "edge_to_ring_doomed_called_safe": 0.0875,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 1.0,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    }
+   ]
+  },
+  "b40": {
+   "own_d_after_pass": {
+    "ring": {
+     "doomed": 0.661,
+     "safe": 0.916,
+     "safe_minus_doomed": [
+      0.254,
+      0.219,
+      0.291
+     ],
+     "auc": 0.947,
+     "auc_by_libs": {
+      "5": 0.991,
+      "7": 0.902
+     }
+    },
+    "edge": {
+     "doomed": -0.511,
+     "safe": 0.968,
+     "safe_minus_doomed": [
+      1.479,
+      1.379,
+      1.569
+     ],
+     "auc": 1.0,
+     "auc_by_libs": {
+      "5": 1.0,
+      "7": 1.0
+     }
+    }
+   },
+   "value_after_pass": {
+    "ring": {
+     "doomed": 0.04,
+     "safe": 0.073,
+     "safe_minus_doomed": [
+      0.033,
+      -0.031,
+      0.101
+     ],
+     "auc": 0.581,
+     "auc_by_libs": {
+      "5": 0.532,
+      "7": 0.627
+     }
+    },
+    "edge": {
+     "doomed": 0.068,
+     "safe": 0.403,
+     "safe_minus_doomed": [
+      0.335,
+      0.22,
+      0.45
+     ],
+     "auc": 0.689,
+     "auc_by_libs": {
+      "5": 0.756,
+      "7": 0.624
+     }
+    }
+   },
+   "own_d": {
+    "ring": {
+     "doomed": 0.893,
+     "safe": 0.976,
+     "safe_minus_doomed": [
+      0.083,
+      0.067,
+      0.1
+     ],
+     "auc": 0.902,
+     "auc_by_libs": {
+      "5": 0.953,
+      "7": 0.851
+     }
+    },
+    "edge": {
+     "doomed": 0.772,
+     "safe": 0.968,
+     "safe_minus_doomed": [
+      0.196,
+      0.129,
+      0.269
+     ],
+     "auc": 0.862,
+     "auc_by_libs": {
+      "5": 0.875,
+      "7": 0.855
+     }
+    }
+   },
+   "value": {
+    "ring": {
+     "doomed": 0.077,
+     "safe": 0.13,
+     "safe_minus_doomed": [
+      0.052,
+      -0.032,
+      0.145
+     ],
+     "auc": 0.537,
+     "auc_by_libs": {
+      "5": 0.458,
+      "7": 0.608
+     }
+    },
+    "edge": {
+     "doomed": 0.276,
+     "safe": 0.503,
+     "safe_minus_doomed": [
+      0.227,
+      0.086,
+      0.365
+     ],
+     "auc": 0.695,
+     "auc_by_libs": {
+      "5": 0.748,
+      "7": 0.646
+     }
+    }
+   },
+   "capture_in_doomed": {
+    "ring": 0.033,
+    "edge": 0.512
+   },
+   "ownership_predicts_capture_doomed_rings": {
+    "r": -0.332,
+    "p_one_sided_negative": 0.0008
+   },
+   "probe": [
+    {
+     "layer": "block2",
+     "edge_to_ring_auc": 0.96828125,
+     "edge_to_ring_doomed_called_safe": 0.0,
+     "edge_to_ring_safe_called_doomed": 0.2125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.97328125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.995625
+     }
+    },
+    {
+     "layer": "block4",
+     "edge_to_ring_auc": 0.986875,
+     "edge_to_ring_doomed_called_safe": 0.3125,
+     "edge_to_ring_safe_called_doomed": 0.0125,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.96890625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.97
+     }
+    },
+    {
+     "layer": "block6",
+     "edge_to_ring_auc": 0.97484375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9575,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.935
+     }
+    },
+    {
+     "layer": "block8",
+     "edge_to_ring_auc": 0.96515625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.9675,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.945
+     }
+    },
+    {
+     "layer": "block10",
+     "edge_to_ring_auc": 0.968125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.97359375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.959375
+     }
+    },
+    {
+     "layer": "block12",
+     "edge_to_ring_auc": 0.9215625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98484375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.978125
+     }
+    },
+    {
+     "layer": "block14",
+     "edge_to_ring_auc": 0.93671875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98890625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.986875
+     }
+    },
+    {
+     "layer": "block16",
+     "edge_to_ring_auc": 0.95875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98546875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9825
+     }
+    },
+    {
+     "layer": "block18",
+     "edge_to_ring_auc": 0.935625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98390625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.97375
+     }
+    },
+    {
+     "layer": "block20",
+     "edge_to_ring_auc": 0.90953125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.985625
+     }
+    },
+    {
+     "layer": "block22",
+     "edge_to_ring_auc": 0.91171875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99421875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.991875
+     }
+    },
+    {
+     "layer": "block24",
+     "edge_to_ring_auc": 0.92296875,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.995625,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.99375
+     }
+    },
+    {
+     "layer": "block26",
+     "edge_to_ring_auc": 0.92703125,
+     "edge_to_ring_doomed_called_safe": 0.9875,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99671875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9925
+     }
+    },
+    {
+     "layer": "block28",
+     "edge_to_ring_auc": 0.88,
+     "edge_to_ring_doomed_called_safe": 0.975,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.995,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9925
+     }
+    },
+    {
+     "layer": "block30",
+     "edge_to_ring_auc": 0.92828125,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.99125,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.9875
+     }
+    },
+    {
+     "layer": "block32",
+     "edge_to_ring_auc": 0.9234375,
+     "edge_to_ring_doomed_called_safe": 0.9875,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98609375,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.97625
+     }
+    },
+    {
+     "layer": "block34",
+     "edge_to_ring_auc": 0.95375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98921875,
+     "ring_auc_within_libs": {
+      "5": 1.0,
+      "7": 0.980625
+     }
+    },
+    {
+     "layer": "block36",
+     "edge_to_ring_auc": 0.94265625,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.988125,
+     "ring_auc_within_libs": {
+      "5": 0.998125,
+      "7": 0.983125
+     }
+    },
+    {
+     "layer": "block38",
+     "edge_to_ring_auc": 0.93734375,
+     "edge_to_ring_doomed_called_safe": 1.0,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.98828125,
+     "ring_auc_within_libs": {
+      "5": 0.99875,
+      "7": 0.9825
+     }
+    },
+    {
+     "layer": "block40",
+     "edge_to_ring_auc": 0.90125,
+     "edge_to_ring_doomed_called_safe": 0.9375,
+     "edge_to_ring_safe_called_doomed": 0.0,
+     "edge_heldout_note": "edge scores are in-sample",
+     "ring_cv_auc": 0.980625,
+     "ring_auc_within_libs": {
+      "5": 0.994375,
+      "7": 0.973125
+     }
+    }
+   ]
+  }
+ },
+ "n_cases": 320
+}

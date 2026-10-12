@@ -1,0 +1,31 @@
+  pass trunk 12/160
+  pass trunk 24/160
+  pass trunk 36/160
+  pass trunk 48/160
+  pass trunk 60/160
+  pass trunk 72/160
+  pass trunk 84/160
+  pass trunk 96/160
+  pass trunk 108/160
+  pass trunk 120/160
+  pass trunk 132/160
+  pass trunk 144/160
+  pass trunk 156/160
+  pass trunk 160/160
+/home/claude/goconcepts/goconcepts/mech_cross.py:97: RuntimeWarning: Mean of empty slice
+  sep = abs(p[ev & (geo == 1) & (st == 1)].mean() - p[ev & (geo == 1) & (st == 0)].mean())
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/home/claude/goconcepts/goconcepts/mech_cross.py:99: RuntimeWarning: Mean of empty slice
+  "ring_minus_edge_doomed": round(float(p[ev & (geo == 0) & (st == 0)].mean() - p[ev & (geo == 1) & (st == 0)].mean()), 3),
+/home/claude/goconcepts/goconcepts/mech_cross.py:100: RuntimeWarning: Mean of empty slice
+  "ring_minus_edge_safe": round(float(p[ev & (geo == 0) & (st == 1)].mean() - p[ev & (geo == 1) & (st == 1)].mean()), 3),
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:219: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:178: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:211: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+baseline (stored) {'doomed_ring': {'own_after_pass': -0.73, 'capture': 0.519, 'n': 20}, 'safe_ring': {'own_after_pass': 0.984, 'capture': 0.002, 'n': 20}, 'doomed_edge': {'own_after_pass': -0.511, 'capture': 0.514, 'n': 20}, 'safe_edge': {'own_after_pass': 0.979, 'capture': 0.011, 'n': 20}}
+hold {'doomed_ring': {'own_after_pass': -0.719, 'capture': 0.644, 'n': 20}, 'safe_ring': {'own_after_pass': 0.926, 'capture': 0.001, 'n': 20}, 'doomed_edge': {'own_after_pass': -0.516, 'capture': 0.514, 'n': 20}, 'safe_edge': {'own_after_pass': 0.965, 'capture': 0.012, 'n': 20}}
+random {'doomed_ring': {'own_after_pass': -0.743, 'capture': 0.519, 'n': 20}, 'safe_ring': {'own_after_pass': 0.983, 'capture': 0.002, 'n': 20}, 'doomed_edge': {'own_after_pass': -0.51, 'capture': 0.515, 'n': 20}, 'safe_edge': {'own_after_pass': 0.979, 'capture': 0.011, 'n': 20}}

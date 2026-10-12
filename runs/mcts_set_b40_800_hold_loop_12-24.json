@@ -1,0 +1,642 @@
+{
+ "168_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.927,
+  "ring_ownership_D": 0.211,
+  "visit_share_on_capture": 0.09,
+  "top_move": [
+   16,
+   5
+  ],
+  "top_move_share": 0.43,
+  "raw_ring_ownership_D": 0.231,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "168_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.062,
+  "ring_ownership_D": -0.051,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   16,
+   5
+  ],
+  "top_move_share": 0.665,
+  "raw_ring_ownership_D": -0.099,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "5_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": 0.529,
+  "ring_ownership_D": 0.743,
+  "visit_share_on_capture": 0.17,
+  "top_move": [
+   4,
+   2
+  ],
+  "top_move_share": 0.43,
+  "raw_ring_ownership_D": 0.851,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 20
+ },
+ "5_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.542,
+  "ring_ownership_D": 0.592,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   3,
+   1
+  ],
+  "top_move_share": 0.56,
+  "raw_ring_ownership_D": 0.322,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 20
+ },
+ "19_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.984,
+  "ring_ownership_D": -0.02,
+  "visit_share_on_capture": 0.57,
+  "top_move": [
+   11,
+   11
+  ],
+  "top_move_share": 0.49,
+  "raw_ring_ownership_D": -0.401,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "19_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.922,
+  "ring_ownership_D": -0.385,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   13,
+   17
+  ],
+  "top_move_share": 0.565,
+  "raw_ring_ownership_D": -0.697,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "184_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.917,
+  "ring_ownership_D": 0.061,
+  "visit_share_on_capture": 0.1,
+  "top_move": [
+   2,
+   2
+  ],
+  "top_move_share": 0.44,
+  "raw_ring_ownership_D": 0.008,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 23
+ },
+ "184_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.009,
+  "ring_ownership_D": -0.209,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   3,
+   2
+  ],
+  "top_move_share": 0.621,
+  "raw_ring_ownership_D": -0.338,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 23
+ },
+ "171_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.98,
+  "ring_ownership_D": -0.352,
+  "visit_share_on_capture": 0.03,
+  "top_move": [
+   4,
+   5
+  ],
+  "top_move_share": 0.62,
+  "raw_ring_ownership_D": -0.333,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "171_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.005,
+  "ring_ownership_D": -0.543,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   4,
+   4
+  ],
+  "top_move_share": 0.641,
+  "raw_ring_ownership_D": -0.731,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "9_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.1,
+  "ring_ownership_D": 0.138,
+  "visit_share_on_capture": 0.21,
+  "top_move": [
+   15,
+   17
+  ],
+  "top_move_share": 0.61,
+  "raw_ring_ownership_D": 0.516,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "9_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.949,
+  "ring_ownership_D": -0.079,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   15,
+   17
+  ],
+  "top_move_share": 0.761,
+  "raw_ring_ownership_D": -0.676,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "182_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.98,
+  "ring_ownership_D": -0.056,
+  "visit_share_on_capture": 0.03,
+  "top_move": [
+   2,
+   2
+  ],
+  "top_move_share": 0.45,
+  "raw_ring_ownership_D": 0.021,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 20
+ },
+ "182_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.01,
+  "ring_ownership_D": -0.202,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   2,
+   2
+  ],
+  "top_move_share": 0.76,
+  "raw_ring_ownership_D": -0.361,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 20
+ },
+ "36_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.087,
+  "ring_ownership_D": 0.14,
+  "visit_share_on_capture": 0.78,
+  "top_move": [
+   7,
+   12
+  ],
+  "top_move_share": 0.5,
+  "raw_ring_ownership_D": 0.142,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 25
+ },
+ "36_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.004,
+  "ring_ownership_D": -0.333,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   2,
+   15
+  ],
+  "top_move_share": 0.474,
+  "raw_ring_ownership_D": -0.298,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 25
+ },
+ "20_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.127,
+  "ring_ownership_D": 0.061,
+  "visit_share_on_capture": 0.22,
+  "top_move": [
+   5,
+   17
+  ],
+  "top_move_share": 0.45,
+  "raw_ring_ownership_D": 0.508,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 21
+ },
+ "20_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.989,
+  "ring_ownership_D": -0.316,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   3,
+   17
+  ],
+  "top_move_share": 0.426,
+  "raw_ring_ownership_D": -0.177,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 21
+ },
+ "11_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.899,
+  "ring_ownership_D": -0.262,
+  "visit_share_on_capture": 0.22,
+  "top_move": [
+   16,
+   14
+  ],
+  "top_move_share": 0.22,
+  "raw_ring_ownership_D": -0.548,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "11_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.121,
+  "ring_ownership_D": -0.443,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   16,
+   5
+  ],
+  "top_move_share": 0.301,
+  "raw_ring_ownership_D": -0.259,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 22
+ },
+ "13_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.151,
+  "ring_ownership_D": -0.138,
+  "visit_share_on_capture": 0.29,
+  "top_move": [
+   15,
+   16
+  ],
+  "top_move_share": 0.38,
+  "raw_ring_ownership_D": 0.075,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "13_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.937,
+  "ring_ownership_D": -0.385,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   15,
+   16
+  ],
+  "top_move_share": 0.347,
+  "raw_ring_ownership_D": -0.766,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "170_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.933,
+  "ring_ownership_D": -0.347,
+  "visit_share_on_capture": 0.05,
+  "top_move": [
+   9,
+   17
+  ],
+  "top_move_share": 0.53,
+  "raw_ring_ownership_D": -0.351,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "170_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.996,
+  "ring_ownership_D": -0.481,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   9,
+   17
+  ],
+  "top_move_share": 0.819,
+  "raw_ring_ownership_D": -0.685,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 0,
+  "ring_size": 24
+ },
+ "111_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.149,
+  "ring_ownership_D": 0.95,
+  "visit_share_on_capture": 1.0,
+  "top_move": [
+   0,
+   8
+  ],
+  "top_move_share": 0.569,
+  "raw_ring_ownership_D": 0.966,
+  "in_fit_half": true,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 16
+ },
+ "111_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.898,
+  "ring_ownership_D": -0.955,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   5,
+   7
+  ],
+  "top_move_share": 0.504,
+  "raw_ring_ownership_D": -0.639,
+  "in_fit_half": true,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 16
+ },
+ "85_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.028,
+  "ring_ownership_D": 0.901,
+  "visit_share_on_capture": 0.98,
+  "top_move": [
+   0,
+   5
+  ],
+  "top_move_share": 0.56,
+  "raw_ring_ownership_D": 0.932,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 16
+ },
+ "85_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.953,
+  "ring_ownership_D": -0.958,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   1,
+   11
+  ],
+  "top_move_share": 0.37,
+  "raw_ring_ownership_D": -0.853,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 16
+ },
+ "262_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": 0.928,
+  "ring_ownership_D": 0.97,
+  "visit_share_on_capture": 1.0,
+  "top_move": [
+   1,
+   6
+  ],
+  "top_move_share": 0.47,
+  "raw_ring_ownership_D": 0.957,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 19
+ },
+ "262_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.866,
+  "ring_ownership_D": -0.863,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   2,
+   12
+  ],
+  "top_move_share": 0.389,
+  "raw_ring_ownership_D": -0.115,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 19
+ },
+ "98_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.041,
+  "ring_ownership_D": 0.963,
+  "visit_share_on_capture": 1.0,
+  "top_move": [
+   0,
+   7
+  ],
+  "top_move_share": 0.57,
+  "raw_ring_ownership_D": 0.971,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 20
+ },
+ "98_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.881,
+  "ring_ownership_D": -0.225,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   9,
+   3
+  ],
+  "top_move_share": 0.21,
+  "raw_ring_ownership_D": -0.841,
+  "in_fit_half": false,
+  "geo": 1,
+  "status": 0,
+  "ring_size": 20
+ },
+ "201_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.971,
+  "ring_ownership_D": -0.384,
+  "visit_share_on_capture": 0.02,
+  "top_move": [
+   3,
+   13
+  ],
+  "top_move_share": 0.12,
+  "raw_ring_ownership_D": -0.494,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 20
+ },
+ "201_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -1.014,
+  "ring_ownership_D": -0.356,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   2,
+   10
+  ],
+  "top_move_share": 0.309,
+  "raw_ring_ownership_D": -0.228,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 20
+ },
+ "54_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.121,
+  "ring_ownership_D": 0.596,
+  "visit_share_on_capture": 0.01,
+  "top_move": [
+   5,
+   16
+  ],
+  "top_move_share": 0.63,
+  "raw_ring_ownership_D": 0.641,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 22
+ },
+ "54_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.911,
+  "ring_ownership_D": 0.484,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   17,
+   3
+  ],
+  "top_move_share": 0.431,
+  "raw_ring_ownership_D": 0.261,
+  "in_fit_half": true,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 22
+ },
+ "224_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -0.878,
+  "ring_ownership_D": 0.732,
+  "visit_share_on_capture": 0.03,
+  "top_move": [
+   16,
+   4
+  ],
+  "top_move_share": 0.94,
+  "raw_ring_ownership_D": 0.868,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 25
+ },
+ "224_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.846,
+  "ring_ownership_D": 0.668,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   16,
+   4
+  ],
+  "top_move_share": 0.426,
+  "raw_ring_ownership_D": 0.391,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 25
+ },
+ "219_D_to_move": {
+  "visits": 801,
+  "root_value_for_D": -1.114,
+  "ring_ownership_D": 0.758,
+  "visit_share_on_capture": 0.01,
+  "top_move": [
+   17,
+   14
+  ],
+  "top_move_share": 0.48,
+  "raw_ring_ownership_D": 0.773,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 20
+ },
+ "219_after_D_pass": {
+  "visits": 801,
+  "root_value_for_D": -0.907,
+  "ring_ownership_D": 0.737,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   2,
+   12
+  ],
+  "top_move_share": 0.365,
+  "raw_ring_ownership_D": 0.58,
+  "in_fit_half": false,
+  "geo": 0,
+  "status": 1,
+  "ring_size": 20
+ }
+}

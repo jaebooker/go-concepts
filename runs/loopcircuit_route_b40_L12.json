@@ -1,0 +1,11 @@
+{
+ "net": "b40",
+ "layer": 12,
+ "n_eval_pairs_with_far_stones": 63,
+ "closure_signal_left_at_far_ring_stones": {
+  "interior": 0.653,
+  "exterior_band": 0.952,
+  "ring_near_cut": 0.46,
+  "interior_and_exterior": 0.612
+ }
+}

@@ -1,0 +1,8 @@
+g170 1-6 baseline {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+g170 1-6 patched  {'doomed_ring': (0.981, 0.0), 'safe_ring': (0.992, 0.004), 'doomed_edge': (-0.263, 0.489), 'safe_edge': (0.969, 0.007)}
+g170 7-12 baseline {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+g170 7-12 patched  {'doomed_ring': (0.957, 0.0), 'safe_ring': (0.996, 0.003), 'doomed_edge': (-0.338, 0.521), 'safe_edge': (0.974, 0.005)}
+g170 13-20 baseline {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+g170 13-20 patched  {'doomed_ring': (-0.214, 0.001), 'safe_ring': (0.997, 0.002), 'doomed_edge': (-0.385, 0.489), 'safe_edge': (0.979, 0.006)}
+g170 1-12 baseline {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+g170 1-12 patched  {'doomed_ring': (0.952, 0.0), 'safe_ring': (0.995, 0.003), 'doomed_edge': (-0.339, 0.52), 'safe_edge': (0.974, 0.005)}

@@ -1,0 +1,72 @@
+  16/800 positions, 334 points
+  32/800 positions, 680 points
+  48/800 positions, 1032 points
+  64/800 positions, 1360 points
+  80/800 positions, 1692 points
+  96/800 positions, 2062 points
+  112/800 positions, 2390 points
+  128/800 positions, 2676 points
+  144/800 positions, 3004 points
+  160/800 positions, 3372 points
+  176/800 positions, 3712 points
+  192/800 positions, 4020 points
+  208/800 positions, 4382 points
+  224/800 positions, 4662 points
+  240/800 positions, 5010 points
+  256/800 positions, 5330 points
+  272/800 positions, 5716 points
+  288/800 positions, 6084 points
+  304/800 positions, 6382 points
+  320/800 positions, 6710 points
+  336/800 positions, 7074 points
+  352/800 positions, 7426 points
+  368/800 positions, 7780 points
+  384/800 positions, 8126 points
+  400/800 positions, 8438 points
+  416/800 positions, 8750 points
+  432/800 positions, 9072 points
+  448/800 positions, 9360 points
+  464/800 positions, 9746 points
+  480/800 positions, 10130 points
+  496/800 positions, 10520 points
+  512/800 positions, 10876 points
+  528/800 positions, 11222 points
+  544/800 positions, 11598 points
+  560/800 positions, 11954 points
+  576/800 positions, 12304 points
+  592/800 positions, 12608 points
+  608/800 positions, 13010 points
+  624/800 positions, 13328 points
+  640/800 positions, 13664 points
+  656/800 positions, 13970 points
+  672/800 positions, 14330 points
+  688/800 positions, 14654 points
+  704/800 positions, 15014 points
+  720/800 positions, 15362 points
+  736/800 positions, 15728 points
+  752/800 positions, 16064 points
+  768/800 positions, 16418 points
+  784/800 positions, 16798 points
+  800/800 positions, 17118 points
+input A cut/cyc 0.18/0.18 d=0.000 [0.000,0.000] | B cut/cyc 0.18/0.18 d=0.000 [0.000,0.000] | C cut/cyc 0.18/0.18 d=0.000 [0.000,0.000] | D cut/cyc 0.18/0.18 d=0.000 [0.000,0.000]
+stem A cut/cyc 0.17/0.17 d=-0.001 [-0.008,0.005] | B cut/cyc 0.18/0.18 d=-0.003 [-0.011,0.005] | C cut/cyc 0.18/0.19 d=-0.005 [-0.013,0.003] | D cut/cyc 0.18/0.18 d=0.001 [-0.006,0.009]
+block2 A cut/cyc 0.24/0.18 d=0.056 [0.023,0.091] | B cut/cyc 0.23/0.15 d=0.081 [0.053,0.112] | C cut/cyc 0.26/0.23 d=0.031 [0.001,0.062] | D cut/cyc 0.24/0.20 d=0.044 [0.020,0.070]
+block4 A cut/cyc 0.34/0.18 d=0.161 [0.110,0.214] | B cut/cyc 0.35/0.16 d=0.189 [0.139,0.240] | C cut/cyc 0.34/0.31 d=0.034 [-0.004,0.076] | D cut/cyc 0.34/0.28 d=0.065 [0.030,0.098]
+block6 A cut/cyc 0.35/0.16 d=0.196 [0.146,0.245] | B cut/cyc 0.41/0.16 d=0.251 [0.194,0.308] | C cut/cyc 0.36/0.30 d=0.063 [0.024,0.101] | D cut/cyc 0.39/0.28 d=0.113 [0.075,0.150]
+block8 A cut/cyc 0.36/0.19 d=0.173 [0.125,0.221] | B cut/cyc 0.42/0.19 d=0.230 [0.173,0.286] | C cut/cyc 0.37/0.30 d=0.073 [0.030,0.118] | D cut/cyc 0.41/0.28 d=0.128 [0.088,0.166]
+block10 A cut/cyc 0.36/0.17 d=0.187 [0.138,0.236] | B cut/cyc 0.40/0.16 d=0.237 [0.181,0.289] | C cut/cyc 0.33/0.29 d=0.045 [0.004,0.089] | D cut/cyc 0.39/0.27 d=0.115 [0.074,0.154]
+block12 A cut/cyc 0.34/0.15 d=0.186 [0.141,0.233] | B cut/cyc 0.38/0.16 d=0.218 [0.164,0.272] | C cut/cyc 0.33/0.28 d=0.052 [0.012,0.097] | D cut/cyc 0.38/0.27 d=0.104 [0.060,0.145]
+block14 A cut/cyc 0.32/0.15 d=0.175 [0.129,0.222] | B cut/cyc 0.37/0.15 d=0.220 [0.165,0.272] | C cut/cyc 0.32/0.24 d=0.074 [0.034,0.112] | D cut/cyc 0.34/0.23 d=0.115 [0.072,0.156]
+block16 A cut/cyc 0.29/0.14 d=0.153 [0.109,0.197] | B cut/cyc 0.35/0.14 d=0.212 [0.159,0.264] | C cut/cyc 0.30/0.25 d=0.052 [0.011,0.093] | D cut/cyc 0.34/0.22 d=0.113 [0.075,0.152]
+block18 A cut/cyc 0.29/0.16 d=0.136 [0.085,0.186] | B cut/cyc 0.36/0.15 d=0.207 [0.153,0.262] | C cut/cyc 0.30/0.24 d=0.061 [0.017,0.104] | D cut/cyc 0.34/0.21 d=0.131 [0.090,0.172]
+block20 A cut/cyc 0.31/0.16 d=0.146 [0.094,0.197] | B cut/cyc 0.36/0.14 d=0.216 [0.164,0.266] | C cut/cyc 0.31/0.22 d=0.091 [0.051,0.134] | D cut/cyc 0.34/0.20 d=0.139 [0.096,0.182]
+block22 A cut/cyc 0.32/0.17 d=0.149 [0.103,0.194] | B cut/cyc 0.34/0.15 d=0.188 [0.141,0.238] | C cut/cyc 0.30/0.22 d=0.076 [0.034,0.119] | D cut/cyc 0.33/0.21 d=0.127 [0.088,0.167]
+block24 A cut/cyc 0.31/0.16 d=0.153 [0.111,0.193] | B cut/cyc 0.34/0.13 d=0.211 [0.166,0.258] | C cut/cyc 0.31/0.19 d=0.121 [0.077,0.163] | D cut/cyc 0.32/0.18 d=0.144 [0.103,0.186]
+block26 A cut/cyc 0.28/0.16 d=0.117 [0.077,0.158] | B cut/cyc 0.34/0.15 d=0.190 [0.146,0.235] | C cut/cyc 0.30/0.21 d=0.098 [0.056,0.141] | D cut/cyc 0.33/0.20 d=0.134 [0.095,0.173]
+block28 A cut/cyc 0.28/0.16 d=0.111 [0.074,0.149] | B cut/cyc 0.33/0.16 d=0.170 [0.128,0.215] | C cut/cyc 0.29/0.21 d=0.082 [0.045,0.119] | D cut/cyc 0.31/0.20 d=0.109 [0.073,0.145]
+block30 A cut/cyc 0.26/0.15 d=0.105 [0.070,0.141] | B cut/cyc 0.32/0.14 d=0.174 [0.130,0.218] | C cut/cyc 0.28/0.20 d=0.086 [0.051,0.122] | D cut/cyc 0.30/0.18 d=0.119 [0.084,0.157]
+block32 A cut/cyc 0.24/0.16 d=0.082 [0.050,0.112] | B cut/cyc 0.30/0.14 d=0.158 [0.118,0.200] | C cut/cyc 0.28/0.19 d=0.092 [0.055,0.131] | D cut/cyc 0.29/0.17 d=0.123 [0.089,0.159]
+block34 A cut/cyc 0.25/0.19 d=0.064 [0.034,0.094] | B cut/cyc 0.29/0.14 d=0.144 [0.107,0.183] | C cut/cyc 0.27/0.19 d=0.072 [0.037,0.107] | D cut/cyc 0.29/0.18 d=0.115 [0.080,0.151]
+block36 A cut/cyc 0.24/0.17 d=0.069 [0.042,0.094] | B cut/cyc 0.29/0.14 d=0.149 [0.114,0.185] | C cut/cyc 0.26/0.18 d=0.072 [0.039,0.106] | D cut/cyc 0.28/0.17 d=0.103 [0.067,0.141]
+block38 A cut/cyc 0.24/0.16 d=0.081 [0.052,0.110] | B cut/cyc 0.29/0.14 d=0.152 [0.113,0.193] | C cut/cyc 0.27/0.19 d=0.084 [0.050,0.119] | D cut/cyc 0.30/0.17 d=0.124 [0.088,0.164]
+block40 A cut/cyc 0.25/0.17 d=0.082 [0.052,0.113] | B cut/cyc 0.29/0.14 d=0.146 [0.103,0.189] | C cut/cyc 0.25/0.19 d=0.064 [0.032,0.097] | D cut/cyc 0.28/0.18 d=0.099 [0.063,0.137]

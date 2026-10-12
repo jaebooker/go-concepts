@@ -1,0 +1,26 @@
+{
+ "doomed_ring": {
+  "own_after_pass": 0.575,
+  "capture": 0.082,
+  "n": 79,
+  "frac_read_alive": 1.0
+ },
+ "safe_ring": {
+  "own_after_pass": 0.904,
+  "capture": 0.024,
+  "n": 79,
+  "frac_read_alive": 1.0
+ },
+ "doomed_edge": {
+  "own_after_pass": -0.714,
+  "capture": 0.734,
+  "n": 78,
+  "frac_read_alive": 0.0
+ },
+ "safe_edge": {
+  "own_after_pass": 0.975,
+  "capture": 0.003,
+  "n": 78,
+  "frac_read_alive": 1.0
+ }
+}

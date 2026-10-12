@@ -1,0 +1,8 @@
+b40 28-33 baseline {'doomed_ring': (0.65, 0.038), 'safe_ring': (0.926, 0.006), 'doomed_edge': (-0.506, 0.471), 'safe_edge': (0.965, 0.005)}
+b40 28-33 patched  {'doomed_ring': (0.495, 0.063), 'safe_ring': (0.962, 0.004), 'doomed_edge': (-0.513, 0.475), 'safe_edge': (0.973, 0.005)}
+b40 34-37 baseline {'doomed_ring': (0.65, 0.038), 'safe_ring': (0.926, 0.006), 'doomed_edge': (-0.506, 0.471), 'safe_edge': (0.965, 0.005)}
+b40 34-37 patched  {'doomed_ring': (0.259, 0.055), 'safe_ring': (0.953, 0.006), 'doomed_edge': (-0.526, 0.469), 'safe_edge': (0.969, 0.005)}
+b40 38-40 baseline {'doomed_ring': (0.65, 0.038), 'safe_ring': (0.926, 0.006), 'doomed_edge': (-0.506, 0.471), 'safe_edge': (0.965, 0.005)}
+b40 38-40 patched  {'doomed_ring': (-0.113, 0.043), 'safe_ring': (0.948, 0.006), 'doomed_edge': (-0.502, 0.469), 'safe_edge': (0.974, 0.005)}
+b40 40-40 baseline {'doomed_ring': (0.65, 0.038), 'safe_ring': (0.926, 0.006), 'doomed_edge': (-0.506, 0.471), 'safe_edge': (0.965, 0.005)}
+b40 40-40 patched  {'doomed_ring': (0.202, 0.039), 'safe_ring': (0.934, 0.006), 'doomed_edge': (-0.491, 0.47), 'safe_edge': (0.972, 0.005)}

@@ -1,0 +1,566 @@
+{
+ "net": "g170",
+ "mid": [
+  6,
+  12
+ ],
+ "baseline": {
+  "own": {
+   "dr": 0.985,
+   "de": -0.264,
+   "sr": 0.993,
+   "se": 0.969
+  },
+  "death_evidence_doomed_loop": [
+   0.72,
+   0.66,
+   0.7,
+   0.64,
+   0.31,
+   0.02,
+   -0.54,
+   -0.58,
+   -0.36,
+   -0.46,
+   -0.46,
+   -0.35,
+   0.1,
+   0.08,
+   0.06,
+   0.01,
+   0.01,
+   0.37,
+   0.26,
+   0.15,
+   0.09
+  ],
+  "death_evidence_safe_loop": [
+   0.62,
+   0.54,
+   0.61,
+   0.38,
+   -0.07,
+   -0.46,
+   -0.95,
+   -1.0,
+   -0.69,
+   -0.78,
+   -0.75,
+   -0.54,
+   -0.05,
+   -0.08,
+   -0.1,
+   -0.11,
+   -0.04,
+   0.32,
+   0.23,
+   0.14,
+   0.08
+  ],
+  "writes_loop_minus_edge_doomed": [
+   -0.05,
+   0.031,
+   -0.058,
+   -0.261,
+   -0.297,
+   -0.563,
+   -0.377,
+   -0.052,
+   -0.289,
+   -0.356,
+   -0.345,
+   -0.184,
+   -0.054,
+   -0.233,
+   -0.214,
+   -0.391,
+   -0.16,
+   -0.109,
+   -0.27,
+   -0.465
+  ]
+ },
+ "holds": {
+  "6": {
+   "own": {
+    "dr": 0.951,
+    "de": -0.202,
+    "sr": 0.98,
+    "se": 0.964
+   },
+   "final_death_evidence_doomed_loop": 0.132,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.026,
+    "between_hold_and_last4": 0.63,
+    "last4": 0.016
+   },
+   "extra_death_writes_safe_loop_total": 1.377,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.026,
+    0.134,
+    -0.057,
+    0.115,
+    0.093,
+    0.061,
+    0.152,
+    0.047,
+    0.052,
+    0.008,
+    0.025,
+    -0.005,
+    -0.016,
+    0.01,
+    0.026
+   ]
+  },
+  "7": {
+   "own": {
+    "dr": 0.944,
+    "de": -0.229,
+    "sr": 0.975,
+    "se": 0.963
+   },
+   "final_death_evidence_doomed_loop": 0.113,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.054,
+    "between_hold_and_last4": 0.623,
+    "last4": -0.024
+   },
+   "extra_death_writes_safe_loop_total": 1.39,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.054,
+    0.019,
+    0.139,
+    0.112,
+    0.085,
+    0.152,
+    0.035,
+    0.057,
+    0.007,
+    0.018,
+    -0.018,
+    -0.02,
+    0.0,
+    0.013
+   ]
+  },
+  "8": {
+   "own": {
+    "dr": 0.942,
+    "de": -0.209,
+    "sr": 0.97,
+    "se": 0.962
+   },
+   "final_death_evidence_doomed_loop": 0.113,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.721,
+    "between_hold_and_last4": 0.443,
+    "last4": -0.027
+   },
+   "extra_death_writes_safe_loop_total": 0.964,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.721,
+    0.062,
+    0.06,
+    0.065,
+    0.105,
+    0.05,
+    0.063,
+    0.014,
+    0.022,
+    -0.019,
+    -0.019,
+    -0.002,
+    0.013
+   ]
+  },
+  "9": {
+   "own": {
+    "dr": 0.928,
+    "de": -0.236,
+    "sr": 0.961,
+    "se": 0.959
+   },
+   "final_death_evidence_doomed_loop": 0.131,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.831,
+    "between_hold_and_last4": 0.38,
+    "last4": -0.013
+   },
+   "extra_death_writes_safe_loop_total": 1.036,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.831,
+    0.013,
+    0.059,
+    0.115,
+    0.059,
+    0.072,
+    0.024,
+    0.038,
+    -0.016,
+    -0.021,
+    0.003,
+    0.021
+   ]
+  },
+  "10": {
+   "own": {
+    "dr": 0.907,
+    "de": -0.257,
+    "sr": 0.944,
+    "se": 0.955
+   },
+   "final_death_evidence_doomed_loop": 0.151,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.832,
+    "between_hold_and_last4": 0.387,
+    "last4": 0.008
+   },
+   "extra_death_writes_safe_loop_total": 1.122,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.832,
+    0.039,
+    0.113,
+    0.06,
+    0.085,
+    0.035,
+    0.055,
+    -0.008,
+    -0.018,
+    0.007,
+    0.028
+   ]
+  },
+  "11": {
+   "own": {
+    "dr": 0.898,
+    "de": -0.274,
+    "sr": 0.931,
+    "se": 0.947
+   },
+   "final_death_evidence_doomed_loop": 0.167,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.676,
+    "between_hold_and_last4": 0.265,
+    "last4": 0.045
+   },
+   "extra_death_writes_safe_loop_total": 0.959,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.676,
+    0.076,
+    0.024,
+    0.088,
+    0.028,
+    0.049,
+    0.004,
+    -0.009,
+    0.014,
+    0.037
+   ]
+  },
+  "12": {
+   "own": {
+    "dr": 0.86,
+    "de": -0.211,
+    "sr": 0.884,
+    "se": 0.918
+   },
+   "final_death_evidence_doomed_loop": 0.199,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.137,
+    "between_hold_and_last4": 0.148,
+    "last4": 0.088
+   },
+   "extra_death_writes_safe_loop_total": 0.313,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.137,
+    -0.06,
+    0.084,
+    0.043,
+    0.082,
+    -0.001,
+    0.009,
+    0.026,
+    0.054
+   ]
+  },
+  "6-7": {
+   "own": {
+    "dr": 0.943,
+    "de": -0.194,
+    "sr": 0.975,
+    "se": 0.963
+   },
+   "final_death_evidence_doomed_loop": 0.143,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.298,
+    "between_hold_and_last4": 0.599,
+    "last4": 0.019
+   },
+   "extra_death_writes_safe_loop_total": 1.587,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.026,
+    0.272,
+    -0.057,
+    0.13,
+    0.11,
+    0.076,
+    0.173,
+    0.055,
+    0.063,
+    0.013,
+    0.037,
+    -0.007,
+    -0.019,
+    0.012,
+    0.032
+   ]
+  },
+  "8-9": {
+   "own": {
+    "dr": 0.928,
+    "de": -0.219,
+    "sr": 0.963,
+    "se": 0.96
+   },
+   "final_death_evidence_doomed_loop": 0.126,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 0.892,
+    "between_hold_and_last4": 0.461,
+    "last4": -0.024
+   },
+   "extra_death_writes_safe_loop_total": 1.115,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.721,
+    0.171,
+    0.065,
+    0.076,
+    0.123,
+    0.06,
+    0.075,
+    0.024,
+    0.038,
+    -0.02,
+    -0.022,
+    0.0,
+    0.018
+   ]
+  },
+  "10-12": {
+   "own": {
+    "dr": 0.506,
+    "de": -0.169,
+    "sr": 0.661,
+    "se": 0.899
+   },
+   "final_death_evidence_doomed_loop": 0.418,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.15,
+    "between_hold_and_last4": 0.445,
+    "last4": 0.35
+   },
+   "extra_death_writes_safe_loop_total": 1.761,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.832,
+    0.144,
+    0.174,
+    0.049,
+    0.147,
+    0.081,
+    0.168,
+    0.073,
+    0.025,
+    0.08,
+    0.171
+   ]
+  },
+  "6-9": {
+   "own": {
+    "dr": 0.922,
+    "de": -0.204,
+    "sr": 0.965,
+    "se": 0.96
+   },
+   "final_death_evidence_doomed_loop": 0.17,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.527,
+    "between_hold_and_last4": 0.659,
+    "last4": 0.035
+   },
+   "extra_death_writes_safe_loop_total": 1.79,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.026,
+    0.272,
+    0.0,
+    0.229,
+    0.121,
+    0.093,
+    0.2,
+    0.071,
+    0.083,
+    0.027,
+    0.064,
+    -0.006,
+    -0.021,
+    0.018,
+    0.043
+   ]
+  },
+  "8-12": {
+   "own": {
+    "dr": 0.463,
+    "de": -0.122,
+    "sr": 0.677,
+    "se": 0.9
+   },
+   "final_death_evidence_doomed_loop": 0.445,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 1.478,
+    "between_hold_and_last4": 0.483,
+    "last4": 0.379
+   },
+   "extra_death_writes_safe_loop_total": 1.955,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.721,
+    0.171,
+    0.196,
+    0.186,
+    0.204,
+    0.064,
+    0.147,
+    0.09,
+    0.182,
+    0.078,
+    0.027,
+    0.089,
+    0.185
+   ]
+  },
+  "6-12": {
+   "own": {
+    "dr": 0.258,
+    "de": -0.098,
+    "sr": 0.648,
+    "se": 0.899
+   },
+   "final_death_evidence_doomed_loop": 0.618,
+   "extra_death_writes_doomed_loop": {
+    "inside_hold": 2.241,
+    "between_hold_and_last4": 0.546,
+    "last4": 0.629
+   },
+   "extra_death_writes_safe_loop_total": 2.679,
+   "extra_death_writes_doomed_loop_by_block": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.026,
+    0.272,
+    0.0,
+    0.229,
+    0.243,
+    0.192,
+    0.279,
+    0.081,
+    0.158,
+    0.095,
+    0.213,
+    0.128,
+    0.051,
+    0.152,
+    0.298
+   ]
+  }
+ }
+}

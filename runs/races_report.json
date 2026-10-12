@@ -1,0 +1,398 @@
+{
+ "n_cases": 288,
+ "engines": {
+  "humansl": {
+   "mass_correct": {
+    "cyclic": [
+     0.369,
+     0.331,
+     0.408
+    ],
+    "edge": [
+     0.521,
+     0.477,
+     0.563
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.792,
+    "edge": 0.896
+   },
+   "mass_saving": {
+    "cyclic": 0.369,
+    "edge": 0.521
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.695,
+     "edge": 0.856
+    },
+    "2": {
+     "cyclic": 0.531,
+     "edge": 0.637
+    },
+    "3": {
+     "cyclic": 0.307,
+     "edge": 0.416
+    },
+    "4": {
+     "cyclic": 0.206,
+     "edge": 0.402
+    },
+    "5": {
+     "cyclic": 0.168,
+     "edge": 0.399
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.519,
+     0.463,
+     0.574
+    ],
+    "edge": [
+     0.616,
+     0.56,
+     0.675
+    ]
+   },
+   "probe_layers": [
+    "block1",
+    "block2",
+    "block3",
+    "block4",
+    "block5",
+    "block6",
+    "block7",
+    "block8",
+    "block9",
+    "block10",
+    "block11",
+    "block12",
+    "block13",
+    "block14",
+    "block15",
+    "block16",
+    "block17",
+    "block18"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.246,
+    -0.324,
+    -0.175
+   ],
+   "cyclic_effect_on_representation": [
+    -0.107,
+    -0.15,
+    -0.064
+   ]
+  },
+  "lz": {
+   "mass_correct": {
+    "cyclic": [
+     0.02,
+     0.015,
+     0.027
+    ],
+    "edge": [
+     0.308,
+     0.261,
+     0.357
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.042,
+    "edge": 0.785
+   },
+   "mass_saving": {
+    "cyclic": 0.02,
+    "edge": 0.308
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.017,
+     "edge": 0.461
+    },
+    "2": {
+     "cyclic": 0.022,
+     "edge": 0.394
+    },
+    "3": {
+     "cyclic": 0.015,
+     "edge": 0.267
+    },
+    "4": {
+     "cyclic": 0.04,
+     "edge": 0.228
+    },
+    "5": {
+     "cyclic": 0.009,
+     "edge": 0.229
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.171,
+     0.152,
+     0.191
+    ],
+    "edge": [
+     0.328,
+     0.29,
+     0.367
+    ]
+   },
+   "probe_layers": [
+    "block2",
+    "block4",
+    "block6",
+    "block8",
+    "block10",
+    "block12",
+    "block14",
+    "block16",
+    "block18",
+    "block20",
+    "block22",
+    "block24",
+    "block26",
+    "block28",
+    "block30",
+    "block32",
+    "block34",
+    "block36",
+    "block38",
+    "block40"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.33,
+    -0.418,
+    -0.239
+   ],
+   "cyclic_effect_on_representation": [
+    -0.102,
+    -0.151,
+    -0.047
+   ]
+  },
+  "g170": {
+   "mass_correct": {
+    "cyclic": [
+     0.096,
+     0.058,
+     0.138
+    ],
+    "edge": [
+     0.74,
+     0.691,
+     0.788
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.132,
+    "edge": 0.785
+   },
+   "mass_saving": {
+    "cyclic": 0.096,
+    "edge": 0.74
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.575,
+     "edge": 0.952
+    },
+    "2": {
+     "cyclic": 0.0,
+     "edge": 0.744
+    },
+    "3": {
+     "cyclic": 0.0,
+     "edge": 0.646
+    },
+    "4": {
+     "cyclic": 0.001,
+     "edge": 0.693
+    },
+    "5": {
+     "cyclic": 0.0,
+     "edge": 0.762
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.539,
+     0.489,
+     0.587
+    ],
+    "edge": [
+     0.529,
+     0.477,
+     0.579
+    ]
+   },
+   "probe_layers": [
+    "block1",
+    "block2",
+    "block3",
+    "block4",
+    "block5",
+    "block6",
+    "block7",
+    "block8",
+    "block9",
+    "block10",
+    "block11",
+    "block12",
+    "block13",
+    "block14",
+    "block15",
+    "block16",
+    "block17",
+    "block18",
+    "block19",
+    "block20"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.659,
+    -0.75,
+    -0.56
+   ],
+   "cyclic_effect_on_representation": [
+    0.01,
+    -0.03,
+    0.047
+   ]
+  },
+  "tf3": {
+   "mass_correct": {
+    "cyclic": [
+     0.618,
+     0.559,
+     0.673
+    ],
+    "edge": [
+     0.697,
+     0.638,
+     0.753
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.729,
+    "edge": 0.729
+   },
+   "mass_saving": {
+    "cyclic": 0.618,
+    "edge": 0.697
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.789,
+     "edge": 0.923
+    },
+    "2": {
+     "cyclic": 0.603,
+     "edge": 0.713
+    },
+    "3": {
+     "cyclic": 0.669,
+     "edge": 0.604
+    },
+    "4": {
+     "cyclic": 0.579,
+     "edge": 0.62
+    },
+    "5": {
+     "cyclic": 0.396,
+     "edge": 0.717
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.627,
+     0.574,
+     0.679
+    ],
+    "edge": [
+     0.717,
+     0.671,
+     0.762
+    ]
+   },
+   "probe_layers": [
+    "block1",
+    "block2",
+    "block3",
+    "block4",
+    "block5",
+    "block6",
+    "block7",
+    "block8",
+    "block9",
+    "block10",
+    "block11"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.111,
+    -0.246,
+    0.038
+   ],
+   "cyclic_effect_on_representation": [
+    -0.144,
+    -0.186,
+    -0.105
+   ]
+  }
+ },
+ "links": {
+  "humansl": {
+   "all": {
+    "r": -0.007,
+    "p": 0.5435
+   }
+  },
+  "lz": {
+   "all": {
+    "r": 0.01,
+    "p": 0.4567
+   }
+  },
+  "g170": {
+   "all": {
+    "r": -0.066,
+    "p": 0.8678
+   }
+  },
+  "tf3": {
+   "all": {
+    "r": -0.055,
+    "p": 0.8275
+   }
+  }
+ },
+ "shared_behaviour": {
+  "humansl~lz": {
+   "r": 0.17,
+   "p": 0.002
+  },
+  "humansl~g170": {
+   "r": 0.245,
+   "p": 0.0
+  },
+  "humansl~tf3": {
+   "r": 0.42,
+   "p": 0.0
+  },
+  "lz~g170": {
+   "r": 0.411,
+   "p": 0.0
+  },
+  "lz~tf3": {
+   "r": 0.285,
+   "p": 0.0
+  },
+  "g170~tf3": {
+   "r": 0.591,
+   "p": 0.0
+  }
+ }
+}

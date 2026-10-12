@@ -1,0 +1,9 @@
+  region (4, 10) ring: 6 + 6
+  region (4, 10) edge: 0 + 0
+  region (10, 20) ring: 25 + 25
+  region (10, 20) edge: 25 + 25
+  region (20, 35) ring: 25 + 25
+  region (20, 35) edge: 25 + 25
+  region (35, 60) ring: 25 + 25
+  region (35, 60) edge: 25 + 25
+312 cases

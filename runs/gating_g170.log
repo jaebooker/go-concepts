@@ -1,0 +1,17 @@
+baseline death evidence on doomed loops: [0.72, 0.66, 0.7, 0.64, 0.31, 0.02, -0.54, -0.58, -0.36, -0.46, -0.46, -0.35, 0.1, 0.08, 0.06, 0.01, 0.01, 0.37, 0.26, 0.15, 0.09]
+writes (doomed loop - doomed edge) per block: [-0.05, 0.031, -0.058, -0.261, -0.297, -0.563, -0.377, -0.052, -0.289, -0.356, -0.345, -0.184, -0.054, -0.233, -0.214, -0.391, -0.16, -0.109, -0.27, -0.465]
+hold       6: doomed loop own +0.95  safe loop +0.98  final death evidence +0.13  extra writes {'inside_hold': 1.026, 'between_hold_and_last4': 0.63, 'last4': 0.016}
+hold       7: doomed loop own +0.94  safe loop +0.97  final death evidence +0.11  extra writes {'inside_hold': 1.054, 'between_hold_and_last4': 0.623, 'last4': -0.024}
+hold       8: doomed loop own +0.94  safe loop +0.97  final death evidence +0.11  extra writes {'inside_hold': 0.721, 'between_hold_and_last4': 0.443, 'last4': -0.027}
+hold       9: doomed loop own +0.93  safe loop +0.96  final death evidence +0.13  extra writes {'inside_hold': 0.831, 'between_hold_and_last4': 0.38, 'last4': -0.013}
+hold      10: doomed loop own +0.91  safe loop +0.94  final death evidence +0.15  extra writes {'inside_hold': 0.832, 'between_hold_and_last4': 0.387, 'last4': 0.008}
+hold      11: doomed loop own +0.90  safe loop +0.93  final death evidence +0.17  extra writes {'inside_hold': 0.676, 'between_hold_and_last4': 0.265, 'last4': 0.045}
+hold      12: doomed loop own +0.86  safe loop +0.88  final death evidence +0.20  extra writes {'inside_hold': 0.137, 'between_hold_and_last4': 0.148, 'last4': 0.088}
+hold     6-7: doomed loop own +0.94  safe loop +0.97  final death evidence +0.14  extra writes {'inside_hold': 1.298, 'between_hold_and_last4': 0.599, 'last4': 0.019}
+hold     8-9: doomed loop own +0.93  safe loop +0.96  final death evidence +0.13  extra writes {'inside_hold': 0.892, 'between_hold_and_last4': 0.461, 'last4': -0.024}
+hold   10-12: doomed loop own +0.51  safe loop +0.66  final death evidence +0.42  extra writes {'inside_hold': 1.15, 'between_hold_and_last4': 0.445, 'last4': 0.35}
+hold     6-7: doomed loop own +0.94  safe loop +0.97  final death evidence +0.14  extra writes {'inside_hold': 1.298, 'between_hold_and_last4': 0.599, 'last4': 0.019}
+hold     6-9: doomed loop own +0.92  safe loop +0.96  final death evidence +0.17  extra writes {'inside_hold': 1.527, 'between_hold_and_last4': 0.659, 'last4': 0.035}
+hold    8-12: doomed loop own +0.46  safe loop +0.68  final death evidence +0.45  extra writes {'inside_hold': 1.478, 'between_hold_and_last4': 0.483, 'last4': 0.379}
+hold   10-12: doomed loop own +0.51  safe loop +0.66  final death evidence +0.42  extra writes {'inside_hold': 1.15, 'between_hold_and_last4': 0.445, 'last4': 0.35}
+hold    6-12: doomed loop own +0.26  safe loop +0.65  final death evidence +0.62  extra writes {'inside_hold': 2.241, 'between_hold_and_last4': 0.546, 'last4': 0.629}

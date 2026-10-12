@@ -1,0 +1,50 @@
+{
+ "bal181_flipped_D_to_move": {
+  "visits": 65,
+  "root_value_for_D": -1.0,
+  "ring_ownership_D": 0.241,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   4,
+   16
+  ],
+  "top_move_share": 0.375,
+  "raw_ring_ownership_D": 0.931
+ },
+ "bal181_flipped_after_D_pass": {
+  "visits": 65,
+  "root_value_for_D": -1.0,
+  "ring_ownership_D": 0.242,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   1,
+   10
+  ],
+  "top_move_share": 0.156,
+  "raw_ring_ownership_D": 0.663
+ },
+ "bal181_seed_D_to_move": {
+  "visits": 65,
+  "root_value_for_D": -1.0,
+  "ring_ownership_D": 0.932,
+  "visit_share_on_capture": 1.0,
+  "top_move": [
+   10,
+   8
+  ],
+  "top_move_share": 0.375,
+  "raw_ring_ownership_D": 0.784
+ },
+ "bal181_seed_after_D_pass": {
+  "visits": 65,
+  "root_value_for_D": -1.0,
+  "ring_ownership_D": -0.917,
+  "visit_share_on_capture": 0.0,
+  "top_move": [
+   7,
+   9
+  ],
+  "top_move_share": 0.281,
+  "raw_ring_ownership_D": -0.923
+ }
+}

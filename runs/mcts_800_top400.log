@@ -1,0 +1,6 @@
+bal12_flipped_D_to_move {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': -0.144, 'visit_share_on_capture': 0.25, 'top_move': (16, 14), 'top_move_share': 0.16, 'raw_ring_ownership_D': 0.38}
+bal12_flipped_after_D_pass {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': -0.257, 'visit_share_on_capture': 0.0, 'top_move': (2, 16), 'top_move_share': 0.246, 'raw_ring_ownership_D': 0.38}
+bal161_flipped_D_to_move {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': 0.786, 'visit_share_on_capture': 0.85, 'top_move': (10, 9), 'top_move_share': 0.46, 'raw_ring_ownership_D': 0.854}
+bal161_flipped_after_D_pass {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': -0.056, 'visit_share_on_capture': 0.0, 'top_move': (8, 2), 'top_move_share': 0.18, 'raw_ring_ownership_D': 0.428}
+bal181_flipped_D_to_move {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': 0.05, 'visit_share_on_capture': 0.0, 'top_move': (4, 16), 'top_move_share': 0.22, 'raw_ring_ownership_D': 0.931}
+bal181_flipped_after_D_pass {'visits': 801, 'root_value_for_D': -1.0, 'ring_ownership_D': 0.107, 'visit_share_on_capture': 0.0, 'top_move': (1, 10), 'top_move_share': 0.13, 'raw_ring_ownership_D': 0.663}

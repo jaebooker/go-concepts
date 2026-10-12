@@ -1,0 +1,30 @@
+  pass trunk 12/320
+  pass trunk 24/320
+  pass trunk 36/320
+  pass trunk 48/320
+  pass trunk 60/320
+  pass trunk 72/320
+  pass trunk 84/320
+  pass trunk 96/320
+  pass trunk 108/320
+  pass trunk 120/320
+  pass trunk 132/320
+  pass trunk 144/320
+  pass trunk 156/320
+  pass trunk 168/320
+  pass trunk 180/320
+  pass trunk 192/320
+  pass trunk 204/320
+  pass trunk 216/320
+  pass trunk 228/320
+  pass trunk 240/320
+  pass trunk 252/320
+  pass trunk 264/320
+  pass trunk 276/320
+  pass trunk 288/320
+  pass trunk 300/320
+  pass trunk 312/320
+  pass trunk 320/320
+baseline (stored) {'doomed_ring': {'own_after_pass': 0.65, 'capture': 0.038, 'n': 41}, 'safe_ring': {'own_after_pass': 0.926, 'capture': 0.006, 'n': 40}, 'doomed_edge': {'own_after_pass': -0.506, 'capture': 0.471, 'n': 40}, 'safe_edge': {'own_after_pass': 0.965, 'capture': 0.005, 'n': 39}}
+hold {'doomed_ring': {'own_after_pass': -0.205, 'capture': 0.215, 'n': 41}, 'safe_ring': {'own_after_pass': 0.751, 'capture': 0.038, 'n': 40}, 'doomed_edge': {'own_after_pass': -0.31, 'capture': 0.424, 'n': 40}, 'safe_edge': {'own_after_pass': 0.954, 'capture': 0.005, 'n': 39}}
+random {'doomed_ring': {'own_after_pass': 0.632, 'capture': 0.032, 'n': 41}, 'safe_ring': {'own_after_pass': 0.927, 'capture': 0.006, 'n': 40}, 'doomed_edge': {'own_after_pass': -0.495, 'capture': 0.466, 'n': 40}, 'safe_edge': {'own_after_pass': 0.965, 'capture': 0.006, 'n': 39}}

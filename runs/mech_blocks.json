@@ -1,0 +1,468 @@
+{
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": 0.986,
+   "read_alive": 1.0,
+   "capture": 0.0
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "read_alive": 1.0,
+   "capture": 0.003
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.326,
+   "read_alive": 0.25,
+   "capture": 0.545
+  },
+  "safe_edge": {
+   "own_after_pass": 0.967,
+   "read_alive": 1.0,
+   "capture": 0.006
+  }
+ },
+ "patch_one_block": {
+  "block1": {
+   "doomed_ring": {
+    "own_after_pass": 0.98,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.363,
+    "read_alive": 0.212,
+    "capture": 0.495
+   },
+   "safe_edge": {
+    "own_after_pass": 0.962,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "block2": {
+   "doomed_ring": {
+    "own_after_pass": 0.985,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.014,
+    "read_alive": 0.45,
+    "capture": 0.518
+   },
+   "safe_edge": {
+    "own_after_pass": 0.97,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block3": {
+   "doomed_ring": {
+    "own_after_pass": 0.985,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": 0.194,
+    "read_alive": 0.613,
+    "capture": 0.511
+   },
+   "safe_edge": {
+    "own_after_pass": 0.972,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block4": {
+   "doomed_ring": {
+    "own_after_pass": 0.981,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.295,
+    "read_alive": 0.25,
+    "capture": 0.544
+   },
+   "safe_edge": {
+    "own_after_pass": 0.967,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block5": {
+   "doomed_ring": {
+    "own_after_pass": 0.983,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.182,
+    "read_alive": 0.3,
+    "capture": 0.54
+   },
+   "safe_edge": {
+    "own_after_pass": 0.969,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block6": {
+   "doomed_ring": {
+    "own_after_pass": 0.979,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.99,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.303,
+    "read_alive": 0.25,
+    "capture": 0.526
+   },
+   "safe_edge": {
+    "own_after_pass": 0.965,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block7": {
+   "doomed_ring": {
+    "own_after_pass": 0.985,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.306,
+    "read_alive": 0.237,
+    "capture": 0.537
+   },
+   "safe_edge": {
+    "own_after_pass": 0.965,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "block8": {
+   "doomed_ring": {
+    "own_after_pass": 0.987,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.994,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.287,
+    "read_alive": 0.263,
+    "capture": 0.535
+   },
+   "safe_edge": {
+    "own_after_pass": 0.965,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "block9": {
+   "doomed_ring": {
+    "own_after_pass": 0.978,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.99,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.329,
+    "read_alive": 0.237,
+    "capture": 0.535
+   },
+   "safe_edge": {
+    "own_after_pass": 0.962,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "block10": {
+   "doomed_ring": {
+    "own_after_pass": 0.979,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.99,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.276,
+    "read_alive": 0.287,
+    "capture": 0.532
+   },
+   "safe_edge": {
+    "own_after_pass": 0.963,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "block11": {
+   "doomed_ring": {
+    "own_after_pass": 0.975,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.987,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.327,
+    "read_alive": 0.225,
+    "capture": 0.553
+   },
+   "safe_edge": {
+    "own_after_pass": 0.951,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "block12": {
+   "doomed_ring": {
+    "own_after_pass": 0.982,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.99,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.265,
+    "read_alive": 0.287,
+    "capture": 0.564
+   },
+   "safe_edge": {
+    "own_after_pass": 0.961,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  }
+ },
+ "patch_range": {
+  "blocks3-5": {
+   "doomed_ring": {
+    "own_after_pass": 0.973,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.989,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": 0.236,
+    "read_alive": 0.588,
+    "capture": 0.432
+   },
+   "safe_edge": {
+    "own_after_pass": 0.969,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "blocks4-6": {
+   "doomed_ring": {
+    "own_after_pass": 0.966,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.987,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.168,
+    "read_alive": 0.362,
+    "capture": 0.479
+   },
+   "safe_edge": {
+    "own_after_pass": 0.966,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "blocks4-7": {
+   "doomed_ring": {
+    "own_after_pass": 0.962,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.984,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.132,
+    "read_alive": 0.375,
+    "capture": 0.47
+   },
+   "safe_edge": {
+    "own_after_pass": 0.964,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "blocks3-7": {
+   "doomed_ring": {
+    "own_after_pass": 0.958,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.983,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": 0.146,
+    "read_alive": 0.562,
+    "capture": 0.415
+   },
+   "safe_edge": {
+    "own_after_pass": 0.964,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "blocks5-7": {
+   "doomed_ring": {
+    "own_after_pass": 0.971,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.986,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.179,
+    "read_alive": 0.312,
+    "capture": 0.489
+   },
+   "safe_edge": {
+    "own_after_pass": 0.964,
+    "read_alive": 1.0,
+    "capture": 0.005
+   }
+  },
+  "blocks6-8": {
+   "doomed_ring": {
+    "own_after_pass": 0.979,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.99,
+    "read_alive": 1.0,
+    "capture": 0.004
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.246,
+    "read_alive": 0.275,
+    "capture": 0.492
+   },
+   "safe_edge": {
+    "own_after_pass": 0.96,
+    "read_alive": 1.0,
+    "capture": 0.006
+   }
+  },
+  "blocks1-7": {
+   "doomed_ring": {
+    "own_after_pass": 0.942,
+    "read_alive": 1.0,
+    "capture": 0.005
+   },
+   "safe_ring": {
+    "own_after_pass": 0.977,
+    "read_alive": 1.0,
+    "capture": 0.001
+   },
+   "doomed_edge": {
+    "own_after_pass": 0.028,
+    "read_alive": 0.5,
+    "capture": 0.304
+   },
+   "safe_edge": {
+    "own_after_pass": 0.944,
+    "read_alive": 1.0,
+    "capture": 0.061
+   }
+  },
+  "blocks1-12": {
+   "doomed_ring": {
+    "own_after_pass": 0.231,
+    "read_alive": 0.65,
+    "capture": 0.195
+   },
+   "safe_ring": {
+    "own_after_pass": 0.851,
+    "read_alive": 0.988,
+    "capture": 0.013
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.134,
+    "read_alive": 0.325,
+    "capture": 0.366
+   },
+   "safe_edge": {
+    "own_after_pass": 0.824,
+    "read_alive": 0.963,
+    "capture": 0.135
+   }
+  }
+ }
+}

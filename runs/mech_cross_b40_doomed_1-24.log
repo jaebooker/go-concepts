@@ -1,0 +1,2 @@
+baseline (stored) {'doomed_ring': {'own_after_pass': 0.65, 'capture': 0.038, 'n': 41}, 'safe_ring': {'own_after_pass': 0.926, 'capture': 0.006, 'n': 40}, 'doomed_edge': {'own_after_pass': -0.506, 'capture': 0.471, 'n': 40}, 'safe_edge': {'own_after_pass': 0.965, 'capture': 0.005, 'n': 39}}
+hold {'doomed_ring': {'own_after_pass': -0.338, 'capture': 0.244, 'n': 41}, 'safe_ring': {'own_after_pass': 0.661, 'capture': 0.044, 'n': 40}, 'doomed_edge': {'own_after_pass': -0.394, 'capture': 0.427, 'n': 40}, 'safe_edge': {'own_after_pass': 0.922, 'capture': 0.006, 'n': 39}}

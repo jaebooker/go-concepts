@@ -1,0 +1,130 @@
+{
+ "n_test_pairs": 179,
+ "engines": {
+  "lz": {
+   "layer": "block10",
+   "train_acc": 0.462,
+   "gap_mean": 0.118,
+   "gap_ci": [
+    0.079,
+    0.158
+   ],
+   "gap_reliability": 0.753
+  },
+  "g170": {
+   "layer": "block7",
+   "train_acc": 0.621,
+   "gap_mean": 0.036,
+   "gap_ci": [
+    0.004,
+    0.069
+   ],
+   "gap_reliability": 0.663
+  },
+  "humansl": {
+   "layer": "block18",
+   "train_acc": 0.747,
+   "gap_mean": 0.014,
+   "gap_ci": [
+    -0.023,
+    0.052
+   ],
+   "gap_reliability": 0.796
+  },
+  "tf3": {
+   "layer": "block11",
+   "train_acc": 0.996,
+   "gap_mean": 0.011,
+   "gap_ci": [
+    -0.038,
+    0.059
+   ],
+   "gap_reliability": 0.875
+  }
+ },
+ "pairs": {
+  "lz~g170": {
+   "r": 0.191,
+   "p_within_liberty_strata": 0.256,
+   "ceiling": 0.707,
+   "r_over_ceiling": 0.271
+  },
+  "lz~humansl": {
+   "r": 0.38,
+   "p_within_liberty_strata": 0.0045,
+   "ceiling": 0.774,
+   "r_over_ceiling": 0.491
+  },
+  "lz~tf3": {
+   "r": 0.16,
+   "p_within_liberty_strata": 0.063,
+   "ceiling": 0.812,
+   "r_over_ceiling": 0.197
+  },
+  "g170~humansl": {
+   "r": 0.35,
+   "p_within_liberty_strata": 0.0045,
+   "ceiling": 0.726,
+   "r_over_ceiling": 0.482
+  },
+  "g170~tf3": {
+   "r": -0.01,
+   "p_within_liberty_strata": 0.6485,
+   "ceiling": 0.762,
+   "r_over_ceiling": -0.013
+  },
+  "humansl~tf3": {
+   "r": 0.123,
+   "p_within_liberty_strata": 0.1015,
+   "ceiling": 0.835,
+   "r_over_ceiling": 0.147
+  }
+ },
+ "gap_by_libs": {
+  "lz": {
+   "2": 0.322,
+   "3": 0.249,
+   "4": 0.175,
+   "5": -0.021,
+   "6": 0.031,
+   "7": 0.041,
+   "8": -0.278
+  },
+  "g170": {
+   "2": 0.004,
+   "3": 0.024,
+   "4": 0.278,
+   "5": 0.055,
+   "6": -0.015,
+   "7": -0.055,
+   "8": -0.189
+  },
+  "humansl": {
+   "2": 0.013,
+   "3": 0.079,
+   "4": 0.164,
+   "5": -0.01,
+   "6": -0.034,
+   "7": -0.034,
+   "8": -0.246
+  },
+  "tf3": {
+   "2": 0.034,
+   "3": 0.116,
+   "4": 0.069,
+   "5": -0.203,
+   "6": -0.073,
+   "7": -0.079,
+   "8": 0.127
+  }
+ },
+ "n_by_libs": {
+  "2": 34,
+  "3": 33,
+  "4": 32,
+  "5": 21,
+  "6": 26,
+  "7": 16,
+  "8": 17
+ }
+}

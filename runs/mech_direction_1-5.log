@@ -1,0 +1,11 @@
+cosine u_k (pass):
+   [1.0, 0.97, 0.92, 0.84, 0.74]
+   [0.97, 1.0, 0.97, 0.9, 0.82]
+   [0.92, 0.97, 1.0, 0.96, 0.9]
+   [0.84, 0.9, 0.96, 1.0, 0.97]
+   [0.74, 0.82, 0.9, 0.97, 1.0]
+baseline_eval_half {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+loop_direction {'doomed_ring': (0.965, 0.0), 'safe_ring': (0.987, 0.003), 'doomed_edge': (-0.193, 0.49), 'safe_edge': (0.965, 0.006)}
+random {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.244, 0.488), 'safe_edge': (0.969, 0.006)}
+random {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.267, 0.494), 'safe_edge': (0.969, 0.007)}
+random {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.285, 0.486), 'safe_edge': (0.968, 0.007)}

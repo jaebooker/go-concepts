@@ -1,0 +1,139 @@
+{
+ "layers": {
+  "block3": {
+   "scale": 0.785293459892273,
+   "results": {
+    "doomed_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "doomed_dir alpha=8": {
+     "doomed_ring": 0.042,
+     "doomed_edge": 0.631,
+     "safe_ring": 0.018
+    },
+    "doomed_dir alpha=16": {
+     "doomed_ring": 0.156,
+     "doomed_edge": 0.648,
+     "safe_ring": 0.023
+    },
+    "doomed_dir alpha=32": {
+     "doomed_ring": 0.503,
+     "doomed_edge": 0.438,
+     "safe_ring": 0.419
+    },
+    "random_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "random_dir alpha=8": {
+     "doomed_ring": 0.006,
+     "doomed_edge": 0.597,
+     "safe_ring": 0.015
+    },
+    "random_dir alpha=16": {
+     "doomed_ring": 0.014,
+     "doomed_edge": 0.559,
+     "safe_ring": 0.019
+    },
+    "random_dir alpha=32": {
+     "doomed_ring": 0.213,
+     "doomed_edge": 0.362,
+     "safe_ring": 0.059
+    }
+   }
+  },
+  "block6": {
+   "scale": 1.3698450326919556,
+   "results": {
+    "doomed_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "doomed_dir alpha=8": {
+     "doomed_ring": 0.092,
+     "doomed_edge": 0.504,
+     "safe_ring": 0.018
+    },
+    "doomed_dir alpha=16": {
+     "doomed_ring": 0.324,
+     "doomed_edge": 0.348,
+     "safe_ring": 0.15
+    },
+    "doomed_dir alpha=32": {
+     "doomed_ring": 0.417,
+     "doomed_edge": 0.189,
+     "safe_ring": 0.414
+    },
+    "random_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "random_dir alpha=8": {
+     "doomed_ring": 0.004,
+     "doomed_edge": 0.579,
+     "safe_ring": 0.01
+    },
+    "random_dir alpha=16": {
+     "doomed_ring": 0.012,
+     "doomed_edge": 0.484,
+     "safe_ring": 0.011
+    },
+    "random_dir alpha=32": {
+     "doomed_ring": 0.038,
+     "doomed_edge": 0.319,
+     "safe_ring": 0.004
+    }
+   }
+  },
+  "block8": {
+   "scale": 1.9279847145080566,
+   "results": {
+    "doomed_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "doomed_dir alpha=8": {
+     "doomed_ring": 0.036,
+     "doomed_edge": 0.521,
+     "safe_ring": 0.025
+    },
+    "doomed_dir alpha=16": {
+     "doomed_ring": 0.24,
+     "doomed_edge": 0.368,
+     "safe_ring": 0.074
+    },
+    "doomed_dir alpha=32": {
+     "doomed_ring": 0.479,
+     "doomed_edge": 0.186,
+     "safe_ring": 0.496
+    },
+    "random_dir alpha=0": {
+     "doomed_ring": 0.003,
+     "doomed_edge": 0.619,
+     "safe_ring": 0.013
+    },
+    "random_dir alpha=8": {
+     "doomed_ring": 0.002,
+     "doomed_edge": 0.625,
+     "safe_ring": 0.016
+    },
+    "random_dir alpha=16": {
+     "doomed_ring": 0.02,
+     "doomed_edge": 0.513,
+     "safe_ring": 0.015
+    },
+    "random_dir alpha=32": {
+     "doomed_ring": 0.092,
+     "doomed_edge": 0.185,
+     "safe_ring": 0.044
+    }
+   }
+  }
+ }
+}

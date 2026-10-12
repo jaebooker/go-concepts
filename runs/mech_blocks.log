@@ -1,0 +1,21 @@
+block 1: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.36 cap 0.49
+block 2: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.01 cap 0.52
+block 3: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own +0.19 cap 0.51
+block 4: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.29 cap 0.54
+block 5: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.18 cap 0.54
+block 6: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.30 cap 0.53
+block 7: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.31 cap 0.54
+block 8: doomed ring own +0.99 cap 0.00 | safe ring own +0.99 | doomed edge own -0.29 cap 0.54
+block 9: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.33 cap 0.54
+block 10: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.28 cap 0.53
+block 11: doomed ring own +0.97 cap 0.00 | safe ring own +0.99 | doomed edge own -0.33 cap 0.55
+block 12: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 | doomed edge own -0.27 cap 0.56
+blocks 3-5: doomed ring own +0.97 cap 0.00 | safe ring own +0.99 cap 0.00 | doomed edge own +0.24 cap 0.43
+blocks 4-6: doomed ring own +0.97 cap 0.00 | safe ring own +0.99 cap 0.00 | doomed edge own -0.17 cap 0.48
+blocks 4-7: doomed ring own +0.96 cap 0.00 | safe ring own +0.98 cap 0.00 | doomed edge own -0.13 cap 0.47
+blocks 3-7: doomed ring own +0.96 cap 0.00 | safe ring own +0.98 cap 0.00 | doomed edge own +0.15 cap 0.41
+blocks 5-7: doomed ring own +0.97 cap 0.00 | safe ring own +0.99 cap 0.00 | doomed edge own -0.18 cap 0.49
+blocks 6-8: doomed ring own +0.98 cap 0.00 | safe ring own +0.99 cap 0.00 | doomed edge own -0.25 cap 0.49
+blocks 1-7: doomed ring own +0.94 cap 0.01 | safe ring own +0.98 cap 0.00 | doomed edge own +0.03 cap 0.30
+blocks 1-12: doomed ring own +0.23 cap 0.20 | safe ring own +0.85 cap 0.01 | doomed edge own -0.13 cap 0.37
+baseline {"doomed_ring": {"own_after_pass": 0.986, "read_alive": 1.0, "capture": 0.0}, "safe_ring": {"own_after_pass": 0.993, "read_alive": 1.0, "capture": 0.003}, "doomed_edge": {"own_after_pass": -0.326, "read_alive": 0.25, "capture": 0.545}, "safe_edge": {"own_after_pass": 0.967, "read_alive": 1.0, "capture": 0.006}}

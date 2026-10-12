@@ -1,0 +1,34 @@
+bal10 std seed -0.91 best -0.56 first alive None first >0.5 None changed 18 193s
+bal11 std seed -0.94 best -0.27 first alive None first >0.5 None changed 18 196s
+bal12 std seed -0.92 best 0.38 first alive (6, 13) first >0.5 None changed 16 598s
+bal15 std seed -0.95 best -0.43 first alive None first >0.5 None changed 17 236s
+bal158 std seed -0.93 best -0.81 first alive None first >0.5 None changed 18 546s
+bal16 std seed -0.96 best -0.64 first alive None first >0.5 None changed 14 642s
+bal160 std seed -0.9 best -0.42 first alive None first >0.5 None changed 16 962s
+bal161 std seed -0.93 best 0.43 first alive (8, 19) first >0.5 None changed 25 276s
+bal166 std seed -0.94 best -0.94 first alive None first >0.5 None changed 0 26s
+bal168 std seed -0.91 best -0.78 first alive None first >0.5 None changed 16 409s
+bal169 std seed -0.93 best -0.93 first alive None first >0.5 None changed 0 34s
+bal17 std seed -0.92 best -0.48 first alive None first >0.5 None changed 14 289s
+bal171 std seed -0.93 best -0.93 first alive None first >0.5 None changed 0 35s
+bal177 std seed -0.96 best -0.79 first alive None first >0.5 None changed 11 394s
+bal18 std seed -0.97 best -0.64 first alive None first >0.5 None changed 16 234s
+bal180 std seed -0.91 best -0.1 first alive None first >0.5 None changed 16 304s
+bal181 std seed -0.92 best 0.66 first alive (7, 17) first >0.5 (10, 23) changed 20 308s
+bal186 std seed -0.95 best -0.83 first alive None first >0.5 None changed 13 459s
+W1001 04:41:36.543000 5433 torch/_dynamo/convert_frame.py:2008] [0/8] torch._dynamo hit config.recompile_limit (8)
+W1001 04:41:36.543000 5433 torch/_dynamo/convert_frame.py:2008] [0/8]    function: 'flex_attention' (/usr/local/lib/python3.11/dist-packages/torch/nn/attention/flex_attention.py:2365)
+W1001 04:41:36.543000 5433 torch/_dynamo/convert_frame.py:2008] [0/8]    last reason: 0/0: tensor 'key' size mismatch at index 0. expected 4, actual 3
+W1001 04:41:36.543000 5433 torch/_dynamo/convert_frame.py:2008] [0/8] To log all recompilation reasons, use TORCH_LOGS="recompiles".
+W1001 04:41:36.543000 5433 torch/_dynamo/convert_frame.py:2008] [0/8] To diagnose recompilation issues, see https://docs.pytorch.org/docs/main/user_guide/torch_compiler/compile/programming_model.recompilation.html
+/usr/local/lib/python3.11/dist-packages/torch/nn/attention/flex_attention.py:2596: UserWarning: flex_attention called without torch.compile() - this will use an unfused implementation that materializes the full scores matrix instead of generating a fused kernel.
+
+SOLUTION: Use torch.compile(flex_attention)(...)
+
+If you want to debug your score_mod/mask_mod, you can set:
+torch.nn.attention.flex_attention._FLEX_ATTENTION_DISABLE_COMPILE_DEBUG = True
+
+This will allow you to use print statements or breakpoints. Note: This doesn't work with the backwards pass and may produce incorrect results.
+  _warn_once(
+bal191 std seed -0.93 best -0.79 first alive None first >0.5 None changed 17 402s
+bal192 std seed -0.95 best -0.84 first alive None first >0.5 None changed 12 415s

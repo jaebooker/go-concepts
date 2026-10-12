@@ -1,0 +1,11 @@
+{
+ "net": "g170",
+ "layer": 4,
+ "n_eval_pairs_with_far_stones": 63,
+ "closure_signal_left_at_far_ring_stones": {
+  "interior": 0.646,
+  "exterior_band": 0.927,
+  "ring_near_cut": 0.411,
+  "interior_and_exterior": 0.59
+ }
+}

@@ -1,0 +1,3 @@
+baseline {'doomed_ring': (0.658, 0.044), 'safe_ring': (0.928, 0.005), 'doomed_edge': (-0.486, 0.463), 'safe_edge': (0.967, 0.005)}
+swap_closure {'doomed_ring': (0.537, 0.136), 'safe_ring': (0.972, 0.005), 'doomed_edge': (0.227, 0.127), 'safe_edge': (0.942, 0.008)}
+swap_random {'doomed_ring': (0.572, 0.053), 'safe_ring': (0.909, 0.005), 'doomed_edge': (-0.41, 0.441), 'safe_edge': (0.969, 0.005)}

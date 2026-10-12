@@ -1,0 +1,84 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alain and Bengio(2016)]{alain2016probes}
+Guillaume Alain and Yoshua Bengio.
+\newblock Understanding intermediate layers using linear classifier probes.
+\newblock \emph{arXiv preprint arXiv:1610.01644}, 2016.
+
+\bibitem[{FAR AI}(2023)]{goattack}
+{FAR AI}.
+\newblock go\_attack: code and test positions for adversarial policies in {Go}.
+\newblock \url{https://github.com/AlignmentResearch/go_attack}, 2023.
+
+\bibitem[{featurecat}(2018)]{foxdataset}
+{featurecat}.
+\newblock go-dataset: {Fox} {Go} server game records.
+\newblock \url{https://github.com/featurecat/go-dataset}, 2018.
+
+\bibitem[McGrath et~al.(2022)McGrath, Kapishnikov, Toma{\v{s}}ev, Pearce,
+  Wattenberg, Hassabis, Kim, Paquet, and Kramnik]{mcgrath2022acquisition}
+Thomas McGrath, Andrei Kapishnikov, Nenad Toma{\v{s}}ev, Adam Pearce, Martin
+  Wattenberg, Demis Hassabis, Been Kim, Ulrich Paquet, and Vladimir Kramnik.
+\newblock Acquisition of chess knowledge in {AlphaZero}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 119\penalty0
+  (47), 2022.
+
+\bibitem[Meng et~al.(2022)Meng, Bau, Andonian, and Belinkov]{meng2022locating}
+Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov.
+\newblock Locating and editing factual associations in {GPT}.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~35, 2022.
+
+\bibitem[Pascutto et~al.(2017)]{leelazero}
+Gian-Carlo Pascutto et~al.
+\newblock Leela zero.
+\newblock \url{https://github.com/leela-zero/leela-zero}, 2017.
+
+\bibitem[Schut et~al.(2025)Schut, Toma{\v{s}}ev, McGrath, Hassabis, Paquet, and
+  Kim]{schut2025bridging}
+Lisa Schut, Nenad Toma{\v{s}}ev, Thomas McGrath, Demis Hassabis, Ulrich Paquet,
+  and Been Kim.
+\newblock Bridging the human--{AI} knowledge gap through concept discovery and
+  transfer in {AlphaZero}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 122\penalty0
+  (13), 2025.
+
+\bibitem[Silver et~al.(2017)Silver, Schrittwieser, Simonyan, Antonoglou, Huang,
+  Guez, Hubert, Baker, Lai, Bolton, et~al.]{silver2017mastering}
+David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja
+  Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton,
+  et~al.
+\newblock Mastering the game of {Go} without human knowledge.
+\newblock \emph{Nature}, 550:\penalty0 354--359, 2017.
+
+\bibitem[Tseng et~al.(2025)Tseng, McLean, Pelrine, Wang, and
+  Gleave]{tseng2025robust}
+Tom Tseng, Euan McLean, Kellin Pelrine, Tony~T. Wang, and Adam Gleave.
+\newblock Can {Go} {AIs} be adversarially robust?
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~39, 2025.
+\newblock arXiv:2406.12843.
+
+\bibitem[Wang et~al.(2023)Wang, Gleave, Tseng, Pelrine, Belrose, Miller,
+  Dennis, Duan, Pogrebniak, Levine, and Russell]{wang2023adversarial}
+Tony~T. Wang, Adam Gleave, Tom Tseng, Kellin Pelrine, Nora Belrose, Joseph
+  Miller, Michael~D. Dennis, Yawen Duan, Viktor Pogrebniak, Sergey Levine, and
+  Stuart Russell.
+\newblock Adversarial policies beat superhuman {Go} {AIs}.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  2023.
+\newblock arXiv:2211.00241. Games at \url{https://goattack.far.ai}.
+
+\bibitem[Wu(2019)]{wu2019accelerating}
+David~J. Wu.
+\newblock Accelerating self-play learning in {Go}.
+\newblock \emph{arXiv preprint arXiv:1902.10565}, 2019.
+\newblock Networks at \url{https://katagotraining.org}.
+
+\end{thebibliography}

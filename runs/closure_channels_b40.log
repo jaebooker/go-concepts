@@ -1,0 +1,16 @@
+131 pairs; 63 fit / 63 eval with far ring stones
+{"net": "b40", "upto": 12, "late": 24, "n_pairs": 131, "n_fit": 63, "n_eval": 63, "write_along_closure_by_block": [0.098, 0.192, 0.305, 0.425, 0.581, 0.372, 0.177, 0.638, 0.495, 0.544, 0.149, 0.281], "sum_of_positive_contributions": 5.281, "channels_for_50pct_of_positive": 119, "channels_for_80pct_of_positive": 410, "n_channels_total": 2944, "area_share": {"interior": 0.03, "ring_far": 0.03, "ring_near_cut": 0.03, "exterior_band": 0.12, "elsewhere": 0.8}, "diff_mass_share_top64": {"interior": 0.31, "ring_far": 0.2, "ring_near_cut": 0.22, "exterior_band": 0.13, "elsewhere": 0.13}, "diff_mass_share_all": {"interior": 0.24, "ring_far": 0.11, "ring_near_cut": 0.18, "exterior_band": 0.18, "elsewhere": 0.28}}
+{'block': 9, 'ch': 100, 'contrib': 0.14, 'interior': 0.08, 'ring_far': 0.4, 'ring_near_cut': 0.4, 'exterior_band': 0.08, 'elsewhere': 0.03}
+{'block': 6, 'ch': 56, 'contrib': 0.081, 'interior': 0.2, 'ring_far': 0.21, 'ring_near_cut': 0.15, 'exterior_band': 0.2, 'elsewhere': 0.24}
+{'block': 8, 'ch': 54, 'contrib': 0.075, 'interior': 0.08, 'ring_far': 0.26, 'ring_near_cut': 0.5, 'exterior_band': 0.15, 'elsewhere': 0.01}
+{'block': 8, 'ch': 97, 'contrib': 0.061, 'interior': 0.41, 'ring_far': 0.25, 'ring_near_cut': 0.2, 'exterior_band': 0.1, 'elsewhere': 0.04}
+{'block': 8, 'ch': 98, 'contrib': 0.056, 'interior': 0.16, 'ring_far': 0.28, 'ring_near_cut': 0.28, 'exterior_band': 0.21, 'elsewhere': 0.07}
+{'block': 5, 'ch': 130, 'contrib': 0.053, 'interior': 0.89, 'ring_far': 0.0, 'ring_near_cut': 0.02, 'exterior_band': 0.07, 'elsewhere': 0.01}
+{'block': 12, 'ch': 69, 'contrib': 0.052, 'interior': 0.87, 'ring_far': 0.06, 'ring_near_cut': 0.06, 'exterior_band': 0.0, 'elsewhere': 0.01}
+{'block': 9, 'ch': 118, 'contrib': 0.044, 'interior': 0.38, 'ring_far': 0.18, 'ring_near_cut': 0.19, 'exterior_band': 0.1, 'elsewhere': 0.15}
+{'block': 9, 'ch': 0, 'contrib': 0.044, 'interior': 0.45, 'ring_far': 0.22, 'ring_near_cut': 0.31, 'exterior_band': 0.02, 'elsewhere': 0.0}
+{'block': 4, 'ch': 21, 'contrib': 0.042, 'interior': 0.33, 'ring_far': 0.2, 'ring_near_cut': 0.3, 'exterior_band': 0.16, 'elsewhere': 0.01}
+baseline {'signal_layer_upto': 3.363, 'signal_layer_late': 6.35, 'own_far_ring_cyclic_minus_cut': 0.303}
+32 {'top': {'signal_left_upto': 0.796, 'signal_left_late': 1.044, 'own_diff_left': 1.003, 'own_diff': 0.304}, 'random': {'signal_left_upto': 0.999, 'signal_left_late': 0.996, 'own_diff_left': 1.0, 'own_diff': 0.303}}
+128 {'top': {'signal_left_upto': 0.561, 'signal_left_late': 1.03, 'own_diff_left': 1.026, 'own_diff': 0.311}, 'random': {'signal_left_upto': 0.933, 'signal_left_late': 0.992, 'own_diff_left': 1.0, 'own_diff': 0.303}}
+512 {'top': {'signal_left_upto': 0.219, 'signal_left_late': 0.891, 'own_diff_left': 1.006, 'own_diff': 0.305}, 'random': {'signal_left_upto': 0.791, 'signal_left_late': 0.942, 'own_diff_left': 0.993, 'own_diff': 0.301}}

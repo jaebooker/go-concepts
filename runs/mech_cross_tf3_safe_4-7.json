@@ -1,0 +1,105 @@
+{
+ "net": "tf3",
+ "blocks": "4-7",
+ "fit_on": "safe",
+ "n_eval": 80,
+ "geometry_along_u": {
+  "move": {
+   "block4": {
+    "ring_minus_edge_doomed": 15.328,
+    "ring_minus_edge_safe": 11.855,
+    "edge_safe_minus_doomed": 2.05,
+    "pooled_sd": 7.063
+   },
+   "block5": {
+    "ring_minus_edge_doomed": 16.15,
+    "ring_minus_edge_safe": 12.733,
+    "edge_safe_minus_doomed": 1.724,
+    "pooled_sd": 7.487
+   },
+   "block6": {
+    "ring_minus_edge_doomed": 15.496,
+    "ring_minus_edge_safe": 13.289,
+    "edge_safe_minus_doomed": 1.212,
+    "pooled_sd": 7.596
+   },
+   "block7": {
+    "ring_minus_edge_doomed": 15.618,
+    "ring_minus_edge_safe": 14.324,
+    "edge_safe_minus_doomed": 2.502,
+    "pooled_sd": 7.975
+   }
+  },
+  "pass": {
+   "block4": {
+    "ring_minus_edge_doomed": NaN,
+    "ring_minus_edge_safe": NaN,
+    "edge_safe_minus_doomed": NaN,
+    "pooled_sd": NaN
+   },
+   "block5": {
+    "ring_minus_edge_doomed": NaN,
+    "ring_minus_edge_safe": NaN,
+    "edge_safe_minus_doomed": NaN,
+    "pooled_sd": NaN
+   },
+   "block6": {
+    "ring_minus_edge_doomed": NaN,
+    "ring_minus_edge_safe": NaN,
+    "edge_safe_minus_doomed": NaN,
+    "pooled_sd": NaN
+   },
+   "block7": {
+    "ring_minus_edge_doomed": NaN,
+    "ring_minus_edge_safe": NaN,
+    "edge_safe_minus_doomed": NaN,
+    "pooled_sd": NaN
+   }
+  }
+ },
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": -0.73,
+   "capture": 0.519,
+   "n": 20
+  },
+  "safe_ring": {
+   "own_after_pass": 0.984,
+   "capture": 0.002,
+   "n": 20
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.511,
+   "capture": 0.514,
+   "n": 20
+  },
+  "safe_edge": {
+   "own_after_pass": 0.979,
+   "capture": 0.011,
+   "n": 20
+  }
+ },
+ "hold_loop_direction": {
+  "doomed_ring": {
+   "own_after_pass": -0.725,
+   "capture": 0.487,
+   "n": 20
+  },
+  "safe_ring": {
+   "own_after_pass": 0.982,
+   "capture": 0.002,
+   "n": 20
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.508,
+   "capture": 0.514,
+   "n": 20
+  },
+  "safe_edge": {
+   "own_after_pass": 0.98,
+   "capture": 0.011,
+   "n": 20
+  }
+ },
+ "hold_random": []
+}

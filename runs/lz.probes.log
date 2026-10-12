@@ -1,0 +1,210 @@
+libs input {'test_acc': 0.343, 'test_bal': 0.125, 'cyc_acc': 0.201, 'cyc_acc_on_cyclic_chains': 0.088, 'cyc_acc_off_cyclic_chains': 0.223, 'test_acc_4plus': 0.436, 'test_within1': 0.658, 'cyc_acc_4plus_cyclic': 0.111, 'cyc_within1_cyclic': 0.294}
+libs stem {'test_acc': 0.46, 'test_bal': 0.362, 'cyc_acc': 0.248, 'cyc_acc_on_cyclic_chains': 0.098, 'cyc_acc_off_cyclic_chains': 0.277, 'test_acc_4plus': 0.447, 'test_within1': 0.756, 'cyc_acc_4plus_cyclic': 0.097, 'cyc_within1_cyclic': 0.298}
+libs block1 {'test_acc': 0.576, 'test_bal': 0.521, 'cyc_acc': 0.368, 'cyc_acc_on_cyclic_chains': 0.238, 'cyc_acc_off_cyclic_chains': 0.393, 'test_acc_4plus': 0.531, 'test_within1': 0.848, 'cyc_acc_4plus_cyclic': 0.274, 'cyc_within1_cyclic': 0.418}
+libs block2 {'test_acc': 0.631, 'test_bal': 0.586, 'cyc_acc': 0.423, 'cyc_acc_on_cyclic_chains': 0.244, 'cyc_acc_off_cyclic_chains': 0.459, 'test_acc_4plus': 0.573, 'test_within1': 0.883, 'cyc_acc_4plus_cyclic': 0.267, 'cyc_within1_cyclic': 0.448}
+libs block3 {'test_acc': 0.641, 'test_bal': 0.608, 'cyc_acc': 0.523, 'cyc_acc_on_cyclic_chains': 0.398, 'cyc_acc_off_cyclic_chains': 0.548, 'test_acc_4plus': 0.581, 'test_within1': 0.893, 'cyc_acc_4plus_cyclic': 0.457, 'cyc_within1_cyclic': 0.625}
+libs block4 {'test_acc': 0.633, 'test_bal': 0.606, 'cyc_acc': 0.529, 'cyc_acc_on_cyclic_chains': 0.392, 'cyc_acc_off_cyclic_chains': 0.556, 'test_acc_4plus': 0.571, 'test_within1': 0.888, 'cyc_acc_4plus_cyclic': 0.449, 'cyc_within1_cyclic': 0.626}
+libs block5 {'test_acc': 0.616, 'test_bal': 0.591, 'cyc_acc': 0.538, 'cyc_acc_on_cyclic_chains': 0.41, 'cyc_acc_off_cyclic_chains': 0.563, 'test_acc_4plus': 0.555, 'test_within1': 0.884, 'cyc_acc_4plus_cyclic': 0.48, 'cyc_within1_cyclic': 0.612}
+libs block6 {'test_acc': 0.594, 'test_bal': 0.581, 'cyc_acc': 0.512, 'cyc_acc_on_cyclic_chains': 0.408, 'cyc_acc_off_cyclic_chains': 0.533, 'test_acc_4plus': 0.535, 'test_within1': 0.874, 'cyc_acc_4plus_cyclic': 0.49, 'cyc_within1_cyclic': 0.588}
+libs block7 {'test_acc': 0.585, 'test_bal': 0.57, 'cyc_acc': 0.516, 'cyc_acc_on_cyclic_chains': 0.397, 'cyc_acc_off_cyclic_chains': 0.539, 'test_acc_4plus': 0.529, 'test_within1': 0.873, 'cyc_acc_4plus_cyclic': 0.477, 'cyc_within1_cyclic': 0.573}
+libs block8 {'test_acc': 0.585, 'test_bal': 0.566, 'cyc_acc': 0.496, 'cyc_acc_on_cyclic_chains': 0.376, 'cyc_acc_off_cyclic_chains': 0.52, 'test_acc_4plus': 0.534, 'test_within1': 0.868, 'cyc_acc_4plus_cyclic': 0.441, 'cyc_within1_cyclic': 0.581}
+libs block9 {'test_acc': 0.58, 'test_bal': 0.565, 'cyc_acc': 0.497, 'cyc_acc_on_cyclic_chains': 0.39, 'cyc_acc_off_cyclic_chains': 0.518, 'test_acc_4plus': 0.527, 'test_within1': 0.866, 'cyc_acc_4plus_cyclic': 0.463, 'cyc_within1_cyclic': 0.557}
+libs block10 {'test_acc': 0.566, 'test_bal': 0.549, 'cyc_acc': 0.475, 'cyc_acc_on_cyclic_chains': 0.366, 'cyc_acc_off_cyclic_chains': 0.497, 'test_acc_4plus': 0.513, 'test_within1': 0.864, 'cyc_acc_4plus_cyclic': 0.43, 'cyc_within1_cyclic': 0.574}
+libs block11 {'test_acc': 0.566, 'test_bal': 0.552, 'cyc_acc': 0.494, 'cyc_acc_on_cyclic_chains': 0.394, 'cyc_acc_off_cyclic_chains': 0.513, 'test_acc_4plus': 0.515, 'test_within1': 0.855, 'cyc_acc_4plus_cyclic': 0.48, 'cyc_within1_cyclic': 0.593}
+libs block12 {'test_acc': 0.551, 'test_bal': 0.534, 'cyc_acc': 0.491, 'cyc_acc_on_cyclic_chains': 0.391, 'cyc_acc_off_cyclic_chains': 0.511, 'test_acc_4plus': 0.498, 'test_within1': 0.857, 'cyc_acc_4plus_cyclic': 0.458, 'cyc_within1_cyclic': 0.573}
+libs block13 {'test_acc': 0.549, 'test_bal': 0.539, 'cyc_acc': 0.488, 'cyc_acc_on_cyclic_chains': 0.401, 'cyc_acc_off_cyclic_chains': 0.506, 'test_acc_4plus': 0.497, 'test_within1': 0.852, 'cyc_acc_4plus_cyclic': 0.457, 'cyc_within1_cyclic': 0.608}
+libs block14 {'test_acc': 0.556, 'test_bal': 0.532, 'cyc_acc': 0.477, 'cyc_acc_on_cyclic_chains': 0.402, 'cyc_acc_off_cyclic_chains': 0.491, 'test_acc_4plus': 0.513, 'test_within1': 0.849, 'cyc_acc_4plus_cyclic': 0.475, 'cyc_within1_cyclic': 0.585}
+libs block15 {'test_acc': 0.545, 'test_bal': 0.528, 'cyc_acc': 0.472, 'cyc_acc_on_cyclic_chains': 0.397, 'cyc_acc_off_cyclic_chains': 0.486, 'test_acc_4plus': 0.503, 'test_within1': 0.845, 'cyc_acc_4plus_cyclic': 0.469, 'cyc_within1_cyclic': 0.568}
+libs block16 {'test_acc': 0.533, 'test_bal': 0.526, 'cyc_acc': 0.432, 'cyc_acc_on_cyclic_chains': 0.358, 'cyc_acc_off_cyclic_chains': 0.446, 'test_acc_4plus': 0.487, 'test_within1': 0.847, 'cyc_acc_4plus_cyclic': 0.418, 'cyc_within1_cyclic': 0.55}
+libs block17 {'test_acc': 0.53, 'test_bal': 0.513, 'cyc_acc': 0.471, 'cyc_acc_on_cyclic_chains': 0.413, 'cyc_acc_off_cyclic_chains': 0.483, 'test_acc_4plus': 0.485, 'test_within1': 0.84, 'cyc_acc_4plus_cyclic': 0.479, 'cyc_within1_cyclic': 0.562}
+libs block18 {'test_acc': 0.531, 'test_bal': 0.514, 'cyc_acc': 0.49, 'cyc_acc_on_cyclic_chains': 0.444, 'cyc_acc_off_cyclic_chains': 0.499, 'test_acc_4plus': 0.494, 'test_within1': 0.838, 'cyc_acc_4plus_cyclic': 0.522, 'cyc_within1_cyclic': 0.59}
+libs block19 {'test_acc': 0.528, 'test_bal': 0.514, 'cyc_acc': 0.461, 'cyc_acc_on_cyclic_chains': 0.411, 'cyc_acc_off_cyclic_chains': 0.471, 'test_acc_4plus': 0.492, 'test_within1': 0.835, 'cyc_acc_4plus_cyclic': 0.491, 'cyc_within1_cyclic': 0.548}
+libs block20 {'test_acc': 0.517, 'test_bal': 0.505, 'cyc_acc': 0.434, 'cyc_acc_on_cyclic_chains': 0.393, 'cyc_acc_off_cyclic_chains': 0.442, 'test_acc_4plus': 0.483, 'test_within1': 0.836, 'cyc_acc_4plus_cyclic': 0.464, 'cyc_within1_cyclic': 0.531}
+libs block21 {'test_acc': 0.509, 'test_bal': 0.492, 'cyc_acc': 0.43, 'cyc_acc_on_cyclic_chains': 0.357, 'cyc_acc_off_cyclic_chains': 0.444, 'test_acc_4plus': 0.474, 'test_within1': 0.827, 'cyc_acc_4plus_cyclic': 0.408, 'cyc_within1_cyclic': 0.516}
+libs block22 {'test_acc': 0.491, 'test_bal': 0.473, 'cyc_acc': 0.427, 'cyc_acc_on_cyclic_chains': 0.348, 'cyc_acc_off_cyclic_chains': 0.442, 'test_acc_4plus': 0.455, 'test_within1': 0.819, 'cyc_acc_4plus_cyclic': 0.402, 'cyc_within1_cyclic': 0.519}
+libs block23 {'test_acc': 0.487, 'test_bal': 0.469, 'cyc_acc': 0.366, 'cyc_acc_on_cyclic_chains': 0.285, 'cyc_acc_off_cyclic_chains': 0.381, 'test_acc_4plus': 0.453, 'test_within1': 0.821, 'cyc_acc_4plus_cyclic': 0.327, 'cyc_within1_cyclic': 0.444}
+libs block24 {'test_acc': 0.49, 'test_bal': 0.47, 'cyc_acc': 0.36, 'cyc_acc_on_cyclic_chains': 0.307, 'cyc_acc_off_cyclic_chains': 0.371, 'test_acc_4plus': 0.46, 'test_within1': 0.816, 'cyc_acc_4plus_cyclic': 0.353, 'cyc_within1_cyclic': 0.453}
+libs block25 {'test_acc': 0.475, 'test_bal': 0.449, 'cyc_acc': 0.361, 'cyc_acc_on_cyclic_chains': 0.277, 'cyc_acc_off_cyclic_chains': 0.377, 'test_acc_4plus': 0.447, 'test_within1': 0.811, 'cyc_acc_4plus_cyclic': 0.29, 'cyc_within1_cyclic': 0.427}
+libs block26 {'test_acc': 0.483, 'test_bal': 0.454, 'cyc_acc': 0.349, 'cyc_acc_on_cyclic_chains': 0.288, 'cyc_acc_off_cyclic_chains': 0.361, 'test_acc_4plus': 0.457, 'test_within1': 0.809, 'cyc_acc_4plus_cyclic': 0.31, 'cyc_within1_cyclic': 0.452}
+libs block27 {'test_acc': 0.478, 'test_bal': 0.449, 'cyc_acc': 0.339, 'cyc_acc_on_cyclic_chains': 0.318, 'cyc_acc_off_cyclic_chains': 0.343, 'test_acc_4plus': 0.455, 'test_within1': 0.807, 'cyc_acc_4plus_cyclic': 0.359, 'cyc_within1_cyclic': 0.481}
+libs block28 {'test_acc': 0.468, 'test_bal': 0.434, 'cyc_acc': 0.379, 'cyc_acc_on_cyclic_chains': 0.379, 'cyc_acc_off_cyclic_chains': 0.379, 'test_acc_4plus': 0.449, 'test_within1': 0.805, 'cyc_acc_4plus_cyclic': 0.437, 'cyc_within1_cyclic': 0.527}
+libs block29 {'test_acc': 0.462, 'test_bal': 0.432, 'cyc_acc': 0.332, 'cyc_acc_on_cyclic_chains': 0.303, 'cyc_acc_off_cyclic_chains': 0.337, 'test_acc_4plus': 0.442, 'test_within1': 0.793, 'cyc_acc_4plus_cyclic': 0.34, 'cyc_within1_cyclic': 0.459}
+libs block30 {'test_acc': 0.459, 'test_bal': 0.425, 'cyc_acc': 0.301, 'cyc_acc_on_cyclic_chains': 0.228, 'cyc_acc_off_cyclic_chains': 0.316, 'test_acc_4plus': 0.439, 'test_within1': 0.787, 'cyc_acc_4plus_cyclic': 0.269, 'cyc_within1_cyclic': 0.392}
+libs block31 {'test_acc': 0.455, 'test_bal': 0.424, 'cyc_acc': 0.303, 'cyc_acc_on_cyclic_chains': 0.262, 'cyc_acc_off_cyclic_chains': 0.311, 'test_acc_4plus': 0.437, 'test_within1': 0.786, 'cyc_acc_4plus_cyclic': 0.311, 'cyc_within1_cyclic': 0.415}
+libs block32 {'test_acc': 0.451, 'test_bal': 0.411, 'cyc_acc': 0.264, 'cyc_acc_on_cyclic_chains': 0.196, 'cyc_acc_off_cyclic_chains': 0.277, 'test_acc_4plus': 0.434, 'test_within1': 0.776, 'cyc_acc_4plus_cyclic': 0.217, 'cyc_within1_cyclic': 0.358}
+libs block33 {'test_acc': 0.439, 'test_bal': 0.398, 'cyc_acc': 0.284, 'cyc_acc_on_cyclic_chains': 0.211, 'cyc_acc_off_cyclic_chains': 0.298, 'test_acc_4plus': 0.427, 'test_within1': 0.766, 'cyc_acc_4plus_cyclic': 0.2, 'cyc_within1_cyclic': 0.352}
+libs block34 {'test_acc': 0.443, 'test_bal': 0.4, 'cyc_acc': 0.285, 'cyc_acc_on_cyclic_chains': 0.237, 'cyc_acc_off_cyclic_chains': 0.294, 'test_acc_4plus': 0.434, 'test_within1': 0.774, 'cyc_acc_4plus_cyclic': 0.241, 'cyc_within1_cyclic': 0.383}
+libs block35 {'test_acc': 0.439, 'test_bal': 0.396, 'cyc_acc': 0.289, 'cyc_acc_on_cyclic_chains': 0.273, 'cyc_acc_off_cyclic_chains': 0.292, 'test_acc_4plus': 0.427, 'test_within1': 0.765, 'cyc_acc_4plus_cyclic': 0.289, 'cyc_within1_cyclic': 0.431}
+libs block36 {'test_acc': 0.434, 'test_bal': 0.388, 'cyc_acc': 0.28, 'cyc_acc_on_cyclic_chains': 0.216, 'cyc_acc_off_cyclic_chains': 0.293, 'test_acc_4plus': 0.424, 'test_within1': 0.773, 'cyc_acc_4plus_cyclic': 0.247, 'cyc_within1_cyclic': 0.4}
+libs block37 {'test_acc': 0.428, 'test_bal': 0.381, 'cyc_acc': 0.265, 'cyc_acc_on_cyclic_chains': 0.2, 'cyc_acc_off_cyclic_chains': 0.277, 'test_acc_4plus': 0.421, 'test_within1': 0.772, 'cyc_acc_4plus_cyclic': 0.229, 'cyc_within1_cyclic': 0.35}
+libs block38 {'test_acc': 0.423, 'test_bal': 0.371, 'cyc_acc': 0.266, 'cyc_acc_on_cyclic_chains': 0.215, 'cyc_acc_off_cyclic_chains': 0.276, 'test_acc_4plus': 0.417, 'test_within1': 0.758, 'cyc_acc_4plus_cyclic': 0.227, 'cyc_within1_cyclic': 0.377}
+libs block39 {'test_acc': 0.417, 'test_bal': 0.356, 'cyc_acc': 0.25, 'cyc_acc_on_cyclic_chains': 0.191, 'cyc_acc_off_cyclic_chains': 0.261, 'test_acc_4plus': 0.412, 'test_within1': 0.752, 'cyc_acc_4plus_cyclic': 0.209, 'cyc_within1_cyclic': 0.34}
+libs block40 {'test_acc': 0.418, 'test_bal': 0.347, 'cyc_acc': 0.24, 'cyc_acc_on_cyclic_chains': 0.189, 'cyc_acc_off_cyclic_chains': 0.25, 'test_acc_4plus': 0.42, 'test_within1': 0.752, 'cyc_acc_4plus_cyclic': 0.203, 'cyc_within1_cyclic': 0.336}
+pass_alive input {'test_acc': 0.526, 'test_bal': 0.762, 'cyc_acc': 0.736, 'cyc_acc_on_cyclic_chains': 0.755, 'cyc_acc_off_cyclic_chains': 0.732}
+pass_alive stem {'test_acc': 0.879, 'test_bal': 0.64, 'cyc_acc': 0.786, 'cyc_acc_on_cyclic_chains': 0.666, 'cyc_acc_off_cyclic_chains': 0.81}
+pass_alive block1 {'test_acc': 0.928, 'test_bal': 0.714, 'cyc_acc': 0.822, 'cyc_acc_on_cyclic_chains': 0.718, 'cyc_acc_off_cyclic_chains': 0.842}
+pass_alive block2 {'test_acc': 0.912, 'test_bal': 0.707, 'cyc_acc': 0.842, 'cyc_acc_on_cyclic_chains': 0.764, 'cyc_acc_off_cyclic_chains': 0.857}
+pass_alive block3 {'test_acc': 0.924, 'test_bal': 0.862, 'cyc_acc': 0.814, 'cyc_acc_on_cyclic_chains': 0.692, 'cyc_acc_off_cyclic_chains': 0.838}
+pass_alive block4 {'test_acc': 0.925, 'test_bal': 0.813, 'cyc_acc': 0.794, 'cyc_acc_on_cyclic_chains': 0.66, 'cyc_acc_off_cyclic_chains': 0.821}
+pass_alive block5 {'test_acc': 0.928, 'test_bal': 0.814, 'cyc_acc': 0.737, 'cyc_acc_on_cyclic_chains': 0.655, 'cyc_acc_off_cyclic_chains': 0.753}
+pass_alive block6 {'test_acc': 0.927, 'test_bal': 0.714, 'cyc_acc': 0.749, 'cyc_acc_on_cyclic_chains': 0.673, 'cyc_acc_off_cyclic_chains': 0.764}
+pass_alive block7 {'test_acc': 0.929, 'test_bal': 0.865, 'cyc_acc': 0.776, 'cyc_acc_on_cyclic_chains': 0.747, 'cyc_acc_off_cyclic_chains': 0.782}
+pass_alive block8 {'test_acc': 0.924, 'test_bal': 0.912, 'cyc_acc': 0.793, 'cyc_acc_on_cyclic_chains': 0.759, 'cyc_acc_off_cyclic_chains': 0.8}
+pass_alive block9 {'test_acc': 0.923, 'test_bal': 0.911, 'cyc_acc': 0.789, 'cyc_acc_on_cyclic_chains': 0.712, 'cyc_acc_off_cyclic_chains': 0.804}
+pass_alive block10 {'test_acc': 0.914, 'test_bal': 0.907, 'cyc_acc': 0.789, 'cyc_acc_on_cyclic_chains': 0.702, 'cyc_acc_off_cyclic_chains': 0.806}
+pass_alive block11 {'test_acc': 0.914, 'test_bal': 0.957, 'cyc_acc': 0.734, 'cyc_acc_on_cyclic_chains': 0.632, 'cyc_acc_off_cyclic_chains': 0.754}
+pass_alive block12 {'test_acc': 0.912, 'test_bal': 0.906, 'cyc_acc': 0.702, 'cyc_acc_on_cyclic_chains': 0.589, 'cyc_acc_off_cyclic_chains': 0.724}
+pass_alive block13 {'test_acc': 0.894, 'test_bal': 0.847, 'cyc_acc': 0.669, 'cyc_acc_on_cyclic_chains': 0.57, 'cyc_acc_off_cyclic_chains': 0.689}
+pass_alive block14 {'test_acc': 0.891, 'test_bal': 0.896, 'cyc_acc': 0.651, 'cyc_acc_on_cyclic_chains': 0.567, 'cyc_acc_off_cyclic_chains': 0.668}
+pass_alive block15 {'test_acc': 0.895, 'test_bal': 0.848, 'cyc_acc': 0.678, 'cyc_acc_on_cyclic_chains': 0.556, 'cyc_acc_off_cyclic_chains': 0.702}
+pass_alive block16 {'test_acc': 0.905, 'test_bal': 0.753, 'cyc_acc': 0.758, 'cyc_acc_on_cyclic_chains': 0.708, 'cyc_acc_off_cyclic_chains': 0.768}
+pass_alive block17 {'test_acc': 0.912, 'test_bal': 0.806, 'cyc_acc': 0.73, 'cyc_acc_on_cyclic_chains': 0.679, 'cyc_acc_off_cyclic_chains': 0.74}
+pass_alive block18 {'test_acc': 0.91, 'test_bal': 0.805, 'cyc_acc': 0.692, 'cyc_acc_on_cyclic_chains': 0.628, 'cyc_acc_off_cyclic_chains': 0.704}
+pass_alive block19 {'test_acc': 0.903, 'test_bal': 0.801, 'cyc_acc': 0.704, 'cyc_acc_on_cyclic_chains': 0.625, 'cyc_acc_off_cyclic_chains': 0.719}
+pass_alive block20 {'test_acc': 0.92, 'test_bal': 0.86, 'cyc_acc': 0.738, 'cyc_acc_on_cyclic_chains': 0.642, 'cyc_acc_off_cyclic_chains': 0.757}
+pass_alive block21 {'test_acc': 0.909, 'test_bal': 0.855, 'cyc_acc': 0.721, 'cyc_acc_on_cyclic_chains': 0.658, 'cyc_acc_off_cyclic_chains': 0.734}
+pass_alive block22 {'test_acc': 0.915, 'test_bal': 0.808, 'cyc_acc': 0.711, 'cyc_acc_on_cyclic_chains': 0.673, 'cyc_acc_off_cyclic_chains': 0.718}
+pass_alive block23 {'test_acc': 0.908, 'test_bal': 0.854, 'cyc_acc': 0.743, 'cyc_acc_on_cyclic_chains': 0.675, 'cyc_acc_off_cyclic_chains': 0.757}
+pass_alive block24 {'test_acc': 0.905, 'test_bal': 0.902, 'cyc_acc': 0.775, 'cyc_acc_on_cyclic_chains': 0.692, 'cyc_acc_off_cyclic_chains': 0.791}
+pass_alive block25 {'test_acc': 0.896, 'test_bal': 0.848, 'cyc_acc': 0.78, 'cyc_acc_on_cyclic_chains': 0.706, 'cyc_acc_off_cyclic_chains': 0.794}
+pass_alive block26 {'test_acc': 0.904, 'test_bal': 0.802, 'cyc_acc': 0.759, 'cyc_acc_on_cyclic_chains': 0.736, 'cyc_acc_off_cyclic_chains': 0.763}
+pass_alive block27 {'test_acc': 0.902, 'test_bal': 0.901, 'cyc_acc': 0.739, 'cyc_acc_on_cyclic_chains': 0.692, 'cyc_acc_off_cyclic_chains': 0.748}
+pass_alive block28 {'test_acc': 0.908, 'test_bal': 0.904, 'cyc_acc': 0.797, 'cyc_acc_on_cyclic_chains': 0.76, 'cyc_acc_off_cyclic_chains': 0.804}
+pass_alive block29 {'test_acc': 0.9, 'test_bal': 0.9, 'cyc_acc': 0.809, 'cyc_acc_on_cyclic_chains': 0.741, 'cyc_acc_off_cyclic_chains': 0.822}
+pass_alive block30 {'test_acc': 0.907, 'test_bal': 0.854, 'cyc_acc': 0.792, 'cyc_acc_on_cyclic_chains': 0.72, 'cyc_acc_off_cyclic_chains': 0.806}
+pass_alive block31 {'test_acc': 0.899, 'test_bal': 0.899, 'cyc_acc': 0.771, 'cyc_acc_on_cyclic_chains': 0.737, 'cyc_acc_off_cyclic_chains': 0.778}
+pass_alive block32 {'test_acc': 0.899, 'test_bal': 0.75, 'cyc_acc': 0.745, 'cyc_acc_on_cyclic_chains': 0.745, 'cyc_acc_off_cyclic_chains': 0.745}
+pass_alive block33 {'test_acc': 0.906, 'test_bal': 0.903, 'cyc_acc': 0.695, 'cyc_acc_on_cyclic_chains': 0.69, 'cyc_acc_off_cyclic_chains': 0.696}
+pass_alive block34 {'test_acc': 0.903, 'test_bal': 0.951, 'cyc_acc': 0.681, 'cyc_acc_on_cyclic_chains': 0.652, 'cyc_acc_off_cyclic_chains': 0.686}
+pass_alive block35 {'test_acc': 0.907, 'test_bal': 0.804, 'cyc_acc': 0.751, 'cyc_acc_on_cyclic_chains': 0.687, 'cyc_acc_off_cyclic_chains': 0.764}
+pass_alive block36 {'test_acc': 0.913, 'test_bal': 0.956, 'cyc_acc': 0.772, 'cyc_acc_on_cyclic_chains': 0.722, 'cyc_acc_off_cyclic_chains': 0.782}
+pass_alive block37 {'test_acc': 0.926, 'test_bal': 0.663, 'cyc_acc': 0.798, 'cyc_acc_on_cyclic_chains': 0.681, 'cyc_acc_off_cyclic_chains': 0.821}
+pass_alive block38 {'test_acc': 0.921, 'test_bal': 0.611, 'cyc_acc': 0.82, 'cyc_acc_on_cyclic_chains': 0.72, 'cyc_acc_off_cyclic_chains': 0.84}
+pass_alive block39 {'test_acc': 0.92, 'test_bal': 0.81, 'cyc_acc': 0.831, 'cyc_acc_on_cyclic_chains': 0.763, 'cyc_acc_off_cyclic_chains': 0.844}
+pass_alive block40 {'test_acc': 0.919, 'test_bal': 0.71, 'cyc_acc': 0.82, 'cyc_acc_on_cyclic_chains': 0.759, 'cyc_acc_off_cyclic_chains': 0.831}
+eyespace input {'test_acc': 0.143, 'test_bal': 0.362, 'cyc_acc': 0.46, 'cyc_acc_on_cyclic_chains': 0.199, 'cyc_acc_off_cyclic_chains': 0.512}
+eyespace stem {'test_acc': 0.683, 'test_bal': 0.566, 'cyc_acc': 0.554, 'cyc_acc_on_cyclic_chains': 0.238, 'cyc_acc_off_cyclic_chains': 0.616}
+eyespace block1 {'test_acc': 0.766, 'test_bal': 0.672, 'cyc_acc': 0.564, 'cyc_acc_on_cyclic_chains': 0.333, 'cyc_acc_off_cyclic_chains': 0.61}
+eyespace block2 {'test_acc': 0.756, 'test_bal': 0.652, 'cyc_acc': 0.539, 'cyc_acc_on_cyclic_chains': 0.333, 'cyc_acc_off_cyclic_chains': 0.579}
+eyespace block3 {'test_acc': 0.761, 'test_bal': 0.647, 'cyc_acc': 0.501, 'cyc_acc_on_cyclic_chains': 0.314, 'cyc_acc_off_cyclic_chains': 0.537}
+eyespace block4 {'test_acc': 0.76, 'test_bal': 0.673, 'cyc_acc': 0.514, 'cyc_acc_on_cyclic_chains': 0.314, 'cyc_acc_off_cyclic_chains': 0.553}
+eyespace block5 {'test_acc': 0.752, 'test_bal': 0.668, 'cyc_acc': 0.482, 'cyc_acc_on_cyclic_chains': 0.286, 'cyc_acc_off_cyclic_chains': 0.52}
+eyespace block6 {'test_acc': 0.74, 'test_bal': 0.639, 'cyc_acc': 0.471, 'cyc_acc_on_cyclic_chains': 0.308, 'cyc_acc_off_cyclic_chains': 0.503}
+eyespace block7 {'test_acc': 0.733, 'test_bal': 0.648, 'cyc_acc': 0.459, 'cyc_acc_on_cyclic_chains': 0.266, 'cyc_acc_off_cyclic_chains': 0.497}
+eyespace block8 {'test_acc': 0.734, 'test_bal': 0.661, 'cyc_acc': 0.444, 'cyc_acc_on_cyclic_chains': 0.271, 'cyc_acc_off_cyclic_chains': 0.478}
+eyespace block9 {'test_acc': 0.726, 'test_bal': 0.649, 'cyc_acc': 0.441, 'cyc_acc_on_cyclic_chains': 0.311, 'cyc_acc_off_cyclic_chains': 0.467}
+eyespace block10 {'test_acc': 0.717, 'test_bal': 0.637, 'cyc_acc': 0.458, 'cyc_acc_on_cyclic_chains': 0.342, 'cyc_acc_off_cyclic_chains': 0.481}
+eyespace block11 {'test_acc': 0.702, 'test_bal': 0.645, 'cyc_acc': 0.427, 'cyc_acc_on_cyclic_chains': 0.27, 'cyc_acc_off_cyclic_chains': 0.458}
+eyespace block12 {'test_acc': 0.694, 'test_bal': 0.631, 'cyc_acc': 0.429, 'cyc_acc_on_cyclic_chains': 0.285, 'cyc_acc_off_cyclic_chains': 0.457}
+eyespace block13 {'test_acc': 0.699, 'test_bal': 0.625, 'cyc_acc': 0.414, 'cyc_acc_on_cyclic_chains': 0.277, 'cyc_acc_off_cyclic_chains': 0.44}
+eyespace block14 {'test_acc': 0.687, 'test_bal': 0.621, 'cyc_acc': 0.421, 'cyc_acc_on_cyclic_chains': 0.293, 'cyc_acc_off_cyclic_chains': 0.446}
+eyespace block15 {'test_acc': 0.703, 'test_bal': 0.643, 'cyc_acc': 0.399, 'cyc_acc_on_cyclic_chains': 0.256, 'cyc_acc_off_cyclic_chains': 0.427}
+eyespace block16 {'test_acc': 0.696, 'test_bal': 0.617, 'cyc_acc': 0.386, 'cyc_acc_on_cyclic_chains': 0.265, 'cyc_acc_off_cyclic_chains': 0.409}
+eyespace block17 {'test_acc': 0.7, 'test_bal': 0.624, 'cyc_acc': 0.389, 'cyc_acc_on_cyclic_chains': 0.264, 'cyc_acc_off_cyclic_chains': 0.414}
+eyespace block18 {'test_acc': 0.701, 'test_bal': 0.643, 'cyc_acc': 0.393, 'cyc_acc_on_cyclic_chains': 0.298, 'cyc_acc_off_cyclic_chains': 0.411}
+eyespace block19 {'test_acc': 0.694, 'test_bal': 0.646, 'cyc_acc': 0.387, 'cyc_acc_on_cyclic_chains': 0.253, 'cyc_acc_off_cyclic_chains': 0.413}
+eyespace block20 {'test_acc': 0.709, 'test_bal': 0.651, 'cyc_acc': 0.413, 'cyc_acc_on_cyclic_chains': 0.254, 'cyc_acc_off_cyclic_chains': 0.444}
+eyespace block21 {'test_acc': 0.699, 'test_bal': 0.643, 'cyc_acc': 0.413, 'cyc_acc_on_cyclic_chains': 0.276, 'cyc_acc_off_cyclic_chains': 0.44}
+eyespace block22 {'test_acc': 0.697, 'test_bal': 0.647, 'cyc_acc': 0.381, 'cyc_acc_on_cyclic_chains': 0.256, 'cyc_acc_off_cyclic_chains': 0.405}
+eyespace block23 {'test_acc': 0.696, 'test_bal': 0.656, 'cyc_acc': 0.383, 'cyc_acc_on_cyclic_chains': 0.3, 'cyc_acc_off_cyclic_chains': 0.399}
+eyespace block24 {'test_acc': 0.689, 'test_bal': 0.624, 'cyc_acc': 0.408, 'cyc_acc_on_cyclic_chains': 0.279, 'cyc_acc_off_cyclic_chains': 0.433}
+eyespace block25 {'test_acc': 0.678, 'test_bal': 0.636, 'cyc_acc': 0.379, 'cyc_acc_on_cyclic_chains': 0.288, 'cyc_acc_off_cyclic_chains': 0.397}
+eyespace block26 {'test_acc': 0.673, 'test_bal': 0.61, 'cyc_acc': 0.411, 'cyc_acc_on_cyclic_chains': 0.279, 'cyc_acc_off_cyclic_chains': 0.437}
+eyespace block27 {'test_acc': 0.685, 'test_bal': 0.635, 'cyc_acc': 0.423, 'cyc_acc_on_cyclic_chains': 0.308, 'cyc_acc_off_cyclic_chains': 0.446}
+eyespace block28 {'test_acc': 0.677, 'test_bal': 0.617, 'cyc_acc': 0.42, 'cyc_acc_on_cyclic_chains': 0.351, 'cyc_acc_off_cyclic_chains': 0.434}
+eyespace block29 {'test_acc': 0.666, 'test_bal': 0.636, 'cyc_acc': 0.446, 'cyc_acc_on_cyclic_chains': 0.374, 'cyc_acc_off_cyclic_chains': 0.46}
+eyespace block30 {'test_acc': 0.668, 'test_bal': 0.632, 'cyc_acc': 0.471, 'cyc_acc_on_cyclic_chains': 0.331, 'cyc_acc_off_cyclic_chains': 0.499}
+eyespace block31 {'test_acc': 0.672, 'test_bal': 0.642, 'cyc_acc': 0.487, 'cyc_acc_on_cyclic_chains': 0.304, 'cyc_acc_off_cyclic_chains': 0.523}
+eyespace block32 {'test_acc': 0.666, 'test_bal': 0.627, 'cyc_acc': 0.426, 'cyc_acc_on_cyclic_chains': 0.258, 'cyc_acc_off_cyclic_chains': 0.459}
+eyespace block33 {'test_acc': 0.665, 'test_bal': 0.615, 'cyc_acc': 0.369, 'cyc_acc_on_cyclic_chains': 0.234, 'cyc_acc_off_cyclic_chains': 0.396}
+eyespace block34 {'test_acc': 0.667, 'test_bal': 0.623, 'cyc_acc': 0.408, 'cyc_acc_on_cyclic_chains': 0.264, 'cyc_acc_off_cyclic_chains': 0.437}
+eyespace block35 {'test_acc': 0.664, 'test_bal': 0.604, 'cyc_acc': 0.415, 'cyc_acc_on_cyclic_chains': 0.276, 'cyc_acc_off_cyclic_chains': 0.442}
+eyespace block36 {'test_acc': 0.662, 'test_bal': 0.606, 'cyc_acc': 0.434, 'cyc_acc_on_cyclic_chains': 0.24, 'cyc_acc_off_cyclic_chains': 0.472}
+eyespace block37 {'test_acc': 0.672, 'test_bal': 0.62, 'cyc_acc': 0.438, 'cyc_acc_on_cyclic_chains': 0.201, 'cyc_acc_off_cyclic_chains': 0.484}
+eyespace block38 {'test_acc': 0.675, 'test_bal': 0.595, 'cyc_acc': 0.476, 'cyc_acc_on_cyclic_chains': 0.231, 'cyc_acc_off_cyclic_chains': 0.524}
+eyespace block39 {'test_acc': 0.684, 'test_bal': 0.629, 'cyc_acc': 0.509, 'cyc_acc_on_cyclic_chains': 0.281, 'cyc_acc_off_cyclic_chains': 0.554}
+eyespace block40 {'test_acc': 0.679, 'test_bal': 0.618, 'cyc_acc': 0.483, 'cyc_acc_on_cyclic_chains': 0.287, 'cyc_acc_off_cyclic_chains': 0.521}
+ladder input {'test_acc': 0.553, 'test_bal': 0.554, 'cyc_acc': 0.476, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.417}
+ladder stem {'test_acc': 0.696, 'test_bal': 0.696, 'cyc_acc': 0.731, 'cyc_acc_on_cyclic_chains': 0.698, 'cyc_acc_off_cyclic_chains': 0.735}
+ladder block1 {'test_acc': 0.832, 'test_bal': 0.83, 'cyc_acc': 0.773, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.805}
+ladder block2 {'test_acc': 0.891, 'test_bal': 0.891, 'cyc_acc': 0.781, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 0.811}
+ladder block3 {'test_acc': 0.916, 'test_bal': 0.917, 'cyc_acc': 0.785, 'cyc_acc_on_cyclic_chains': 0.566, 'cyc_acc_off_cyclic_chains': 0.809}
+ladder block4 {'test_acc': 0.932, 'test_bal': 0.933, 'cyc_acc': 0.779, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.811}
+ladder block5 {'test_acc': 0.963, 'test_bal': 0.963, 'cyc_acc': 0.808, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.843}
+ladder block6 {'test_acc': 0.935, 'test_bal': 0.935, 'cyc_acc': 0.8, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.835}
+ladder block7 {'test_acc': 0.953, 'test_bal': 0.954, 'cyc_acc': 0.808, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.843}
+ladder block8 {'test_acc': 0.944, 'test_bal': 0.946, 'cyc_acc': 0.806, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.841}
+ladder block9 {'test_acc': 0.957, 'test_bal': 0.959, 'cyc_acc': 0.825, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.862}
+ladder block10 {'test_acc': 0.963, 'test_bal': 0.964, 'cyc_acc': 0.81, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.845}
+ladder block11 {'test_acc': 0.957, 'test_bal': 0.958, 'cyc_acc': 0.811, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.847}
+ladder block12 {'test_acc': 0.95, 'test_bal': 0.951, 'cyc_acc': 0.829, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.867}
+ladder block13 {'test_acc': 0.96, 'test_bal': 0.961, 'cyc_acc': 0.787, 'cyc_acc_on_cyclic_chains': 0.472, 'cyc_acc_off_cyclic_chains': 0.822}
+ladder block14 {'test_acc': 0.95, 'test_bal': 0.952, 'cyc_acc': 0.804, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.839}
+ladder block15 {'test_acc': 0.932, 'test_bal': 0.932, 'cyc_acc': 0.825, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.862}
+ladder block16 {'test_acc': 0.95, 'test_bal': 0.952, 'cyc_acc': 0.829, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.867}
+ladder block17 {'test_acc': 0.935, 'test_bal': 0.937, 'cyc_acc': 0.84, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.879}
+ladder block18 {'test_acc': 0.929, 'test_bal': 0.93, 'cyc_acc': 0.817, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.854}
+ladder block19 {'test_acc': 0.907, 'test_bal': 0.908, 'cyc_acc': 0.802, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.837}
+ladder block20 {'test_acc': 0.904, 'test_bal': 0.905, 'cyc_acc': 0.783, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.816}
+ladder block21 {'test_acc': 0.898, 'test_bal': 0.899, 'cyc_acc': 0.796, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.831}
+ladder block22 {'test_acc': 0.913, 'test_bal': 0.915, 'cyc_acc': 0.796, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.831}
+ladder block23 {'test_acc': 0.885, 'test_bal': 0.887, 'cyc_acc': 0.77, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.801}
+ladder block24 {'test_acc': 0.879, 'test_bal': 0.881, 'cyc_acc': 0.777, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.809}
+ladder block25 {'test_acc': 0.891, 'test_bal': 0.893, 'cyc_acc': 0.741, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 0.767}
+ladder block26 {'test_acc': 0.904, 'test_bal': 0.906, 'cyc_acc': 0.697, 'cyc_acc_on_cyclic_chains': 0.472, 'cyc_acc_off_cyclic_chains': 0.722}
+ladder block27 {'test_acc': 0.904, 'test_bal': 0.906, 'cyc_acc': 0.766, 'cyc_acc_on_cyclic_chains': 0.566, 'cyc_acc_off_cyclic_chains': 0.788}
+ladder block28 {'test_acc': 0.885, 'test_bal': 0.888, 'cyc_acc': 0.806, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 0.839}
+ladder block29 {'test_acc': 0.873, 'test_bal': 0.875, 'cyc_acc': 0.796, 'cyc_acc_on_cyclic_chains': 0.66, 'cyc_acc_off_cyclic_chains': 0.811}
+ladder block30 {'test_acc': 0.863, 'test_bal': 0.866, 'cyc_acc': 0.771, 'cyc_acc_on_cyclic_chains': 0.528, 'cyc_acc_off_cyclic_chains': 0.799}
+ladder block31 {'test_acc': 0.863, 'test_bal': 0.866, 'cyc_acc': 0.75, 'cyc_acc_on_cyclic_chains': 0.585, 'cyc_acc_off_cyclic_chains': 0.769}
+ladder block32 {'test_acc': 0.863, 'test_bal': 0.865, 'cyc_acc': 0.745, 'cyc_acc_on_cyclic_chains': 0.604, 'cyc_acc_off_cyclic_chains': 0.761}
+ladder block33 {'test_acc': 0.839, 'test_bal': 0.838, 'cyc_acc': 0.695, 'cyc_acc_on_cyclic_chains': 0.755, 'cyc_acc_off_cyclic_chains': 0.689}
+ladder block34 {'test_acc': 0.835, 'test_bal': 0.838, 'cyc_acc': 0.722, 'cyc_acc_on_cyclic_chains': 0.623, 'cyc_acc_off_cyclic_chains': 0.733}
+ladder block35 {'test_acc': 0.854, 'test_bal': 0.857, 'cyc_acc': 0.691, 'cyc_acc_on_cyclic_chains': 0.604, 'cyc_acc_off_cyclic_chains': 0.701}
+ladder block36 {'test_acc': 0.786, 'test_bal': 0.788, 'cyc_acc': 0.726, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.752}
+ladder block37 {'test_acc': 0.82, 'test_bal': 0.822, 'cyc_acc': 0.754, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.784}
+ladder block38 {'test_acc': 0.826, 'test_bal': 0.827, 'cyc_acc': 0.693, 'cyc_acc_on_cyclic_chains': 0.604, 'cyc_acc_off_cyclic_chains': 0.703}
+ladder block39 {'test_acc': 0.804, 'test_bal': 0.808, 'cyc_acc': 0.653, 'cyc_acc_on_cyclic_chains': 0.358, 'cyc_acc_off_cyclic_chains': 0.686}
+ladder block40 {'test_acc': 0.817, 'test_bal': 0.817, 'cyc_acc': 0.69, 'cyc_acc_on_cyclic_chains': 0.34, 'cyc_acc_off_cyclic_chains': 0.729}
+same_chain input {'test_bal': 0.53, 'cyc_bal': 0.513, 'cyc_bal_cyclic_pairs': 0.51}
+same_chain stem {'test_bal': 0.684, 'cyc_bal': 0.591, 'cyc_bal_cyclic_pairs': 0.567}
+same_chain block1 {'test_bal': 0.689, 'cyc_bal': 0.651, 'cyc_bal_cyclic_pairs': 0.714}
+same_chain block2 {'test_bal': 0.723, 'cyc_bal': 0.627, 'cyc_bal_cyclic_pairs': 0.664}
+same_chain block3 {'test_bal': 0.735, 'cyc_bal': 0.682, 'cyc_bal_cyclic_pairs': 0.73}
+same_chain block4 {'test_bal': 0.728, 'cyc_bal': 0.674, 'cyc_bal_cyclic_pairs': 0.709}
+same_chain block5 {'test_bal': 0.745, 'cyc_bal': 0.686, 'cyc_bal_cyclic_pairs': 0.748}
+same_chain block6 {'test_bal': 0.74, 'cyc_bal': 0.7, 'cyc_bal_cyclic_pairs': 0.762}
+same_chain block7 {'test_bal': 0.759, 'cyc_bal': 0.689, 'cyc_bal_cyclic_pairs': 0.737}
+same_chain block8 {'test_bal': 0.756, 'cyc_bal': 0.687, 'cyc_bal_cyclic_pairs': 0.763}
+same_chain block9 {'test_bal': 0.781, 'cyc_bal': 0.677, 'cyc_bal_cyclic_pairs': 0.718}
+same_chain block10 {'test_bal': 0.777, 'cyc_bal': 0.689, 'cyc_bal_cyclic_pairs': 0.748}
+same_chain block11 {'test_bal': 0.755, 'cyc_bal': 0.684, 'cyc_bal_cyclic_pairs': 0.734}
+same_chain block12 {'test_bal': 0.742, 'cyc_bal': 0.697, 'cyc_bal_cyclic_pairs': 0.758}
+same_chain block13 {'test_bal': 0.71, 'cyc_bal': 0.686, 'cyc_bal_cyclic_pairs': 0.741}
+same_chain block14 {'test_bal': 0.717, 'cyc_bal': 0.698, 'cyc_bal_cyclic_pairs': 0.75}
+same_chain block15 {'test_bal': 0.714, 'cyc_bal': 0.672, 'cyc_bal_cyclic_pairs': 0.723}
+same_chain block16 {'test_bal': 0.714, 'cyc_bal': 0.676, 'cyc_bal_cyclic_pairs': 0.734}
+same_chain block17 {'test_bal': 0.71, 'cyc_bal': 0.663, 'cyc_bal_cyclic_pairs': 0.706}
+same_chain block18 {'test_bal': 0.718, 'cyc_bal': 0.667, 'cyc_bal_cyclic_pairs': 0.695}
+same_chain block19 {'test_bal': 0.72, 'cyc_bal': 0.675, 'cyc_bal_cyclic_pairs': 0.706}
+same_chain block20 {'test_bal': 0.71, 'cyc_bal': 0.672, 'cyc_bal_cyclic_pairs': 0.71}
+same_chain block21 {'test_bal': 0.704, 'cyc_bal': 0.67, 'cyc_bal_cyclic_pairs': 0.709}
+same_chain block22 {'test_bal': 0.72, 'cyc_bal': 0.656, 'cyc_bal_cyclic_pairs': 0.701}
+same_chain block23 {'test_bal': 0.729, 'cyc_bal': 0.681, 'cyc_bal_cyclic_pairs': 0.73}
+same_chain block24 {'test_bal': 0.706, 'cyc_bal': 0.686, 'cyc_bal_cyclic_pairs': 0.741}
+same_chain block25 {'test_bal': 0.709, 'cyc_bal': 0.667, 'cyc_bal_cyclic_pairs': 0.725}
+same_chain block26 {'test_bal': 0.721, 'cyc_bal': 0.658, 'cyc_bal_cyclic_pairs': 0.719}
+same_chain block27 {'test_bal': 0.703, 'cyc_bal': 0.636, 'cyc_bal_cyclic_pairs': 0.68}
+same_chain block28 {'test_bal': 0.713, 'cyc_bal': 0.635, 'cyc_bal_cyclic_pairs': 0.681}
+same_chain block29 {'test_bal': 0.685, 'cyc_bal': 0.654, 'cyc_bal_cyclic_pairs': 0.701}
+same_chain block30 {'test_bal': 0.713, 'cyc_bal': 0.641, 'cyc_bal_cyclic_pairs': 0.685}
+same_chain block31 {'test_bal': 0.708, 'cyc_bal': 0.587, 'cyc_bal_cyclic_pairs': 0.613}
+same_chain block32 {'test_bal': 0.707, 'cyc_bal': 0.616, 'cyc_bal_cyclic_pairs': 0.639}
+same_chain block33 {'test_bal': 0.713, 'cyc_bal': 0.605, 'cyc_bal_cyclic_pairs': 0.614}
+same_chain block34 {'test_bal': 0.703, 'cyc_bal': 0.625, 'cyc_bal_cyclic_pairs': 0.651}
+same_chain block35 {'test_bal': 0.702, 'cyc_bal': 0.637, 'cyc_bal_cyclic_pairs': 0.671}
+same_chain block36 {'test_bal': 0.689, 'cyc_bal': 0.646, 'cyc_bal_cyclic_pairs': 0.666}
+same_chain block37 {'test_bal': 0.705, 'cyc_bal': 0.683, 'cyc_bal_cyclic_pairs': 0.718}
+same_chain block38 {'test_bal': 0.704, 'cyc_bal': 0.685, 'cyc_bal_cyclic_pairs': 0.699}
+same_chain block39 {'test_bal': 0.734, 'cyc_bal': 0.717, 'cyc_bal_cyclic_pairs': 0.739}
+same_chain block40 {'test_bal': 0.74, 'cyc_bal': 0.724, 'cyc_bal_cyclic_pairs': 0.764}

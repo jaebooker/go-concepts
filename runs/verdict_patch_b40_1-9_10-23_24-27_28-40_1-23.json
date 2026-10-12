@@ -1,0 +1,134 @@
+{
+ "1-9": {
+  "doomed_ring": {
+   "own_after_pass": 0.65,
+   "capture": 0.038,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.925,
+   "capture": 0.007,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.508,
+   "capture": 0.471,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.965,
+   "capture": 0.005,
+   "n": 39
+  }
+ },
+ "10-23": {
+  "doomed_ring": {
+   "own_after_pass": 0.445,
+   "capture": 0.046,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.937,
+   "capture": 0.005,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.543,
+   "capture": 0.479,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.968,
+   "capture": 0.005,
+   "n": 39
+  }
+ },
+ "24-27": {
+  "doomed_ring": {
+   "own_after_pass": 0.775,
+   "capture": 0.051,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.987,
+   "capture": 0.004,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.397,
+   "capture": 0.489,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.972,
+   "capture": 0.006,
+   "n": 39
+  }
+ },
+ "28-40": {
+  "doomed_ring": {
+   "own_after_pass": -0.478,
+   "capture": 0.088,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.979,
+   "capture": 0.004,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.485,
+   "capture": 0.472,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.978,
+   "capture": 0.005,
+   "n": 39
+  }
+ },
+ "1-23": {
+  "doomed_ring": {
+   "own_after_pass": 0.438,
+   "capture": 0.045,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.935,
+   "capture": 0.005,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.547,
+   "capture": 0.48,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "capture": 0.005,
+   "n": 39
+  }
+ },
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": 0.65,
+   "capture": 0.038,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.926,
+   "capture": 0.006,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.506,
+   "capture": 0.471,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.965,
+   "capture": 0.005,
+   "n": 39
+  }
+ }
+}

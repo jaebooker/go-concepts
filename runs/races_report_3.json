@@ -1,0 +1,301 @@
+{
+ "n_cases": 288,
+ "engines": {
+  "humansl": {
+   "mass_correct": {
+    "cyclic": [
+     0.369,
+     0.331,
+     0.408
+    ],
+    "edge": [
+     0.521,
+     0.477,
+     0.563
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.792,
+    "edge": 0.896
+   },
+   "mass_saving": {
+    "cyclic": 0.369,
+    "edge": 0.521
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.695,
+     "edge": 0.856
+    },
+    "2": {
+     "cyclic": 0.531,
+     "edge": 0.637
+    },
+    "3": {
+     "cyclic": 0.307,
+     "edge": 0.416
+    },
+    "4": {
+     "cyclic": 0.206,
+     "edge": 0.402
+    },
+    "5": {
+     "cyclic": 0.168,
+     "edge": 0.399
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.523,
+     0.467,
+     0.577
+    ],
+    "edge": [
+     0.62,
+     0.564,
+     0.678
+    ]
+   },
+   "probe_layers": [
+    "block1",
+    "block2",
+    "block3",
+    "block4",
+    "block5",
+    "block6",
+    "block7",
+    "block8",
+    "block9",
+    "block10",
+    "block11",
+    "block12",
+    "block13",
+    "block14",
+    "block15",
+    "block16",
+    "block17",
+    "block18"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.246,
+    -0.324,
+    -0.175
+   ],
+   "cyclic_effect_on_representation": [
+    -0.107,
+    -0.15,
+    -0.063
+   ]
+  },
+  "lz": {
+   "mass_correct": {
+    "cyclic": [
+     0.02,
+     0.015,
+     0.027
+    ],
+    "edge": [
+     0.308,
+     0.261,
+     0.357
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.042,
+    "edge": 0.785
+   },
+   "mass_saving": {
+    "cyclic": 0.02,
+    "edge": 0.308
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.017,
+     "edge": 0.461
+    },
+    "2": {
+     "cyclic": 0.022,
+     "edge": 0.394
+    },
+    "3": {
+     "cyclic": 0.015,
+     "edge": 0.267
+    },
+    "4": {
+     "cyclic": 0.04,
+     "edge": 0.228
+    },
+    "5": {
+     "cyclic": 0.009,
+     "edge": 0.229
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.172,
+     0.152,
+     0.191
+    ],
+    "edge": [
+     0.326,
+     0.289,
+     0.366
+    ]
+   },
+   "probe_layers": [
+    "block2",
+    "block4",
+    "block6",
+    "block8",
+    "block10",
+    "block12",
+    "block14",
+    "block16",
+    "block18",
+    "block20",
+    "block22",
+    "block24",
+    "block26",
+    "block28",
+    "block30",
+    "block32",
+    "block34",
+    "block36",
+    "block38",
+    "block40"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.33,
+    -0.418,
+    -0.239
+   ],
+   "cyclic_effect_on_representation": [
+    -0.101,
+    -0.15,
+    -0.046
+   ]
+  },
+  "g170": {
+   "mass_correct": {
+    "cyclic": [
+     0.096,
+     0.058,
+     0.138
+    ],
+    "edge": [
+     0.74,
+     0.691,
+     0.788
+    ]
+   },
+   "top1_correct": {
+    "cyclic": 0.132,
+    "edge": 0.785
+   },
+   "mass_saving": {
+    "cyclic": 0.096,
+    "edge": 0.74
+   },
+   "mass_by_ring_libs": {
+    "1": {
+     "cyclic": 0.575,
+     "edge": 0.952
+    },
+    "2": {
+     "cyclic": 0.0,
+     "edge": 0.744
+    },
+    "3": {
+     "cyclic": 0.0,
+     "edge": 0.646
+    },
+    "4": {
+     "cyclic": 0.001,
+     "edge": 0.693
+    },
+    "5": {
+     "cyclic": 0.0,
+     "edge": 0.762
+    }
+   },
+   "representation": {
+    "cyclic": [
+     0.542,
+     0.493,
+     0.589
+    ],
+    "edge": [
+     0.532,
+     0.48,
+     0.581
+    ]
+   },
+   "probe_layers": [
+    "block1",
+    "block2",
+    "block3",
+    "block4",
+    "block5",
+    "block6",
+    "block7",
+    "block8",
+    "block9",
+    "block10",
+    "block11",
+    "block12",
+    "block13",
+    "block14",
+    "block15",
+    "block16",
+    "block17",
+    "block18",
+    "block19",
+    "block20"
+   ],
+   "cyclic_effect_on_behaviour": [
+    -0.659,
+    -0.75,
+    -0.56
+   ],
+   "cyclic_effect_on_representation": [
+    0.009,
+    -0.03,
+    0.045
+   ]
+  }
+ },
+ "links": {
+  "humansl": {
+   "all": {
+    "r": -0.02,
+    "p": 0.6258
+   }
+  },
+  "lz": {
+   "all": {
+    "r": 0.007,
+    "p": 0.4567
+   }
+  },
+  "g170": {
+   "all": {
+    "r": -0.063,
+    "p": 0.852
+   }
+  }
+ },
+ "shared_behaviour": {
+  "humansl~lz": {
+   "r": 0.17,
+   "p": 0.0022
+  },
+  "humansl~g170": {
+   "r": 0.245,
+   "p": 0.0
+  },
+  "lz~g170": {
+   "r": 0.411,
+   "p": 0.0
+  }
+ }
+}

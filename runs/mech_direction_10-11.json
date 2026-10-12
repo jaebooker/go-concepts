@@ -1,0 +1,136 @@
+{
+ "blocks": [
+  10,
+  11
+ ],
+ "cosine_between_blocks_pass": [
+  [
+   1.0,
+   0.95
+  ],
+  [
+   0.95,
+   1.0
+  ]
+ ],
+ "baseline_eval_half": {
+  "doomed_ring": {
+   "own_after_pass": 0.985,
+   "read_alive": 1.0,
+   "capture": 0.0
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "read_alive": 1.0,
+   "capture": 0.003
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.264,
+   "read_alive": 0.3,
+   "capture": 0.491
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "read_alive": 1.0,
+   "capture": 0.007
+  }
+ },
+ "loop_direction": {
+  "doomed_ring": {
+   "own_after_pass": 0.82,
+   "read_alive": 1.0,
+   "capture": 0.014
+  },
+  "safe_ring": {
+   "own_after_pass": 0.915,
+   "read_alive": 1.0,
+   "capture": 0.003
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.307,
+   "read_alive": 0.175,
+   "capture": 0.511
+  },
+  "safe_edge": {
+   "own_after_pass": 0.903,
+   "read_alive": 0.974,
+   "capture": 0.011
+  }
+ },
+ "random_directions": [
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.984,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.263,
+    "read_alive": 0.3,
+    "capture": 0.475
+   },
+   "safe_edge": {
+    "own_after_pass": 0.969,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  },
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.984,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.258,
+    "read_alive": 0.3,
+    "capture": 0.493
+   },
+   "safe_edge": {
+    "own_after_pass": 0.967,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  },
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.985,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.264,
+    "read_alive": 0.3,
+    "capture": 0.493
+   },
+   "safe_edge": {
+    "own_after_pass": 0.968,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  }
+ ],
+ "share_of_gap_along_u": {
+  "block10": {
+   "gap_norm_over_edge_sd": 40.02
+  },
+  "block11": {
+   "gap_norm_over_edge_sd": 39.91
+  }
+ }
+}

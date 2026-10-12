@@ -1,0 +1,27 @@
+{"total_ring_minus_edge_doomed": 0.461, "positive_total": 0.605, "share_of_total_top": {"1": 0.093, "2": 0.18, "4": 0.312, "8": 0.481, "16": 0.681, "32": 0.865, "64": 1.058}}
+   {'block': 40, 'ch': 102, 'doomed_ring_minus_edge': 0.043, 'safe_ring_minus_edge': -0.0011, 'act_by_cell': {'dr': 0.336, 'de': 10.274, 'sr': 0.022, 'se': 0.0}}
+   {'block': 40, 'ch': 84, 'doomed_ring_minus_edge': 0.0399, 'safe_ring_minus_edge': 0.0038, 'act_by_cell': {'dr': 12.419, 'de': 1.26, 'sr': 8.595, 'se': 4.549}}
+   {'block': 40, 'ch': 184, 'doomed_ring_minus_edge': 0.0323, 'safe_ring_minus_edge': -0.0016, 'act_by_cell': {'dr': 1.005, 'de': 10.492, 'sr': 0.266, 'se': 0.041}}
+   {'block': 39, 'ch': 3, 'doomed_ring_minus_edge': 0.0285, 'safe_ring_minus_edge': 0.0004, 'act_by_cell': {'dr': 0.929, 'de': 9.808, 'sr': 0.021, 'se': 0.139}}
+   {'block': 40, 'ch': 64, 'doomed_ring_minus_edge': 0.0227, 'safe_ring_minus_edge': 0.0, 'act_by_cell': {'dr': 0.056, 'de': 7.375, 'sr': 0.064, 'se': 0.003}}
+   {'block': 40, 'ch': 74, 'doomed_ring_minus_edge': 0.0209, 'safe_ring_minus_edge': 0.0052, 'act_by_cell': {'dr': 6.341, 'de': 0.202, 'sr': 5.295, 'se': 3.519}}
+   {'block': 40, 'ch': 95, 'doomed_ring_minus_edge': 0.0176, 'safe_ring_minus_edge': 0.0014, 'act_by_cell': {'dr': 2.208, 'de': 8.923, 'sr': 0.467, 'se': 1.473}}
+   {'block': 40, 'ch': 143, 'doomed_ring_minus_edge': 0.0169, 'safe_ring_minus_edge': -0.0, 'act_by_cell': {'dr': 0.037, 'de': 4.825, 'sr': 0.003, 'se': 0.0}}
+   {'block': 38, 'ch': 70, 'doomed_ring_minus_edge': 0.0152, 'safe_ring_minus_edge': -0.0, 'act_by_cell': {'dr': 0.014, 'de': 6.721, 'sr': 0.004, 'se': 0.0}}
+   {'block': 39, 'ch': 115, 'doomed_ring_minus_edge': 0.0146, 'safe_ring_minus_edge': -0.0001, 'act_by_cell': {'dr': 0.177, 'de': 7.141, 'sr': 0.015, 'se': 0.001}}
+   {'block': 40, 'ch': 16, 'doomed_ring_minus_edge': 0.0123, 'safe_ring_minus_edge': 0.0006, 'act_by_cell': {'dr': 1.476, 'de': 8.697, 'sr': 0.141, 'se': 0.414}}
+   {'block': 39, 'ch': 141, 'doomed_ring_minus_edge': 0.0116, 'safe_ring_minus_edge': -0.0006, 'act_by_cell': {'dr': 2.319, 'de': 8.811, 'sr': 0.267, 'se': 0.1}}
+none {'dr': {'own': 0.65, 'capture': 0.038}, 'de': {'own': -0.506, 'capture': 0.471}, 'sr': {'own': 0.926, 'capture': 0.006}, 'se': {'own': 0.965, 'capture': 0.005}}
+top4 {'dr': {'own': 0.667, 'capture': 0.037}, 'de': {'own': -0.463, 'capture': 0.453}, 'sr': {'own': 0.928, 'capture': 0.006}, 'se': {'own': 0.965, 'capture': 0.005}}
+random4 {'dr': {'own': 0.642, 'capture': 0.04}, 'de': {'own': -0.51, 'capture': 0.475}, 'sr': {'own': 0.926, 'capture': 0.006}, 'se': {'own': 0.965, 'capture': 0.005}}
+topsafe4 {'dr': {'own': 0.618, 'capture': 0.038}, 'de': {'own': -0.514, 'capture': 0.471}, 'sr': {'own': 0.915, 'capture': 0.006}, 'se': {'own': 0.959, 'capture': 0.005}}
+top8 {'dr': {'own': 0.629, 'capture': 0.036}, 'de': {'own': -0.444, 'capture': 0.441}, 'sr': {'own': 0.919, 'capture': 0.006}, 'se': {'own': 0.961, 'capture': 0.005}}
+random8 {'dr': {'own': 0.657, 'capture': 0.038}, 'de': {'own': -0.493, 'capture': 0.475}, 'sr': {'own': 0.929, 'capture': 0.006}, 'se': {'own': 0.966, 'capture': 0.006}}
+topsafe8 {'dr': {'own': 0.988, 'capture': 0.038}, 'de': {'own': 0.682, 'capture': 0.471}, 'sr': {'own': 0.997, 'capture': 0.006}, 'se': {'own': 1.0, 'capture': 0.005}}
+top16 {'dr': {'own': 0.621, 'capture': 0.042}, 'de': {'own': -0.222, 'capture': 0.448}, 'sr': {'own': 0.916, 'capture': 0.007}, 'se': {'own': 0.96, 'capture': 0.005}}
+random16 {'dr': {'own': 0.605, 'capture': 0.04}, 'de': {'own': -0.516, 'capture': 0.476}, 'sr': {'own': 0.913, 'capture': 0.006}, 'se': {'own': 0.96, 'capture': 0.005}}
+topsafe16 {'dr': {'own': 0.988, 'capture': 0.039}, 'de': {'own': 0.734, 'capture': 0.47}, 'sr': {'own': 0.998, 'capture': 0.006}, 'se': {'own': 1.0, 'capture': 0.005}}
+top32 {'dr': {'own': 0.993, 'capture': 0.044}, 'de': {'own': 0.885, 'capture': 0.456}, 'sr': {'own': 0.998, 'capture': 0.006}, 'se': {'own': 1.0, 'capture': 0.005}}
+random32 {'dr': {'own': 0.622, 'capture': 0.046}, 'de': {'own': -0.482, 'capture': 0.497}, 'sr': {'own': 0.916, 'capture': 0.007}, 'se': {'own': 0.959, 'capture': 0.005}}
+topsafe32 {'dr': {'own': 0.988, 'capture': 0.032}, 'de': {'own': 0.727, 'capture': 0.453}, 'sr': {'own': 0.998, 'capture': 0.005}, 'se': {'own': 1.0, 'capture': 0.005}}
+loop reading {'hold_at_input_of_block': 38, 'activation_drop_top16_doomed_ring': 0.106, 'activation_drop_random16_doomed_ring': -0.001, 'activation_drop_top16_safe_ring': 0.063, 'activation_drop_random16_safe_ring': -0.085, 'activation_drop_top16_doomed_edge': 0.012}

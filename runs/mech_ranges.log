@@ -1,0 +1,9 @@
+blocks 8-12: doomed ring own +0.92 alive 1.00 cap 0.00 | safe ring own +0.95 cap 0.00 | doomed edge own -0.26 cap 0.54 | safe edge own +0.91
+blocks 7-12: doomed ring own +0.91 alive 1.00 cap 0.00 | safe ring own +0.95 cap 0.00 | doomed edge own -0.26 cap 0.53 | safe edge own +0.90
+blocks 9-12: doomed ring own +0.94 alive 1.00 cap 0.00 | safe ring own +0.96 cap 0.00 | doomed edge own -0.26 cap 0.56 | safe edge own +0.92
+blocks 10-12: doomed ring own +0.95 alive 1.00 cap 0.00 | safe ring own +0.97 cap 0.00 | doomed edge own -0.23 cap 0.56 | safe edge own +0.93
+blocks 8-10: doomed ring own +0.96 alive 1.00 cap 0.00 | safe ring own +0.98 cap 0.00 | doomed edge own -0.32 cap 0.52 | safe edge own +0.95
+blocks 1-20: doomed ring own -0.44 alive 0.00 cap 0.34 | safe ring own -0.44 cap 0.16 | doomed edge own -0.44 cap 0.34 | safe edge own -0.44
+blocks 13-20: doomed ring own +0.02 alive 0.56 cap 0.00 | safe ring own +0.08 cap 0.01 | doomed edge own -0.41 cap 0.55 | safe edge own -0.18
+blocks 8-20: doomed ring own -0.31 alive 0.00 cap 0.01 | safe ring own -0.28 cap 0.01 | doomed edge own -0.43 cap 0.53 | safe edge own -0.39
+blocks 1-12: doomed ring own +0.23 alive 0.65 cap 0.20 | safe ring own +0.85 cap 0.01 | doomed edge own -0.13 cap 0.37 | safe edge own +0.82

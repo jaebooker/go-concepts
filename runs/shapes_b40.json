@@ -1,0 +1,62 @@
+{
+ "std_doomed": {
+  "n": 20,
+  "own_after_pass": 0.657,
+  "frac_read_alive": 1.0,
+  "capture": 0.032
+ },
+ "std_safe": {
+  "n": 10,
+  "own_after_pass": 0.948,
+  "frac_read_alive": 1.0,
+  "capture": 0.013
+ },
+ "thick_doomed": {
+  "n": 20,
+  "own_after_pass": 0.731,
+  "frac_read_alive": 0.95,
+  "capture": 0.056
+ },
+ "thick_safe": {
+  "n": 10,
+  "own_after_pass": 0.871,
+  "frac_read_alive": 1.0,
+  "capture": 0.037
+ },
+ "tail_doomed": {
+  "n": 20,
+  "own_after_pass": 0.636,
+  "frac_read_alive": 1.0,
+  "capture": 0.04
+ },
+ "tail_safe": {
+  "n": 10,
+  "own_after_pass": 0.917,
+  "frac_read_alive": 1.0,
+  "capture": 0.019
+ },
+ "edge1_doomed": {
+  "n": 20,
+  "own_after_pass": 0.641,
+  "frac_read_alive": 1.0,
+  "capture": 0.017
+ },
+ "edge1_safe": {
+  "n": 10,
+  "own_after_pass": 0.826,
+  "frac_read_alive": 1.0,
+  "capture": 0.013
+ },
+ "big_doomed": {
+  "n": 20,
+  "own_after_pass": 0.914,
+  "frac_read_alive": 1.0,
+  "capture": 0.015
+ },
+ "big_safe": {
+  "n": 10,
+  "own_after_pass": 0.975,
+  "frac_read_alive": 1.0,
+  "capture": 0.001
+ }
+}

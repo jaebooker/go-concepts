@@ -1,0 +1,116 @@
+{
+ "net": "g170",
+ "blocks": "1-20",
+ "rings_minus_edges_along_closure_dir_sd": {
+  "move": {
+   "block1": 0.35,
+   "block2": 0.43,
+   "block3": 0.74,
+   "block4": 1.18,
+   "block5": 1.52,
+   "block6": 1.6,
+   "block7": 1.71,
+   "block8": 1.67,
+   "block9": 1.72,
+   "block10": 1.7,
+   "block11": 1.73,
+   "block12": 1.51,
+   "block13": 1.53,
+   "block14": 1.56,
+   "block15": 1.44,
+   "block16": 1.32,
+   "block17": -0.52,
+   "block18": -0.44,
+   "block19": -0.53,
+   "block20": -0.33
+  },
+  "pass": {
+   "block1": 0.57,
+   "block2": 0.89,
+   "block3": 1.14,
+   "block4": 1.45,
+   "block5": 1.63,
+   "block6": 1.76,
+   "block7": 1.76,
+   "block8": 1.68,
+   "block9": 1.68,
+   "block10": 1.67,
+   "block11": 1.61,
+   "block12": 1.45,
+   "block13": 1.41,
+   "block14": 1.25,
+   "block15": 1.34,
+   "block16": 1.2,
+   "block17": -0.05,
+   "block18": 0.27,
+   "block19": 0.65,
+   "block20": 0.15
+  }
+ },
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": 0.985,
+   "capture": 0.0,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "capture": 0.003,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.264,
+   "capture": 0.491,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "capture": 0.007,
+   "n": 39
+  }
+ },
+ "hold_closure_direction": {
+  "doomed_ring": {
+   "own_after_pass": -0.32,
+   "capture": 0.02,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": -0.333,
+   "capture": 0.005,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.406,
+   "capture": 0.496,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": -0.33,
+   "capture": 0.089,
+   "n": 39
+  }
+ },
+ "hold_random": {
+  "doomed_ring": {
+   "own_after_pass": 0.976,
+   "capture": 0.0,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.988,
+   "capture": 0.003,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.285,
+   "capture": 0.493,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.962,
+   "capture": 0.007,
+   "n": 39
+  }
+ }
+}

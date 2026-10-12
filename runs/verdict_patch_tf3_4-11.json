@@ -1,0 +1,46 @@
+{
+ "4-11": {
+  "doomed_ring": {
+   "own_after_pass": -0.652,
+   "capture": 0.497,
+   "n": 20
+  },
+  "safe_ring": {
+   "own_after_pass": 0.999,
+   "capture": 0.002,
+   "n": 20
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.64,
+   "capture": 0.512,
+   "n": 20
+  },
+  "safe_edge": {
+   "own_after_pass": 0.984,
+   "capture": 0.01,
+   "n": 20
+  }
+ },
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": -0.73,
+   "capture": 0.519,
+   "n": 20
+  },
+  "safe_ring": {
+   "own_after_pass": 0.984,
+   "capture": 0.002,
+   "n": 20
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.511,
+   "capture": 0.514,
+   "n": 20
+  },
+  "safe_edge": {
+   "own_after_pass": 0.979,
+   "capture": 0.011,
+   "n": 20
+  }
+ }
+}

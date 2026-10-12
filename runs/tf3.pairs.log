@@ -1,0 +1,46 @@
+  16/520 positions, 334 points
+  32/520 positions, 680 points
+  48/520 positions, 1032 points
+  64/520 positions, 1360 points
+  80/520 positions, 1692 points
+  96/520 positions, 2062 points
+  112/520 positions, 2390 points
+  128/520 positions, 2676 points
+  144/520 positions, 3004 points
+  160/520 positions, 3372 points
+  176/520 positions, 3712 points
+  192/520 positions, 4020 points
+  208/520 positions, 4382 points
+  224/520 positions, 4662 points
+  240/520 positions, 5010 points
+  256/520 positions, 5354 points
+  272/520 positions, 5660 points
+  288/520 positions, 6030 points
+  304/520 positions, 6354 points
+  320/520 positions, 6700 points
+  336/520 positions, 7054 points
+  352/520 positions, 7374 points
+  368/520 positions, 7772 points
+  384/520 positions, 8164 points
+  400/520 positions, 8556 points
+  416/520 positions, 8874 points
+  432/520 positions, 9256 points
+  448/520 positions, 9564 points
+  464/520 positions, 9904 points
+  480/520 positions, 10218 points
+  496/520 positions, 10574 points
+  512/520 positions, 10966 points
+  520/520 positions, 11116 points
+input D cut/cyc 0.55/0.55 d=0.000 [0.000,0.000]
+trunk0 D cut/cyc 0.50/0.49 d=0.012 [-0.006,0.031]
+block1 D cut/cyc 0.59/0.55 d=0.035 [0.004,0.064]
+block2 D cut/cyc 0.60/0.58 d=0.022 [-0.005,0.049]
+block3 D cut/cyc 0.62/0.58 d=0.035 [0.005,0.066]
+block4 D cut/cyc 0.60/0.57 d=0.037 [0.007,0.070]
+block5 D cut/cyc 0.63/0.57 d=0.067 [0.033,0.104]
+block6 D cut/cyc 0.61/0.55 d=0.057 [0.021,0.095]
+block7 D cut/cyc 0.61/0.52 d=0.085 [0.046,0.124]
+block8 D cut/cyc 0.60/0.52 d=0.072 [0.036,0.108]
+block9 D cut/cyc 0.56/0.50 d=0.062 [0.029,0.096]
+block10 D cut/cyc 0.52/0.48 d=0.033 [-0.005,0.072]
+block11 D cut/cyc 0.45/0.44 d=0.011 [-0.036,0.057]

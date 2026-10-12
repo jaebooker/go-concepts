@@ -1,0 +1,211 @@
+{
+ "blocks": [
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "cosine_between_blocks_pass": [
+  [
+   1.0,
+   0.95,
+   0.91,
+   0.89,
+   0.85,
+   0.79,
+   0.68
+  ],
+  [
+   0.95,
+   1.0,
+   0.97,
+   0.95,
+   0.91,
+   0.85,
+   0.75
+  ],
+  [
+   0.91,
+   0.97,
+   1.0,
+   0.98,
+   0.93,
+   0.88,
+   0.79
+  ],
+  [
+   0.89,
+   0.95,
+   0.98,
+   1.0,
+   0.96,
+   0.91,
+   0.83
+  ],
+  [
+   0.85,
+   0.91,
+   0.93,
+   0.96,
+   1.0,
+   0.95,
+   0.85
+  ],
+  [
+   0.79,
+   0.85,
+   0.88,
+   0.91,
+   0.95,
+   1.0,
+   0.9
+  ],
+  [
+   0.68,
+   0.75,
+   0.79,
+   0.83,
+   0.85,
+   0.9,
+   1.0
+  ]
+ ],
+ "baseline_eval_half": {
+  "doomed_ring": {
+   "own_after_pass": 0.985,
+   "read_alive": 1.0,
+   "capture": 0.0
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "read_alive": 1.0,
+   "capture": 0.003
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.264,
+   "read_alive": 0.3,
+   "capture": 0.491
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "read_alive": 1.0,
+   "capture": 0.007
+  }
+ },
+ "loop_direction": {
+  "doomed_ring": {
+   "own_after_pass": 0.058,
+   "read_alive": 0.488,
+   "capture": 0.233
+  },
+  "safe_ring": {
+   "own_after_pass": 0.547,
+   "read_alive": 0.825,
+   "capture": 0.02
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.139,
+   "read_alive": 0.325,
+   "capture": 0.49
+  },
+  "safe_edge": {
+   "own_after_pass": 0.811,
+   "read_alive": 0.923,
+   "capture": 0.018
+  }
+ },
+ "random_directions": [
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.986,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.249,
+    "read_alive": 0.3,
+    "capture": 0.484
+   },
+   "safe_edge": {
+    "own_after_pass": 0.968,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  },
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.985,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.993,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.257,
+    "read_alive": 0.275,
+    "capture": 0.492
+   },
+   "safe_edge": {
+    "own_after_pass": 0.969,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  },
+  {
+   "doomed_ring": {
+    "own_after_pass": 0.982,
+    "read_alive": 1.0,
+    "capture": 0.0
+   },
+   "safe_ring": {
+    "own_after_pass": 0.992,
+    "read_alive": 1.0,
+    "capture": 0.003
+   },
+   "doomed_edge": {
+    "own_after_pass": -0.267,
+    "read_alive": 0.3,
+    "capture": 0.488
+   },
+   "safe_edge": {
+    "own_after_pass": 0.968,
+    "read_alive": 1.0,
+    "capture": 0.007
+   }
+  }
+ ],
+ "share_of_gap_along_u": {
+  "block6": {
+   "gap_norm_over_edge_sd": 40.35
+  },
+  "block7": {
+   "gap_norm_over_edge_sd": 38.97
+  },
+  "block8": {
+   "gap_norm_over_edge_sd": 36.92
+  },
+  "block9": {
+   "gap_norm_over_edge_sd": 38.24
+  },
+  "block10": {
+   "gap_norm_over_edge_sd": 40.02
+  },
+  "block11": {
+   "gap_norm_over_edge_sd": 39.91
+  },
+  "block12": {
+   "gap_norm_over_edge_sd": 34.21
+  }
+ }
+}

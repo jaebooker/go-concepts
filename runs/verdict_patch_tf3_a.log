@@ -1,0 +1,2 @@
+tf3 4-11 baseline {'doomed_ring': (-0.73, 0.519), 'safe_ring': (0.984, 0.002), 'doomed_edge': (-0.511, 0.514), 'safe_edge': (0.979, 0.011)}
+tf3 4-11 patched  {'doomed_ring': (-0.652, 0.497), 'safe_ring': (0.999, 0.002), 'doomed_edge': (-0.64, 0.512), 'safe_edge': (0.984, 0.01)}

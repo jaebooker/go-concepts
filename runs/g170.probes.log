@@ -1,0 +1,110 @@
+libs input {'test_acc': 0.556, 'test_bal': 0.5, 'cyc_acc': 0.408, 'cyc_acc_on_cyclic_chains': 0.291, 'cyc_acc_off_cyclic_chains': 0.431, 'test_acc_4plus': 0.436, 'test_within1': 0.755, 'cyc_acc_4plus_cyclic': 0.111, 'cyc_within1_cyclic': 0.365}
+libs trunk0 {'test_acc': 0.549, 'test_bal': 0.524, 'cyc_acc': 0.459, 'cyc_acc_on_cyclic_chains': 0.423, 'cyc_acc_off_cyclic_chains': 0.466, 'test_acc_4plus': 0.427, 'test_within1': 0.793, 'cyc_acc_4plus_cyclic': 0.277, 'cyc_within1_cyclic': 0.526}
+libs block1 {'test_acc': 0.612, 'test_bal': 0.586, 'cyc_acc': 0.563, 'cyc_acc_on_cyclic_chains': 0.52, 'cyc_acc_off_cyclic_chains': 0.571, 'test_acc_4plus': 0.507, 'test_within1': 0.849, 'cyc_acc_4plus_cyclic': 0.399, 'cyc_within1_cyclic': 0.639}
+libs block2 {'test_acc': 0.661, 'test_bal': 0.632, 'cyc_acc': 0.615, 'cyc_acc_on_cyclic_chains': 0.572, 'cyc_acc_off_cyclic_chains': 0.623, 'test_acc_4plus': 0.569, 'test_within1': 0.885, 'cyc_acc_4plus_cyclic': 0.464, 'cyc_within1_cyclic': 0.668}
+libs block3 {'test_acc': 0.686, 'test_bal': 0.657, 'cyc_acc': 0.664, 'cyc_acc_on_cyclic_chains': 0.605, 'cyc_acc_off_cyclic_chains': 0.676, 'test_acc_4plus': 0.601, 'test_within1': 0.904, 'cyc_acc_4plus_cyclic': 0.512, 'cyc_within1_cyclic': 0.695}
+libs block4 {'test_acc': 0.683, 'test_bal': 0.659, 'cyc_acc': 0.676, 'cyc_acc_on_cyclic_chains': 0.602, 'cyc_acc_off_cyclic_chains': 0.69, 'test_acc_4plus': 0.598, 'test_within1': 0.906, 'cyc_acc_4plus_cyclic': 0.522, 'cyc_within1_cyclic': 0.696}
+libs block5 {'test_acc': 0.682, 'test_bal': 0.66, 'cyc_acc': 0.653, 'cyc_acc_on_cyclic_chains': 0.588, 'cyc_acc_off_cyclic_chains': 0.666, 'test_acc_4plus': 0.597, 'test_within1': 0.909, 'cyc_acc_4plus_cyclic': 0.526, 'cyc_within1_cyclic': 0.682}
+libs block6 {'test_acc': 0.672, 'test_bal': 0.656, 'cyc_acc': 0.653, 'cyc_acc_on_cyclic_chains': 0.584, 'cyc_acc_off_cyclic_chains': 0.666, 'test_acc_4plus': 0.586, 'test_within1': 0.905, 'cyc_acc_4plus_cyclic': 0.538, 'cyc_within1_cyclic': 0.688}
+libs block7 {'test_acc': 0.665, 'test_bal': 0.646, 'cyc_acc': 0.646, 'cyc_acc_on_cyclic_chains': 0.598, 'cyc_acc_off_cyclic_chains': 0.655, 'test_acc_4plus': 0.58, 'test_within1': 0.904, 'cyc_acc_4plus_cyclic': 0.554, 'cyc_within1_cyclic': 0.701}
+libs block8 {'test_acc': 0.654, 'test_bal': 0.638, 'cyc_acc': 0.631, 'cyc_acc_on_cyclic_chains': 0.578, 'cyc_acc_off_cyclic_chains': 0.641, 'test_acc_4plus': 0.572, 'test_within1': 0.897, 'cyc_acc_4plus_cyclic': 0.557, 'cyc_within1_cyclic': 0.694}
+libs block9 {'test_acc': 0.647, 'test_bal': 0.635, 'cyc_acc': 0.627, 'cyc_acc_on_cyclic_chains': 0.581, 'cyc_acc_off_cyclic_chains': 0.636, 'test_acc_4plus': 0.568, 'test_within1': 0.891, 'cyc_acc_4plus_cyclic': 0.561, 'cyc_within1_cyclic': 0.69}
+libs block10 {'test_acc': 0.633, 'test_bal': 0.618, 'cyc_acc': 0.608, 'cyc_acc_on_cyclic_chains': 0.574, 'cyc_acc_off_cyclic_chains': 0.614, 'test_acc_4plus': 0.554, 'test_within1': 0.888, 'cyc_acc_4plus_cyclic': 0.561, 'cyc_within1_cyclic': 0.683}
+libs block11 {'test_acc': 0.633, 'test_bal': 0.622, 'cyc_acc': 0.617, 'cyc_acc_on_cyclic_chains': 0.575, 'cyc_acc_off_cyclic_chains': 0.625, 'test_acc_4plus': 0.556, 'test_within1': 0.885, 'cyc_acc_4plus_cyclic': 0.567, 'cyc_within1_cyclic': 0.683}
+libs block12 {'test_acc': 0.622, 'test_bal': 0.61, 'cyc_acc': 0.582, 'cyc_acc_on_cyclic_chains': 0.524, 'cyc_acc_off_cyclic_chains': 0.593, 'test_acc_4plus': 0.545, 'test_within1': 0.885, 'cyc_acc_4plus_cyclic': 0.536, 'cyc_within1_cyclic': 0.658}
+libs block13 {'test_acc': 0.607, 'test_bal': 0.596, 'cyc_acc': 0.572, 'cyc_acc_on_cyclic_chains': 0.541, 'cyc_acc_off_cyclic_chains': 0.579, 'test_acc_4plus': 0.532, 'test_within1': 0.88, 'cyc_acc_4plus_cyclic': 0.532, 'cyc_within1_cyclic': 0.676}
+libs block14 {'test_acc': 0.593, 'test_bal': 0.584, 'cyc_acc': 0.553, 'cyc_acc_on_cyclic_chains': 0.532, 'cyc_acc_off_cyclic_chains': 0.558, 'test_acc_4plus': 0.521, 'test_within1': 0.871, 'cyc_acc_4plus_cyclic': 0.532, 'cyc_within1_cyclic': 0.678}
+libs block15 {'test_acc': 0.579, 'test_bal': 0.567, 'cyc_acc': 0.534, 'cyc_acc_on_cyclic_chains': 0.518, 'cyc_acc_off_cyclic_chains': 0.537, 'test_acc_4plus': 0.516, 'test_within1': 0.873, 'cyc_acc_4plus_cyclic': 0.535, 'cyc_within1_cyclic': 0.676}
+libs block16 {'test_acc': 0.568, 'test_bal': 0.562, 'cyc_acc': 0.522, 'cyc_acc_on_cyclic_chains': 0.496, 'cyc_acc_off_cyclic_chains': 0.527, 'test_acc_4plus': 0.509, 'test_within1': 0.863, 'cyc_acc_4plus_cyclic': 0.545, 'cyc_within1_cyclic': 0.666}
+libs block17 {'test_acc': 0.552, 'test_bal': 0.545, 'cyc_acc': 0.519, 'cyc_acc_on_cyclic_chains': 0.472, 'cyc_acc_off_cyclic_chains': 0.528, 'test_acc_4plus': 0.496, 'test_within1': 0.857, 'cyc_acc_4plus_cyclic': 0.519, 'cyc_within1_cyclic': 0.655}
+libs block18 {'test_acc': 0.535, 'test_bal': 0.535, 'cyc_acc': 0.511, 'cyc_acc_on_cyclic_chains': 0.501, 'cyc_acc_off_cyclic_chains': 0.513, 'test_acc_4plus': 0.477, 'test_within1': 0.849, 'cyc_acc_4plus_cyclic': 0.546, 'cyc_within1_cyclic': 0.666}
+libs block19 {'test_acc': 0.533, 'test_bal': 0.529, 'cyc_acc': 0.511, 'cyc_acc_on_cyclic_chains': 0.472, 'cyc_acc_off_cyclic_chains': 0.518, 'test_acc_4plus': 0.479, 'test_within1': 0.845, 'cyc_acc_4plus_cyclic': 0.529, 'cyc_within1_cyclic': 0.644}
+libs block20 {'test_acc': 0.509, 'test_bal': 0.498, 'cyc_acc': 0.495, 'cyc_acc_on_cyclic_chains': 0.486, 'cyc_acc_off_cyclic_chains': 0.497, 'test_acc_4plus': 0.468, 'test_within1': 0.834, 'cyc_acc_4plus_cyclic': 0.563, 'cyc_within1_cyclic': 0.635}
+pass_alive input {'test_acc': 0.573, 'test_bal': 0.786, 'cyc_acc': 0.591, 'cyc_acc_on_cyclic_chains': 0.649, 'cyc_acc_off_cyclic_chains': 0.58}
+pass_alive trunk0 {'test_acc': 0.842, 'test_bal': 0.771, 'cyc_acc': 0.626, 'cyc_acc_on_cyclic_chains': 0.338, 'cyc_acc_off_cyclic_chains': 0.682}
+pass_alive block1 {'test_acc': 0.914, 'test_bal': 0.857, 'cyc_acc': 0.749, 'cyc_acc_on_cyclic_chains': 0.544, 'cyc_acc_off_cyclic_chains': 0.789}
+pass_alive block2 {'test_acc': 0.933, 'test_bal': 0.817, 'cyc_acc': 0.771, 'cyc_acc_on_cyclic_chains': 0.546, 'cyc_acc_off_cyclic_chains': 0.815}
+pass_alive block3 {'test_acc': 0.934, 'test_bal': 0.867, 'cyc_acc': 0.763, 'cyc_acc_on_cyclic_chains': 0.528, 'cyc_acc_off_cyclic_chains': 0.809}
+pass_alive block4 {'test_acc': 0.933, 'test_bal': 0.867, 'cyc_acc': 0.731, 'cyc_acc_on_cyclic_chains': 0.51, 'cyc_acc_off_cyclic_chains': 0.774}
+pass_alive block5 {'test_acc': 0.944, 'test_bal': 0.822, 'cyc_acc': 0.761, 'cyc_acc_on_cyclic_chains': 0.591, 'cyc_acc_off_cyclic_chains': 0.794}
+pass_alive block6 {'test_acc': 0.945, 'test_bal': 0.723, 'cyc_acc': 0.765, 'cyc_acc_on_cyclic_chains': 0.618, 'cyc_acc_off_cyclic_chains': 0.794}
+pass_alive block7 {'test_acc': 0.948, 'test_bal': 0.824, 'cyc_acc': 0.788, 'cyc_acc_on_cyclic_chains': 0.668, 'cyc_acc_off_cyclic_chains': 0.811}
+pass_alive block8 {'test_acc': 0.945, 'test_bal': 0.923, 'cyc_acc': 0.8, 'cyc_acc_on_cyclic_chains': 0.729, 'cyc_acc_off_cyclic_chains': 0.814}
+pass_alive block9 {'test_acc': 0.944, 'test_bal': 0.972, 'cyc_acc': 0.801, 'cyc_acc_on_cyclic_chains': 0.737, 'cyc_acc_off_cyclic_chains': 0.814}
+pass_alive block10 {'test_acc': 0.939, 'test_bal': 0.97, 'cyc_acc': 0.791, 'cyc_acc_on_cyclic_chains': 0.732, 'cyc_acc_off_cyclic_chains': 0.803}
+pass_alive block11 {'test_acc': 0.942, 'test_bal': 0.971, 'cyc_acc': 0.778, 'cyc_acc_on_cyclic_chains': 0.72, 'cyc_acc_off_cyclic_chains': 0.79}
+pass_alive block12 {'test_acc': 0.944, 'test_bal': 0.972, 'cyc_acc': 0.787, 'cyc_acc_on_cyclic_chains': 0.743, 'cyc_acc_off_cyclic_chains': 0.795}
+pass_alive block13 {'test_acc': 0.94, 'test_bal': 0.92, 'cyc_acc': 0.768, 'cyc_acc_on_cyclic_chains': 0.677, 'cyc_acc_off_cyclic_chains': 0.786}
+pass_alive block14 {'test_acc': 0.945, 'test_bal': 0.923, 'cyc_acc': 0.773, 'cyc_acc_on_cyclic_chains': 0.682, 'cyc_acc_off_cyclic_chains': 0.791}
+pass_alive block15 {'test_acc': 0.931, 'test_bal': 0.965, 'cyc_acc': 0.752, 'cyc_acc_on_cyclic_chains': 0.659, 'cyc_acc_off_cyclic_chains': 0.77}
+pass_alive block16 {'test_acc': 0.936, 'test_bal': 0.868, 'cyc_acc': 0.779, 'cyc_acc_on_cyclic_chains': 0.69, 'cyc_acc_off_cyclic_chains': 0.796}
+pass_alive block17 {'test_acc': 0.937, 'test_bal': 0.869, 'cyc_acc': 0.733, 'cyc_acc_on_cyclic_chains': 0.683, 'cyc_acc_off_cyclic_chains': 0.743}
+pass_alive block18 {'test_acc': 0.932, 'test_bal': 0.866, 'cyc_acc': 0.643, 'cyc_acc_on_cyclic_chains': 0.592, 'cyc_acc_off_cyclic_chains': 0.653}
+pass_alive block19 {'test_acc': 0.935, 'test_bal': 0.917, 'cyc_acc': 0.71, 'cyc_acc_on_cyclic_chains': 0.636, 'cyc_acc_off_cyclic_chains': 0.725}
+pass_alive block20 {'test_acc': 0.934, 'test_bal': 0.867, 'cyc_acc': 0.708, 'cyc_acc_on_cyclic_chains': 0.616, 'cyc_acc_off_cyclic_chains': 0.725}
+eyespace input {'test_acc': 0.127, 'test_bal': 0.384, 'cyc_acc': 0.184, 'cyc_acc_on_cyclic_chains': 0.348, 'cyc_acc_off_cyclic_chains': 0.151}
+eyespace trunk0 {'test_acc': 0.663, 'test_bal': 0.546, 'cyc_acc': 0.472, 'cyc_acc_on_cyclic_chains': 0.305, 'cyc_acc_off_cyclic_chains': 0.504}
+eyespace block1 {'test_acc': 0.801, 'test_bal': 0.687, 'cyc_acc': 0.548, 'cyc_acc_on_cyclic_chains': 0.314, 'cyc_acc_off_cyclic_chains': 0.594}
+eyespace block2 {'test_acc': 0.796, 'test_bal': 0.692, 'cyc_acc': 0.544, 'cyc_acc_on_cyclic_chains': 0.295, 'cyc_acc_off_cyclic_chains': 0.593}
+eyespace block3 {'test_acc': 0.802, 'test_bal': 0.704, 'cyc_acc': 0.536, 'cyc_acc_on_cyclic_chains': 0.313, 'cyc_acc_off_cyclic_chains': 0.58}
+eyespace block4 {'test_acc': 0.808, 'test_bal': 0.723, 'cyc_acc': 0.529, 'cyc_acc_on_cyclic_chains': 0.305, 'cyc_acc_off_cyclic_chains': 0.573}
+eyespace block5 {'test_acc': 0.805, 'test_bal': 0.716, 'cyc_acc': 0.521, 'cyc_acc_on_cyclic_chains': 0.296, 'cyc_acc_off_cyclic_chains': 0.565}
+eyespace block6 {'test_acc': 0.8, 'test_bal': 0.715, 'cyc_acc': 0.517, 'cyc_acc_on_cyclic_chains': 0.291, 'cyc_acc_off_cyclic_chains': 0.561}
+eyespace block7 {'test_acc': 0.799, 'test_bal': 0.718, 'cyc_acc': 0.489, 'cyc_acc_on_cyclic_chains': 0.291, 'cyc_acc_off_cyclic_chains': 0.528}
+eyespace block8 {'test_acc': 0.796, 'test_bal': 0.718, 'cyc_acc': 0.485, 'cyc_acc_on_cyclic_chains': 0.287, 'cyc_acc_off_cyclic_chains': 0.524}
+eyespace block9 {'test_acc': 0.788, 'test_bal': 0.708, 'cyc_acc': 0.465, 'cyc_acc_on_cyclic_chains': 0.282, 'cyc_acc_off_cyclic_chains': 0.501}
+eyespace block10 {'test_acc': 0.787, 'test_bal': 0.703, 'cyc_acc': 0.47, 'cyc_acc_on_cyclic_chains': 0.29, 'cyc_acc_off_cyclic_chains': 0.505}
+eyespace block11 {'test_acc': 0.781, 'test_bal': 0.688, 'cyc_acc': 0.456, 'cyc_acc_on_cyclic_chains': 0.284, 'cyc_acc_off_cyclic_chains': 0.49}
+eyespace block12 {'test_acc': 0.768, 'test_bal': 0.686, 'cyc_acc': 0.466, 'cyc_acc_on_cyclic_chains': 0.3, 'cyc_acc_off_cyclic_chains': 0.499}
+eyespace block13 {'test_acc': 0.763, 'test_bal': 0.676, 'cyc_acc': 0.456, 'cyc_acc_on_cyclic_chains': 0.297, 'cyc_acc_off_cyclic_chains': 0.487}
+eyespace block14 {'test_acc': 0.757, 'test_bal': 0.673, 'cyc_acc': 0.437, 'cyc_acc_on_cyclic_chains': 0.283, 'cyc_acc_off_cyclic_chains': 0.467}
+eyespace block15 {'test_acc': 0.756, 'test_bal': 0.685, 'cyc_acc': 0.442, 'cyc_acc_on_cyclic_chains': 0.285, 'cyc_acc_off_cyclic_chains': 0.473}
+eyespace block16 {'test_acc': 0.752, 'test_bal': 0.673, 'cyc_acc': 0.431, 'cyc_acc_on_cyclic_chains': 0.294, 'cyc_acc_off_cyclic_chains': 0.458}
+eyespace block17 {'test_acc': 0.745, 'test_bal': 0.691, 'cyc_acc': 0.418, 'cyc_acc_on_cyclic_chains': 0.268, 'cyc_acc_off_cyclic_chains': 0.447}
+eyespace block18 {'test_acc': 0.743, 'test_bal': 0.652, 'cyc_acc': 0.411, 'cyc_acc_on_cyclic_chains': 0.263, 'cyc_acc_off_cyclic_chains': 0.44}
+eyespace block19 {'test_acc': 0.736, 'test_bal': 0.666, 'cyc_acc': 0.409, 'cyc_acc_on_cyclic_chains': 0.318, 'cyc_acc_off_cyclic_chains': 0.427}
+eyespace block20 {'test_acc': 0.721, 'test_bal': 0.66, 'cyc_acc': 0.432, 'cyc_acc_on_cyclic_chains': 0.286, 'cyc_acc_off_cyclic_chains': 0.46}
+ladder input {'test_acc': 0.994, 'test_bal': 0.993, 'cyc_acc': 0.95, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 1.0}
+ladder trunk0 {'test_acc': 1.0, 'test_bal': 1.0, 'cyc_acc': 1.0, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 1.0}
+ladder block1 {'test_acc': 1.0, 'test_bal': 1.0, 'cyc_acc': 0.998, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.998}
+ladder block2 {'test_acc': 0.997, 'test_bal': 0.997, 'cyc_acc': 0.998, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.998}
+ladder block3 {'test_acc': 1.0, 'test_bal': 1.0, 'cyc_acc': 0.994, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.994}
+ladder block4 {'test_acc': 1.0, 'test_bal': 1.0, 'cyc_acc': 0.99, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.989}
+ladder block5 {'test_acc': 0.994, 'test_bal': 0.994, 'cyc_acc': 0.975, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.972}
+ladder block6 {'test_acc': 0.994, 'test_bal': 0.994, 'cyc_acc': 0.99, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.989}
+ladder block7 {'test_acc': 0.988, 'test_bal': 0.988, 'cyc_acc': 0.989, 'cyc_acc_on_cyclic_chains': 1.0, 'cyc_acc_off_cyclic_chains': 0.987}
+ladder block8 {'test_acc': 0.991, 'test_bal': 0.99, 'cyc_acc': 0.968, 'cyc_acc_on_cyclic_chains': 0.981, 'cyc_acc_off_cyclic_chains': 0.966}
+ladder block9 {'test_acc': 0.991, 'test_bal': 0.99, 'cyc_acc': 0.964, 'cyc_acc_on_cyclic_chains': 0.906, 'cyc_acc_off_cyclic_chains': 0.97}
+ladder block10 {'test_acc': 0.988, 'test_bal': 0.988, 'cyc_acc': 0.962, 'cyc_acc_on_cyclic_chains': 0.887, 'cyc_acc_off_cyclic_chains': 0.97}
+ladder block11 {'test_acc': 0.988, 'test_bal': 0.988, 'cyc_acc': 0.947, 'cyc_acc_on_cyclic_chains': 0.849, 'cyc_acc_off_cyclic_chains': 0.958}
+ladder block12 {'test_acc': 0.981, 'test_bal': 0.981, 'cyc_acc': 0.968, 'cyc_acc_on_cyclic_chains': 0.981, 'cyc_acc_off_cyclic_chains': 0.966}
+ladder block13 {'test_acc': 0.978, 'test_bal': 0.979, 'cyc_acc': 0.973, 'cyc_acc_on_cyclic_chains': 0.943, 'cyc_acc_off_cyclic_chains': 0.977}
+ladder block14 {'test_acc': 0.963, 'test_bal': 0.963, 'cyc_acc': 0.962, 'cyc_acc_on_cyclic_chains': 0.943, 'cyc_acc_off_cyclic_chains': 0.964}
+ladder block15 {'test_acc': 0.966, 'test_bal': 0.966, 'cyc_acc': 0.928, 'cyc_acc_on_cyclic_chains': 0.83, 'cyc_acc_off_cyclic_chains': 0.939}
+ladder block16 {'test_acc': 0.966, 'test_bal': 0.967, 'cyc_acc': 0.842, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 0.879}
+ladder block17 {'test_acc': 0.957, 'test_bal': 0.958, 'cyc_acc': 0.869, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.911}
+ladder block18 {'test_acc': 0.95, 'test_bal': 0.951, 'cyc_acc': 0.83, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.869}
+ladder block19 {'test_acc': 0.96, 'test_bal': 0.961, 'cyc_acc': 0.808, 'cyc_acc_on_cyclic_chains': 0.509, 'cyc_acc_off_cyclic_chains': 0.841}
+ladder block20 {'test_acc': 0.963, 'test_bal': 0.963, 'cyc_acc': 0.829, 'cyc_acc_on_cyclic_chains': 0.491, 'cyc_acc_off_cyclic_chains': 0.867}
+same_chain input {'test_bal': 0.52, 'cyc_bal': 0.573, 'cyc_bal_cyclic_pairs': 0.586}
+same_chain trunk0 {'test_bal': 0.779, 'cyc_bal': 0.799, 'cyc_bal_cyclic_pairs': 0.827}
+same_chain block1 {'test_bal': 0.791, 'cyc_bal': 0.809, 'cyc_bal_cyclic_pairs': 0.85}
+same_chain block2 {'test_bal': 0.795, 'cyc_bal': 0.808, 'cyc_bal_cyclic_pairs': 0.869}
+same_chain block3 {'test_bal': 0.8, 'cyc_bal': 0.811, 'cyc_bal_cyclic_pairs': 0.868}
+same_chain block4 {'test_bal': 0.794, 'cyc_bal': 0.813, 'cyc_bal_cyclic_pairs': 0.859}
+same_chain block5 {'test_bal': 0.805, 'cyc_bal': 0.795, 'cyc_bal_cyclic_pairs': 0.836}
+same_chain block6 {'test_bal': 0.809, 'cyc_bal': 0.808, 'cyc_bal_cyclic_pairs': 0.85}
+same_chain block7 {'test_bal': 0.811, 'cyc_bal': 0.845, 'cyc_bal_cyclic_pairs': 0.896}
+same_chain block8 {'test_bal': 0.824, 'cyc_bal': 0.84, 'cyc_bal_cyclic_pairs': 0.88}
+same_chain block9 {'test_bal': 0.824, 'cyc_bal': 0.845, 'cyc_bal_cyclic_pairs': 0.886}
+same_chain block10 {'test_bal': 0.824, 'cyc_bal': 0.841, 'cyc_bal_cyclic_pairs': 0.896}
+same_chain block11 {'test_bal': 0.829, 'cyc_bal': 0.819, 'cyc_bal_cyclic_pairs': 0.875}
+same_chain block12 {'test_bal': 0.823, 'cyc_bal': 0.827, 'cyc_bal_cyclic_pairs': 0.871}
+same_chain block13 {'test_bal': 0.819, 'cyc_bal': 0.828, 'cyc_bal_cyclic_pairs': 0.878}
+same_chain block14 {'test_bal': 0.821, 'cyc_bal': 0.82, 'cyc_bal_cyclic_pairs': 0.876}
+same_chain block15 {'test_bal': 0.814, 'cyc_bal': 0.81, 'cyc_bal_cyclic_pairs': 0.862}
+same_chain block16 {'test_bal': 0.818, 'cyc_bal': 0.802, 'cyc_bal_cyclic_pairs': 0.844}
+same_chain block17 {'test_bal': 0.813, 'cyc_bal': 0.777, 'cyc_bal_cyclic_pairs': 0.81}
+same_chain block18 {'test_bal': 0.797, 'cyc_bal': 0.803, 'cyc_bal_cyclic_pairs': 0.859}
+same_chain block19 {'test_bal': 0.797, 'cyc_bal': 0.794, 'cyc_bal_cyclic_pairs': 0.859}
+same_chain block20 {'test_bal': 0.797, 'cyc_bal': 0.785, 'cyc_bal_cyclic_pairs': 0.837}

@@ -1,0 +1,25 @@
+  10/150
+  20/150
+  30/150
+  40/150
+  50/150
+  60/150
+  70/150
+  80/150
+  90/150
+  100/150
+  110/150
+  120/150
+  130/150
+  140/150
+  150/150
+tf3 std doomed {'n': 20, 'own_after_pass': -0.581, 'frac_read_alive': 0.2, 'capture': 0.463}
+tf3 std safe {'n': 10, 'own_after_pass': 0.986, 'frac_read_alive': 1.0, 'capture': 0.003}
+tf3 thick doomed {'n': 20, 'own_after_pass': -0.883, 'frac_read_alive': 0.05, 'capture': 0.5}
+tf3 thick safe {'n': 10, 'own_after_pass': 0.989, 'frac_read_alive': 1.0, 'capture': 0.002}
+tf3 tail doomed {'n': 20, 'own_after_pass': -0.601, 'frac_read_alive': 0.2, 'capture': 0.37}
+tf3 tail safe {'n': 10, 'own_after_pass': 0.989, 'frac_read_alive': 1.0, 'capture': 0.0}
+tf3 edge1 doomed {'n': 20, 'own_after_pass': -0.713, 'frac_read_alive': 0.1, 'capture': 0.433}
+tf3 edge1 safe {'n': 10, 'own_after_pass': 0.979, 'frac_read_alive': 1.0, 'capture': 0.001}
+tf3 big doomed {'n': 20, 'own_after_pass': -0.617, 'frac_read_alive': 0.15, 'capture': 0.407}
+tf3 big safe {'n': 10, 'own_after_pass': 0.994, 'frac_read_alive': 1.0, 'capture': 0.001}

@@ -1,0 +1,10 @@
+death-type among top 32 writers: 29
+8 death {'dr': {'own': 0.881, 'capture': 0.0}, 'de': {'own': -0.345, 'capture': 0.487}, 'sr': {'own': 0.993, 'capture': 0.004}, 'se': {'own': 0.969, 'capture': 0.007}} 
+   random {'dr': {'own': 0.984, 'capture': 0.0}, 'de': {'own': -0.264, 'capture': 0.489}, 'sr': {'own': 0.993, 'capture': 0.003}, 'se': {'own': 0.969, 'capture': 0.007}}
+16 death {'dr': {'own': 0.809, 'capture': 0.0}, 'de': {'own': -0.353, 'capture': 0.487}, 'sr': {'own': 0.992, 'capture': 0.004}, 'se': {'own': 0.972, 'capture': 0.007}} 
+   random {'dr': {'own': 0.986, 'capture': 0.0}, 'de': {'own': -0.269, 'capture': 0.493}, 'sr': {'own': 0.993, 'capture': 0.003}, 'se': {'own': 0.969, 'capture': 0.007}}
+32 death {'dr': {'own': 0.767, 'capture': 0.0}, 'de': {'own': -0.354, 'capture': 0.486}, 'sr': {'own': 0.991, 'capture': 0.004}, 'se': {'own': 0.972, 'capture': 0.007}} 
+   random {'dr': {'own': 0.985, 'capture': 0.0}, 'de': {'own': -0.275, 'capture': 0.495}, 'sr': {'own': 0.993, 'capture': 0.004}, 'se': {'own': 0.968, 'capture': 0.007}}
+loop reading baseline {'dr': {'own': 0.985, 'capture': None}, 'de': {'own': -0.264, 'capture': None}, 'sr': {'own': 0.993, 'capture': None}, 'se': {'own': 0.969, 'capture': None}, 'death_act_doomed_loop_over_doomed_edge': 0.102, 'death_act_safe_loop_over_doomed_edge': 0.085}
+loop reading hold_at_input_of_block19 {'dr': {'own': 0.97, 'capture': None}, 'de': {'own': -0.254, 'capture': None}, 'sr': {'own': 0.983, 'capture': None}, 'se': {'own': 0.967, 'capture': None}, 'death_act_doomed_loop_over_doomed_edge': 0.077, 'death_act_safe_loop_over_doomed_edge': 0.056}
+loop reading hold_blocks6-12 {'dr': {'own': 0.258, 'capture': None}, 'de': {'own': -0.098, 'capture': None}, 'sr': {'own': 0.648, 'capture': None}, 'se': {'own': 0.899, 'capture': None}, 'death_act_doomed_loop_over_doomed_edge': 0.783, 'death_act_safe_loop_over_doomed_edge': 0.42}

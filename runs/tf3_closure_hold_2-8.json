@@ -1,0 +1,78 @@
+{
+ "blocks": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "n_eval": 120,
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": -0.65,
+   "capture": 0.517,
+   "n": 30
+  },
+  "safe_ring": {
+   "own_after_pass": 0.983,
+   "capture": 0.002,
+   "n": 30
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.431,
+   "capture": 0.491,
+   "n": 30
+  },
+  "safe_edge": {
+   "own_after_pass": 0.977,
+   "capture": 0.007,
+   "n": 30
+  }
+ },
+ "swap_closure": {
+  "doomed_ring": {
+   "own_after_pass": -0.738,
+   "capture": 0.669,
+   "n": 30
+  },
+  "safe_ring": {
+   "own_after_pass": 0.974,
+   "capture": 0.002,
+   "n": 30
+  },
+  "doomed_edge": {
+   "own_after_pass": 0.678,
+   "capture": 0.081,
+   "n": 30
+  },
+  "safe_edge": {
+   "own_after_pass": 0.992,
+   "capture": 0.007,
+   "n": 30
+  }
+ },
+ "swap_random": {
+  "doomed_ring": {
+   "own_after_pass": -0.652,
+   "capture": 0.533,
+   "n": 30
+  },
+  "safe_ring": {
+   "own_after_pass": 0.983,
+   "capture": 0.002,
+   "n": 30
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.43,
+   "capture": 0.49,
+   "n": 30
+  },
+  "safe_edge": {
+   "own_after_pass": 0.977,
+   "capture": 0.007,
+   "n": 30
+  }
+ }
+}

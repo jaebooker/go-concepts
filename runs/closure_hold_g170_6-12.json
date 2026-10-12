@@ -1,0 +1,90 @@
+{
+ "net": "g170",
+ "blocks": "6-12",
+ "rings_minus_edges_along_closure_dir_sd": {
+  "move": {
+   "block6": 1.6,
+   "block7": 1.71,
+   "block8": 1.67,
+   "block9": 1.72,
+   "block10": 1.7,
+   "block11": 1.73,
+   "block12": 1.51
+  },
+  "pass": {
+   "block6": 1.76,
+   "block7": 1.76,
+   "block8": 1.68,
+   "block9": 1.68,
+   "block10": 1.67,
+   "block11": 1.61,
+   "block12": 1.45
+  }
+ },
+ "baseline": {
+  "doomed_ring": {
+   "own_after_pass": 0.985,
+   "capture": 0.0,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "capture": 0.003,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.264,
+   "capture": 0.491,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "capture": 0.007,
+   "n": 39
+  }
+ },
+ "hold_closure_direction": {
+  "doomed_ring": {
+   "own_after_pass": 0.913,
+   "capture": 0.002,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.934,
+   "capture": 0.003,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.261,
+   "capture": 0.502,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.913,
+   "capture": 0.016,
+   "n": 39
+  }
+ },
+ "hold_random": {
+  "doomed_ring": {
+   "own_after_pass": 0.986,
+   "capture": 0.0,
+   "n": 41
+  },
+  "safe_ring": {
+   "own_after_pass": 0.993,
+   "capture": 0.003,
+   "n": 40
+  },
+  "doomed_edge": {
+   "own_after_pass": -0.263,
+   "capture": 0.49,
+   "n": 40
+  },
+  "safe_edge": {
+   "own_after_pass": 0.969,
+   "capture": 0.007,
+   "n": 39
+  }
+ }
+}

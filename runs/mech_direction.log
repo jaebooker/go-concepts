@@ -1,0 +1,5 @@
+baseline_eval_half {'doomed_ring': (0.985, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.264, 0.491), 'safe_edge': (0.969, 0.007)}
+loop_direction {'doomed_ring': (0.086, 0.207), 'safe_ring': (0.496, 0.022), 'doomed_edge': (-0.119, 0.47), 'safe_edge': (0.8, 0.019)}
+random {'doomed_ring': (0.984, 0.0), 'safe_ring': (0.993, 0.003), 'doomed_edge': (-0.302, 0.487), 'safe_edge': (0.969, 0.007)}
+random {'doomed_ring': (0.981, 0.0), 'safe_ring': (0.99, 0.004), 'doomed_edge': (-0.277, 0.491), 'safe_edge': (0.964, 0.007)}
+random {'doomed_ring': (0.982, 0.0), 'safe_ring': (0.991, 0.004), 'doomed_edge': (-0.234, 0.478), 'safe_edge': (0.966, 0.007)}
